@@ -1,75 +1,84 @@
+Blood Pressure, Hypertension, and the Risk of Aortic Dissection Incidence and Mortality: Results From the J-SCH Study, the UK Biobank Study, and a Meta-Analysis of Cohort Studies
 
-As the amount of genomic data for nonmodel taxa grows, it is increasingly clear that gene flow across species barriers in insects is much more common than previously thought. In recent years, the decreased cost and increased accuracy of long-read sequencing has enabled the assembly of high- quality reference genomes and chromosome maps for nonmodel insects. With this long-read data, we can now not only compare variation across the genome among homologous genes between species, which has been the basis of phylogenetics for more than 30 years, but also tease apart evidence of ancient and recent hybridization and gene flow. The implications of hybridization for species adaptation may be more positive than previously considered, explaining its prevalence across many groups of insects. Unfortunately, due to anthropogenic actions, some pest species appear to be benefitting from hybridization and gene flow, facilitating future invasions.
+Summary:
+The research article delves into the relationship between hypertension or elevated blood pressure (BP) and the risk of aortic dissection (AD). Despite hypertension being a known risk factor for AD, there have been limited prospective studies on this topic. This research analyzed data from two significant cohorts: the J-SHC study (Japan-Specific Health Checkups) and the UK Biobank, with over 500,000 participants each. Using multivariable Cox regression, the study estimated hazard ratios to understand the association of hypertension/elevated BP with AD incidence and mortality. The results from both cohorts and a meta-analysis of other studies indicated a strong positive dose-response relationship between BP and AD risk. The research concluded that hypertension and elevated systolic and diastolic BP significantly increase the risk of AD, even within the normal BP range.
 
+Study Design and Rationale: 
 
-Hybridization may not be an anomaly Hybridization between species had always been con- sidered a rare event, an evolutionary fluke that usually results in wasted reproductive effort. In fact, one of Darwin’s primary questions regarded sterility and ferti- lity in hybrids. It was thought that when crossing in- dividuals, if the offspring failed to develop or were
+Comprehensive Approach - The study utilized data from two large cohorts and conducted a meta-analysis. This comprehensive approach enhances the validity of the findings and allows for better generalization across different populations. Using multiple sources of data can provide a more holistic understanding and reduce biases that might be present in a single dataset.
+Stated Hypothesis - The research does not explicitly state a hypothesis in the provided content. However, the objective is clear: to investigate the association between hypertension/elevated BP and AD.
+Research Question and Study Design - The research question focuses on understanding the relationship between elevated blood pressure or hypertension and the risk of aortic dissection. The study design, which includes analyzing data from two large cohorts and conducting a meta-analysis, is appropriate for this type of research question as it allows for a comprehensive examination of the association across different populations and contexts.
 
+Background and Rationale:
 
-sterile, it suggested that the two parents were separate species (biological species concept). However, we know now that this is an oversimplification of the evolutionary process and species concepts have to be more nuanced to be useful [11]. For example, reinforcement, the pro- cess by which females evolve prezygotic reproductive barriers, is thought to be caused by selection against hybridization [33]. The benefits to individuals, espe- cially females, of interspecific mating, were thought to be typically outweighed by the risk of hybrid inviability, or lower fitness due to factors such as a lack of adaptation to either parent species’ particular niches [25]. However, the advent of widespread genomic data shows that hy- bridization between species is far more common than previously understood [18]. This not only has implica- tions for understanding the process of speciation but also practical consequences and it changes the outcomes we may expect from increased globalization.
+Hypertension or elevated blood pressure (BP) is identified as a significant risk factor for aortic dissection (AD). However, there have been limited prospective studies on this topic.
+The research aimed to fill the knowledge gap by investigating the association between hypertension/elevated BP and AD using two large cohorts and a meta-analysis of published studies.
 
-Especially for economically important insects, hy- bridization and gene flow are postulated to be the cause of much of the taxonomic confusion in many species complexes. For example, the Oriental fruit fly, Bactrocera dorsalis, and its sister species are major global economic pests that have been shown to share mtDNA due to introgression, which hinders species identification [23,3,8]. Helicoverpa armigera, the cotton bollworm, an- other polyphagous global agricultural pest, hybridizes with H. zea. Instead of being consistently dis- advantageous, such hybridization appears to increase the opportunity for novel genotypes/ecotypes that may be more pestiferous [1,5]. Hybridization in social insects, in particular, is thought to frequently increase invasive- ness [12]. Africanized honeybees, Apis mellifera scutellata, are a well-known example where the hybrid is much more aggressive than either of its parental lineages [4]. In ants, Solenopsis geminata and S. xyloni can hybridize where these species are sympatric [27]. Solenopsis xyloni colonies contain multiple queens and when they mate with S. geminata queens, they only produce workers, not males. Hybrid workers display greater forging efficiency and hardiness than nonhybrid workers, increasing the fitness of the hybrid colony [2]. In termites, Coptotermes formosanus and C. gestroi naturally hybridize where they overlap and hybrid colonies grow twice as fast and dis- play wider thermal tolerances than either parental spe- cies [22]. However, it may be expected that the effects
+Methods:
 
+J-SHC Study (Japan-Specific Health Checkups): This study was based on health checkups for Japanese inhabitants aged between 40 and 74. The study followed participants until they reached 75 years of age. The outcome was AD death, determined from death certificates.
+UK Biobank: This was a large-scale prospective cohort study involving participants aged 40 to 69. The primary outcome was the incidence of AD, determined from hospital admission or death records.
+Meta-Analysis: The researchers conducted a systematic review and meta-analysis in line with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. They included published retrospective or prospective cohort studies and nested case-control studies within prospective studies.
 
+Results:
 
+In both the J-SHC study and UK Biobank, there was a significant association between hypertension/elevated BP and AD incidence. The risk of AD was found to be positively dose-dependent, even within the normal BP range.
+The meta-analysis further reinforced these findings, showing a strong, positive dose-response relationship between BP and AD.
 
+Discussion:
 
-of hybridization are a mix of evolutionarily beneficial and detrimental consequences, leading to complex patterns of reproductive barriers between taxa that do not always reflect phylogenetic proximity. Indeed, Limnoporus water striders exemplify this potential complexity where a sister species pair that comes into direct contact, maintains barriers to gene flow, while more distantly related, nonparapatric species does not, potentially en- abling more gene flow across more distantly related taxa [26].
+The research is among the most extensive studies on the association between BP and the risk of AD.
+The findings underscore the importance of managing and optimizing blood pressure to prevent AD, a severe condition with potentially catastrophic complications.
+The study also highlights the need for further research to understand the nuances of the relationship between BP and AD, especially considering the dose-dependent risk even within the normal BP range.
 
-Technical challenges
-Although molecular data have been vital for under- standing gene flow, not all data are equally useful, and in the last 50 years, major advances in DNA sequencing technologies have been critical to our increased under- standing of the importance of hybridization. Not all published genomes are equal and although studies re- lying on ‘genomic’ data have been coming out for dec- ades, there is a distinct difference in recently published genomes in terms of number and length of contigs and completeness of the genomes due to increased adoption of new sequencing technologies. The most popular second-generation genome sequencing technology (Illumina) uses a sequencing-by-synthesis approach whereby DNA is cut into short fragments and the terminal ends of these fragments are sequenced, usually providing reads between 25 and 300 base pairs (bp) in length. Although highly cost-effective and accurate, this approach has major shortcomings due to the short-read length and the computational intensity needed to ac- curately align potentially billions of short reads into larger contigs, thus usually failing to generate chromo- some-size contigs (Figure 1a). Without complementary
+Key Takeaways:
 
-data from other approaches such as chromatin con- formation capture (Hi-C) or optical mapping, a genome obtained using only short-read sequencing can have tens to hundreds of thousands of contigs for which the pla- cement in the original genome is uncertain, and will likely contain large gaps and regions with high ambiguity due to repetitive segments of DNA (Figure 1a). This severely limits the detection of large structural genomic changes because the orientation of short contigs in re- lation to the original genome and copy number variation is hard to determine when assembling genomes with short fragments. But these large structural variations may have significant effects on the expressed phenotype of the individual, altering its fitness.
+1) Hypertension and elevated BP are significant risk factors for aortic dissection.
+2) The comprehensive approach of using two large cohorts and a meta-analysis provides robust evidence for the findings.
+3) The research emphasizes the importance of blood pressure management in preventing severe conditions like AD.
 
-In contrast, third-generation sequencing approaches (e.g. Pacific Biosciences and Oxford Nanopore systems) use single-molecule sequencing to read large pieces of DNA (15 kbp to 1 Mbp), making the assembly of reads far less computationally intensive and resulting in contigs up to a chromosome in size (Figure 1b). While earlier iterations of these technologies were plagued with low accuracy due to a high noise-to-signal ratio, this has been solved with new approaches that allow for the repeated se- quencing of a single DNA molecule. Pacific Biosciences’ HiFi sequencing circularizes large fragments of DNA (10–25 kbp) and binds it to a DNA polymerase that al- lows it to be sequenced repeatedly (> 3 times). Then, circle consensus sequencing software is used to derive a consensus sequence from the multiple-sequencing passes of that single DNA molecule providing accuracy levels similar to second-generation sequencing. Oxford Nanopore’s new technology combines the nanopore se- quencing Q20+ kit with the R10.4 flow cell resulting in a
+Implications for Public Health
 
+Given the strong association between hypertension/elevated BP and AD, how might public health initiatives be tailored to address this risk and promote better cardiovascular health?
 
-Figure 1
+Summary:
+The research article investigates the association between hypertension or elevated blood pressure (BP) and aortic dissection (AD). Data from two major cohort studies, the J-SHC study (Japan-Specific Health Checkups) and UK Biobank, were analyzed. The findings reveal a strong association between hypertension, elevated systolic and diastolic blood pressure, and the risk of AD. The risk of AD was found to be dose-dependent, even within the normal BP range. The article emphasizes the importance of optimizing blood pressure to prevent AD, given its serious implications.
 
+Implications for Public Health:
 
-Schematic representation of the difference between short-read and long-read sequencing for contig assembly. (a) After short-read sequencing, also known as shotgun sequencing, many contigs are produced that cannot be combined to reconstruct the full chromosome due to areas with lower sequencing coverage or repeats that could not be aligned. (b) The assembly of long-read sequences can produce chromosome-size contigs. Note that this is a simplified representation and read coverage for both approaches is typically aimed to be 20? or higher.
+Strong Association with Hypertension: The research highlights a significant correlation between hypertension and the risk of AD. Public health initiatives should prioritize regular blood pressure monitoring and early intervention for those with elevated BP.
+Dose-Dependent Risk: Even within the normal BP range, there's a positive dose-dependent risk of AD. This suggests that even slight elevations in BP can increase the risk, emphasizing the need for maintaining optimal BP levels.
+Public Awareness: Given the severe consequences of AD, there's a need for increased public awareness about the importance of regular BP check-ups, lifestyle modifications, and adherence to prescribed medications.
+Given the strong association between hypertension/elevated BP and AD, public health initiatives can be tailored by emphasizing regular BP monitoring, promoting a heart-healthy lifestyle, and ensuring adherence to prescribed medications. Additionally, public awareness campaigns can educate the masses about the risks associated with elevated BP and the importance of maintaining optimal levels.
 
+Limitations and Future Research:
 
+Sample Size and Diversity: The study primarily focuses on data from the J-SHC study (Japan-Specific Health Checkups) and the UK Biobank. While these are large cohorts, the study's findings might be more applicable to the populations of Japan and the UK, potentially limiting generalizability to other populations.
+Data Exclusions: A significant number of individuals were excluded from the J-SHC study due to a lack of essential data, which could introduce bias.
+Self-Reported Data: Some data, such as the history of coronary artery disease, were determined from self-reports, which can introduce recall bias.
+Outcome Measurement: The primary outcome for the J-SHC study was AD death determined from death certificates, which might not capture all cases or misclassify some.
+Potential Confounders: While the study adjusted for several potential confounders, there's always a possibility of residual confounding in observational studies.
+Future research could aim to include more diverse populations, utilize more comprehensive data collection methods, and explore other potential risk factors for aortic dissection.
 
+Type of Study and Its Strengths and Limitations:
 
+Type: This is a cohort study combined with a meta-analysis of other cohort studies.
+Strengths:
+Large sample sizes from the J-SHC study and the UK Biobank provide robust statistical power.
+The study combines individual data analysis with a meta-analysis, enhancing the generalizability of the findings.
+Adjustments were made for several potential confounders, reducing the risk of biased estimates.
+Limitations:
+Cohort studies are observational, so they can't establish causation.
+There's potential for selection bias, especially given the exclusions in the J-SHC study.
+The reliance on death certificates in the J-SHC study might lead to misclassification.
 
-qualitative improvement over the accuracy of the pre- vious kits. This combination can produce duplex reads that sequence DNA from both strands into one basecall to increase single-molecule accuracy and can pro- duce reads from 50 kbp up to 260 kbp in length. As such, third-generation sequencing now allows for computa- tionally more accessible assembly of reference-quality genomes at a much lower cost than previous technologies that required multiple different sequencing approaches to be used in conjunction to piece together the same information that is now produced in a single run (de- pending on genome size). This has revolutionized the study of structural genomic differences between non- model organisms, and made an assessment of the fre- quency of changes to genomic architecture and how these relate to reproductive barriers and hybridization feasible.
+Statistical Analyses and Bias:
 
-Single-nucleotide polymorphisms (SNPs) that are slowly acquired over time were originally thought to make up the majority of the standing genetic variation within and among species [19], and the building blocks on which evolutionary selection acts. Indeed, genome-wide SNP data have proven invaluable for disentangling species
+Analyses: The study employed multivariable Cox regression to estimate hazard ratios, and in the meta-analysis, summary relative risks were calculated with random-effects models. Nonlinear dose-response relationships were also tested.
+Bias Considerations:
+The study adjusted for multiple potential confounders, reducing the risk of confounding bias.
+The use of self-reported data introduces the potential for recall bias.
+Excluding participants based on missing data can introduce selection bias.
+The study acknowledges heterogeneity in the meta-analysis, which suggests variability in the results of the included studies.
 
-complexes and understanding phylogenetic relationships [21,6]. However, through assembly of reference genomes and long-read sequencing, it is now clear that structural genomic variation (Figure 2) also represents a significant source of the standing variation on which evolution can operate, and it may be key to understanding why most phylogenetic relationships cannot be resolved as fully bifurcating trees [32]. Structural genomic variation is a region of DNA that shows a change in composition (Figure 2a and b), orientation and order (Figure 2c and d), and/or copy number (Figure 2e and f). Such changes can involve both coding and noncoding regions of the genome, including those in highly repetitive elements, such as transposons [28]. Structural variation can have significant effects on the phenotypes of species and po- pulations. Adaptive traits have been shown to be asso- ciated with structural variants. For example, copy number variation is associated with insecticide resistance in a number of species. Two populations of fall armyworm, Spodoptera frugiperda, show copy number variation of de- toxification genes that are correlated with insecticide re- sistance [13]. The mosquito Anopheles funestus has had multiple independent gene duplication events across Africa, which were associated with insecticide resistance
-
-
-Figure 2
-
-
-Processes resulting in structural genomic variants that can now be detected in nonmodel taxa using long-read DNA sequencing. (a) Chromosome fission: one chromosome splits into two. (b) Chromosome fusion: two chromosomes fuse to become one. (c) A section of the chromosome is inverted, changing the order of genes. (d) Translocation, commonly involving transposable elements, where a section of the chromosome ‘jumps’ to another location on the same or a different chromosome. (e) Deletion: a section of chromosome is lost. (f) Duplication: a section of chromosome is duplicated.
-
-
-
-
-
-in response to increased use of insecticide-treated bed nets [31]. In Rhagoletis fruit flies, inversions were found to affect diapause, allowing populations to adapt to different host fruit phenologies [10]. In Timema stick insects, a megabase-size ‘supermutation’ has deleted color loci in green morphs [29]. Structural variants can also have con- sequences for gene regulation or disruption, as well as gametic compatibility affecting the ability to form viable hybrid zygotes, and thereby can affect gene flow within populations and between species [20,15]. Introgression of an inversion polymorphism has been found in Heliconius butterflies [9,24] and shared inversions may effectively open gene flow between certain species pairs but shut off gene flow between others. Like morphological re- productive incompatibility, structural variations of the chromosomes could provide another layer of gene flow isolation, blocking gene exchange for many but not all
-
-species combinations. Synteny, the comparison of the order of genes or genomic structures among genomes, can be used to identify shared structural variation and provide invaluable insights in identifying gene flow events throughout the evolutionary history of a species group. This information could allow us to define more mean- ingful species delimitation, and more realistic phyloge- netic trees that include historical gene flow.
-
-However, much work remains to be done. One aspect of hybridization and gene flow that needs further attention is the transmission and maintenance of adaptive alleles across different populations and species boundaries. At the early stages of introgression, these adaptive alleles can be difficult to maintain due to drift, as recombination may ‘purify’ and remove such rare alleles, preserving the original genome. However, if multiple adaptive alleles
-
-
-Figure 3
-
-
-Venn diagram as a representation of a pan-genomic study. Each colored circle represents a reference genome. Where circles overlap, variance among those genomes is shared. There is a core set of genes shared among all genomes in the center of the diagram. Pan-genomic data can be used to study various aspects of evolution that were impossible to study with other types of genetic data.
-
-
-
-
-
-are close together in regions of low recombination, they may be preserved.
-
-Future directions
-We expect that, in the not-so-distant future, single-mo- lecule sequencing will be cost-effective enough to allow researchers to sequence reference-quality genomes from multiple individuals across multiple populations and species to conduct pan-genomic studies (Figure 3). A pan-genome represents the entire set of variation within a species, a core set of genes found throughout all in- dividuals, and an auxiliary set of genomic variation from which evolution can act upon to bring about apparent phenotypes. Previously limited to simple genomes, this approach can now be used for organisms with more complex genomes. With these data, we could determine position, copy number, and orientation of adaptive al- leles in a group of species and populations. This could reveal the mechanisms by which evolution is acting on such genes and how these adaptive alleles are main- tained in the face of recombination and drift. Other promising avenues of research based on third-generation sequencing genomic data include higher-quality se- quenced genomes that allow for the detection of mi- crochromosomes — that were recently shown to be prevalent in birds and squamates but lost in mammals through chromosome fusion events [30]. Chromosome number variation varies widely within insects, with le- pidoptera the most variable order, averaging 30 chro- mosomes, but ranging from 7 to 190 [14]. The presence of microchromosomes in insects has not yet been clar- ified and they may have been ignored as staining arti- facts in karyology studies, as they had been for birds [30]. Three-dimensional structure of the genome has also recently been shown to be an important contributor to diversification in a group of Anopheles mosquitos [16]. While the relationship between chromosome conforma- tion and gene regulation is still unclear, disruption of chromatin domains and domain boundaries can lead to misexpression of genes that can affect fitness and pro- vide interesting avenues for further investigation.
-
-Conclusion
-The existence of gene flow through interspecies hy- bridization is not a new discovery, but it had been con- sidered a rare phenomenon, or even an evolutionary anomaly, that was restricted to certain taxa [17,7] and certainly not an evolutionary force of significance across insects. The newer DNA sequencing technologies can now be used to elucidate not only the prevalence of gene flow throughout the insect tree of life, but also we can now try to understand how hybrid genomes work, what the evolutionary impacts of hybridization are on a genomic scale, and exactly how often this model of evolution occurs across insects. While there will be many challenges ahead, ultimately, these technologies will
-
-result in a new understanding of species limits and how species evolve and adapt. This is all the more relevant considering the rapid pace of global change, specifically climate change and globalization, both isolating and connecting different biotas under new and challenging circumstances. Last, hybridization has important ramifi- cations not only for understanding the process of evo- lution but also practically, to identify pest species and understand how they may be rapidly adapting and be- coming increasingly invasive.
+While the study provides valuable insights into the association between hypertension/elevated BP and aortic dissection, it's essential to consider its limitations when interpreting the findings. Future research can build upon this by addressing the mentioned limitations and exploring the topic in more diverse populations.
