@@ -1,61 +1,441 @@
-Blood Pressure, Hypertension, and the Risk of Aortic Dissection Incidence and Mortality: Results From the J-SCH Study, the UK Biobank Study, and a Meta-Analysis of Cohort Studies
-
-BACKGROUND: Hypertension or elevated blood pressure (BP) is an important risk factor for aortic dissection (AD); however, few prospective studies on this topic have been published. We investigated the association between hypertension/elevated BP and AD in 2 cohorts and conducted a meta-analysis of published prospective studies, including these 2 studies.
-METHODS: We analyzed data from the J-SHC study (Japan-Specific Health Checkups) and UK Biobank, which prospectively followed up 534 378 and 502 424 participants, respectively. Multivariable Cox regression was used to estimate hazard ratios and 95% CIs for the association of hypertension/elevated BP with AD incidence in the UK Biobank and AD mortality in the J-SHC Study. In the meta-analysis, summary relative risks were calculated with random-effects models. A potential nonlinear dose-response relationship between BP and AD was tested with fractional polynomial models, and the best-fitting second- order fractional polynomial regression model was determined.
-RESULTS: In the J-SHC study and UK Biobank, there were 84 and 182 ADs during the 4- and 9-year follow-up, and the adjusted hazard ratios of AD were 3.57 (95% CI, 2.17–6.11) and 2.68 (95% CI, 1.78–4.04) in hypertensive individuals, 1.33 (95% CI, 1.05–1.68) and 1.27 (95% CI, 1.11–1.48) per 20–mmHg increase in systolic BP (SBP), and 1.67 (95% CI, 1.40–2.00) and 1.66 (95% CI, 1.46–1.89) per 10-mmHg increase in diastolic BP (DBP), respectively. In the meta-analysis, the summary relative risks were 3.07 (95% CI, 2.15–4.38, I2=76.7%, n=7 studies, 2818 ADs, 4563 501 participants) for hypertension and 1.39 (95% CI, 1.16–1.66, I2=47.7%, n=3) and 1.79 (95% CI: 1.51–2.12, I2 = 57.0%, n=3) per 20–mm Hg increase in SBP and per 10–mmHg increase in DBP, respectively. The AD risk showed a strong, positive dose-response relationship with SBP and even more so with DBP. The risk of AD in the nonlinear dose-response analysis was significant at SBP >132 mm Hg and DBP >75 mm Hg.
-CONCLUSIONS: Hypertension and elevated SBP and DBP are associated with a high risk of AD. The risk of AD was positively dose dependent, even within the normal BP range. These findings provide further evidence for the optimization of BP to prevent AD.
-
-Aortic dissection (AD) is a relatively rare but serious disease that often leads to catastrophic complications or death. The reported incidence of AD is 3 to 6 cases per 100000 persons per year in Europe and the United States.2 To date, results from only a few epidemiological cohort studies have been published on risk factors for AD because of the low incidence of the disease, which would require large sample sizes or long follow-up periods to accrue sufficient numbers of cases for statistical analyses. This has, in turn, limited our understanding of primary prevention routes. 
-Hypertension is associated with aortic wall stress and is a risk factor for AD. A high prevalence of hypertension was reported in patients who developed AD (67.3%– 76.6%).3,4 Most of the previous studies that investigated the association of AD with hypertension were based on case series.1,3,4 Only a few prospective cohort stud- ies have assessed the association between blood pres- sure (BP) or hypertension and AD5–8; however, these studies were often small in scale with a limited number of AD cases and therefore had limited power to inves- tigate the dose-response relationship between systolic BP (SBP) or diastolic BP (DBP) and AD across the full range of BP values. It is therefore important to clarify. 
-both the strength and shape of the association between elevated BP or hypertension and the risk of AD, both from the clinical and public health perspectives and for risk assessment. 
-In the Global Burden of Disease Project, results for the association between elevated BP and aortic aneu- rysm have been incorporated into the most recent risk assessment,9 but data on elevated BP and AD were not included, most likely because of the limited cohort data available and a lack of any meta-analyses summarizing the available evidence. To fill these gaps, we analyzed data from 2 prospective cohort studies, each of which consists of approximately a half-million participants, conducted in Japan and the United Kingdom. We then summarized the evidence from these 2 cohort studies and previously published cohort studies in a systematic review and meta-analysis of prospective studies.
-METHODS 
-Japan-Specific Health Checkups Study 
-The Japan-Specific Health Checkups study (J-SHC) data can be accessed by researchers by submitting an application (Department of Chronic Kidney Disease Initiatives, Fukushima Medical University School of Medicine, 1-Hikarigaoka, Fukushima 960-1295, Japan; phone and Fax: +81-24-547- 1898; Email dckdi@fmu.ac.jp) and receiving approval. 
-The J-SHC study was based on individual risk assessments determined by the Specific Health Checkup for all inhabitants of Japan between 40 and 74 years old, which is covered by the Japanese national health insurance system.10 The purpose of the Specific Health Checkup is to maintain a healthy life through the prevention of lifestyle diseases, and it excludes people who have been hospitalized for >6 months or who are living in a support facility or nursing home. With permission from the Ministry of Health, Labor and Welfare, participant deaths were identified by linking data from this study to a death certificate database that records all deaths that occur in Japan. All participants were prospectively followed up until they reached 75 years of age. 
-Data used in this study were obtained from 664927 men and women who participated in health checkups from 2008 to 2015 in eastern and western Japan. Among the 664927 individuals, 130 549 were excluded from this study because of a lack of essential data, including SBP, DBP, body mass index (BMI), smoking habit, alcohol consumption habit, and use of antihypertensive and antihyperglycemic medication. Therefore, 534 378 men and women were included in the statistical analyses. The outcome was AD death, which was determined from a review of the death certificates and classified according to the death code until April 1, 2015 (code I710 in International Classification of Diseases, 10th Revision). At health checkups, participants were seated with back support, and the BP was measured 2 times without conversation after resting for at least 5 minutes. BP was determined by an average of 2 BP readings. Hypertension was defined as SBP/DBP ≥140/90 mmHg or the use of antihypertensive medication. Diabetes was defined as fasting plasma glucose ≥126 mg/dL and glycosylated hemoglobin A1c ≥6.5% or use of antihyperglycemic 
-
-medication. Dyslipidemia was defined as high-density lipoprotein cholesterol <40 mg/dL, low-density lipoprotein cholesterol ≥140 mg/dL, and triglycerides ≥150 mg/dL or use of lipid- lowering medication. History of coronary artery disease was determined from self-report. 
-All procedures performed in the studies involving human participants were done in accordance with the guidelines of the institutional ethics committee (Yamagata University, 2008, No. 103) or the national research committee (the Ethical Guidelines for Medical and Health Research Involving Human Subjects enacted by the Ministry of Health, Labor and Welfare of Japan11). In the context of this guidance, the investigators were not required to obtain informed consent, but we publicized information concerning this study on the web12 and ensured opportunities for the research participants to refuse the use of their personal information. 
-Statistical analyses were performed with the JMP software program, version 12 (SAS Institute, Cary, NC) and R 3.0.2 with additional packages, including Rcmdr, Epi, pROC, and PredictABEL. Continuous and categorical variables were compared by use of a t test and χ2 test, respectively. Cox proportional hazard analysis was performed to obtain hazard ratios of AD death for SBP and DBP (ordinal categorical and continuous variables) and hypertension adjusted for the age, sex, BMI, smoking, region, dyslipidemia, diabetes, and coronary artery disease. For ordinal BP categories, the P value for linear trend was also calculated with the Wald test. The population-attributable risk percentage was calculated as the percent of the incidence rate of AD death in the entire population that could be attributed to an exposure. A value of P<0.05 was considered statistically significant. 
-
-
-UK Biobank 
-The UK Biobank study data can be accessed by researchers by submitting an application13 and receiving approval. 
-The UK Biobank was a large-scale prospective cohort study conducted to improve the prevention, diagnosis, and treatment of a range of diseases, and the data included in this study were obtained from 502 424 participants ranging from 40 to 69 years of age from 2006 to 2010.14 The UK Biobank received ethics approval from the North West Multi-Center Research Ethics Committee (11/NW/03820). Participants were recruited from contact information obtained from the National Health Service in the United Kingdom. Invitations to participate in the study were sent by mail to 9 million people, and the UK Biobank enrolled voluntary participants, regardless of their health status, after receipt of their written informed consent. 
-After the enrollment of participants, the UK Biobank col- lected health-related data using questionnaires, physical examinations, and biological samples in the initial assess- ment. Participants with a history of AD (n=63) were excluded from this analysis. The follow-up of the cohort was conducted through the linkage of routinely available national health records such as death registrations and hospital inpatient epi- sodes. The primary outcome of this study was the incidence of AD recorded as the International Classification of Disease, 10th Revision code I710 in the hospital admission or death record. The BP was measured at the initial assessment with a prede- termined method (Methods in the Supplemental Material), and hypertension was defined as BP ≥140/90 mmHg or a diagno- sis in the past. The medical history was determined from self- reports at the initial assessment. Deprivation was based on the 
-Townsend area deprivation index derived from UK census; pos- itive and negative scores correspond to higher and lower levels of deprivation, respectively, than the national averages.15 Data were censored at the date of the AD diagnosis or death, death resulting from any other cause, loss to follow-up, or February 16, 2018, for England and Wales and December 16, 2017, for Scotland, whichever occurred first. 
-Statistical analyses were conducted with the Stata soft- ware package, version 14.1 (StataCorp, College Station, TX). To compare participants’ baseline characteristics, t tests were used for continuous variables, and χ2 tests were used for cat- egorical variables. A χ2 test for trend was used for ordinal cat- egorical variables. Associations between BP/hypertension and risk of AD were investigated with Cox proportional hazards models with adjustment for age, sex, smoking status, connec- tive tissue disease, BMI, and diabetes. For ordinal BP catego- ries, P values for linear trend were also calculated with the Wald test. Age- and sex-adjusted population-attributable risk percentages were subsequently calculated with the PUNAF Stata module.16 Associations between SBP and DBP and the risk of AD adjusted with multivariable Cox proportional hazards regression models were explored using restricted cubic splines with 3 knots, and nonlinearity of the associations was tested. If the association was nonlinear, the exponential dose response was tested. Adjusted hazard ratios and 95% CIs for each unit of BP were computed and plotted against the reference val- ues: 120 mmHg for SBP and 80 mmHg for DBP. A value of P<0.05 was considered statistically significant. 
-Systematic Review and Meta-Analysis 
-The systematic review and meta-analysis were conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. The study protocol of our review was registered in PROSPERO, the interna- tional database of prospectively registered systematic reviews (CRD42018096916). Three authors (M.H., H.H., and DA) used PubMed and EMBASE databases to search for relevant pub- lications from the inception of the databases up to May 17, 2021, and the search returns were screened by 2 of those authors (M.H., H.H.). Details concerning the search terms used are given in Table S1. 
-One study,8 which analyzed the association between type 2 diabetes and the incidence of AD but also contained data on hypertension, was identified in a separate search. Published retrospective or prospective cohort studies and nested case- control studies within prospective studies were eligible for inclusion. Publications with relative risk (RR) estimates (risk ratios, incidence rate ratios, odds ratios, or hazard ratios) for the association between BP or hypertension and the risk of AD adjusted for at least 1 confounding variable were included. For 1 study6 in which the AD incidence data were available for hypertension and categorical BP stratified by a confounding variable, the Mantel-Haenszel method was used to calculate weighted-average RRs for hypertension adjusted for the con- founding variable with the 95% CI, and logistic regression was used to calculate the adjusted odds ratio for each BP category. The results from the present J-SHC Study and UK Biobank analyses were included alongside the previously published studies in the meta-analysis. 
-The random-effects model by DerSimonian and Laird,17 which accounts for both within- and between-study variance, was used to calculate the summary RRs for the association between hypertension and BP and AD. Because all the stud- ies included in the analyses of SBP/DBP reported risk esti- mates on a continuous scale, these risk estimates were used directly for the nonlinear dose-response meta-analysis. A potential nonlinear dose-response relationship between BP and AD was tested with fractional polynomial models, and the best-fitting second-order fractional polynomial regression model was determined.18 A likelihood ratio test was used to test nonlinearity by comparing the nonlinear and linear mod- els.18 Asymmetry in the funnel plot was assessed by a visual inspection. The quality of the studies was evaluated with the relevant Newcastle-Ottawa Scale.19 Subgroup analyses were conducted to clarify whether the results were consistent across study characteristics (eg, sex, duration of follow-up, geographic location, study quality, study outcome definition, and adjustment for confounding factors), and random-effects meta-regression analyses were used to test for differences between subgroups. To ensure that the results were not driven by 1 very large study or a study with an extreme result, sensitivity analyses were conducted by omitting 1 study at a time from the analyses and assessing the effect on the overall results. 
-RESULTS J-SHC Study 
-Among 534378 participants, 84 died of AD dur- ing a median of 4.0 years of follow-up (interquartile range, 2.7–5.0 years). The AD death rate was 4.18 per 100000 person-years. Participants who died of AD were older and more likely to be male and smok- ers and had a higher SBP, DBP, and prevalence of hypertension than participants without AD (Table 1). In the age- and sex-adjusted Cox proportional haz- ards model, there were significant associations be- tween SBP, DBP, and hypertension and incidence of AD deaths, with hazard ratios of 2.23 (95% CI, 1.14– 4.67) for SBP ≥140 mmHg versus <120 mmHg, 4.00 (95% CI, 2.36–6.75) for DBP ≥90 mmHg ver- sus <80 mmHg, and 3.58 (95% CI, 2.19–6.11) for hypertension (Table 2). These associations persisted in the multivariable models with further adjustment for BMI, smoking status, region, dyslipidemia, diabe- tes, and coronary artery disease, with hazard ratios of 2.37 (95% CI, 1.21–5.03) for SBP ≥140 mm Hg ver- sus <120 mm Hg, 3.80 (95% CI, 2.25–6.45) for DBP ≥90 mm Hg versus <80 mm Hg, and 3.57 (95% CI, 2.17–6.11) for hypertension. The estimated popula- tion-attributable risk percentage was 58% for individ- uals with hypertension compared with those without, 52% for SBP above the reference category (≥120 mmHg), and 61% for DBP above the reference cat- egory (≥80 mmHg). In the sensitivity analyses with participants without antihypertensive drugs at base- line, these associations were preserved with mildly or moderately high hazard ratios (Table S2a). 
-UK BIOBANK
-Among the 502424 participants without a history of AD, 182 participants developed AD during a median of 9.0 years of follow-up (interquartile range, 8.3–9.7 years), during which time 63 of those participants died of AD. The incidence of AD was 4.1 per 100 000 per- son-years. Participants who developed AD were older, were more likely to be male and current smokers, and had higher SBP, DBP, and prevalence of hypertension and connective tissue disease than participants with- out AD (Table 3). In the age- and sex-adjusted Cox proportional hazards model, there were significant associations between SBP, DBP, and hypertension and the incidence of AD, with hazard ratios of 4.77 (95% CI, 1.92–11.87) for SBP ≥180 mmHg versus <120 mmHg, 12.43 (95% CI, 6.80–22.72) for DBP ≥110 mm Hg versus <80 mm Hg, and 2.70 (95% CI, 1.80–4.05) for hypertension (Table 4). The estimated population-attributable risk percentage was 53% for individuals with hypertension compared with those without, 62% for SBP above the reference category (≥120 mmHg), and 36% for DBP above the refer- ence category (≥80 mmHg). The significant associa- tions persisted in the multivariable models with further adjustment for the smoking status, connective tissue disease, BMI, and diabetes with hazard ratios of 4.69 (95% CI, 1.88–11.68) for SBP ≥180 mmHg versus <120 mmHg, 11.82 (95% CI, 6.43–21.72) for DBP ≥110 mm Hg versus <80 mm Hg, and 2.68 (95% CI, 1.78–4.04) for hypertension (Table 4). 
-We conducted a further sensitivity analysis excluding participants with antihypertensive drugs at baseline and a sensitivity analysis with AD death outcomes, and the results were nearly identical except for unstable esti- mates in the AD death analysis attributable to the low number of AD deaths (Table S2b and S2c). Associations between SBP and DBP and AD adjusted for age, sex, smoking status, connective tissue disease, BMI, and dia- betes in Cox regression were modeled using restricted cubic spline with 3 knots (Figure S1 and Table S3). The associations between SBP and DBP and AD were non- linear (Pnonlinearity=0.0030 and <0.0001, respectively) and showed an exponential dose-response curve (both P<0.0001). The positive relationship between the risk of AD and DBP was steeper than that between the risk of AD and SBP, consistent with the categorical analyses. 
-Systematic Review and Meta-Analysis 
-A total of 3283 publications (1244 publications from PubMed database, and 2038 publications from EM- BASE database, and 1 publication8 from a separate search) were identified by the literature search (Fig- ure 1). A total of 692 duplicates were excluded, as were 2591 unique records because they were deemed irrelevant on the basis of their titles or abstracts. The full-text articles of 153 potentially relevant publications were thus further examined, and 6 publications were ultimately included in the systematic review and meta- analysis, in addition to the current analysis of the J- SHC study and UK Biobank (Table 5).5–8,20,21 
-Adjusted RRs were calculated for the Whitehall Study6 (Table S4). The average Newcastle-Ottawa Scale score was 7.3 of 9 (Table S5). Two studies (Whitehall Study and J-SHC study) reported AD mortality, whereas the remaining studies included both hospital admissions and deaths resulting from AD. All of the included studies found that hypertension or a high BP at baseline was a significant risk factor for AD. 
-Hypertension and AD 
-Seven cohort studies5–8 (2818 AD cases and 4 563 501 participants) were included in the meta-analysis of hy- pertension and risk of AD. The summary RR of AD for individuals with hypertension versus individuals without hypertension was 3.07 (95% CI, 2.15–4.38; I2=76.7%, Pheterogeneity<0.001; Figure 2). In the sensitivity analysis, the summary RR was not substantially altered when each of the studies was omitted from the analyses sequen- tially (Figure S2). Although an inspection of the funnel plot indicated asymmetry (Figure S3), this was attenu- ated when a large Swedish registry–based study con- ducted by Avdic et al,8 which found a weaker association than the other studies, was excluded (Figure S4). This study also explained the observed heterogeneity, and the summary RR was 3.40 (95% CI, 2.73–4.22; I2=0%, Pheterogeneity=0.69) when it was excluded. 
-Subgroup and meta-regression analyses were carried out to explore potential sources of heterogeneity (Table S6). The positive association between hypertension and risk of AD persisted across all subgroup analyses, includ- ing subgroups defined by the duration of follow-up (<10 years versus ≥10 years), sex, geographic location of the study, study quality score assessed by the Newcastle- Ottawa Scale, study outcome definition (AD mortality versus AD incidence), and adjustment for confounding variables (smoking status, lipid status, coronary artery disease, diabetes, BMI, and education level; Table S6). There was no evidence of heterogeneity between sub- groups except for the subgroups with and without adjust- ment for education level (Pheterogeneity=0.005); however, the only study with such adjustment was the study con- ducted by Avdic et al.8 
-BP and AD 
-Three studies,20 including the present studies (289 cases and 1044484 participants), were included in the meta-analysis of SBP and the risk of AD, and 3 studies6 (including the present ones; 304 cases and 1055205 participants) were included in the meta-analysis of DBP and AD. The summary RR of AD per 20–mmHg increase in SBP was 1.39 (95% CI, 1.16–1.66, I2 = 47.7% and Pheterogeneity=0.15) and that per 10–mm Hg in- crease in DBP was 1.79 (95% CI, 1.51–2.12, I2=57.0% and Pheterogeneity=0.10; Figure 2). In the nonlinear dose- response analyses, there was evidence of nonlinearity (Pnonlinearity=0.0007) and a very strong dose-response re- lationship between SBP and AD (Figure 3 and Table S7). There was a very strong dose-response relationship be- tween DBP and AD, and the test for nonlinearity showed statistical significance (Pnonlinearity=0.0008). The 95% CIs of the RRs were >1.0 at SBP >132 mmHg and DBP >75 mmHg, suggesting a risk of AD even within a high normal BP range. 
-DISCUSSION 
-Our analyses include 2 of the largest cohort studies con- ducted to date concerning the association between BP and the risk of AD. This is also the first systematic review and meta-analysis of cohort studies on the association between hypertension and BP and the risk of AD. The risk of AD was 2- and 5-fold higher than in the refer- ence group with an elevated SBP and 4- and 12-fold higher than in the reference group with an elevated DBP in the J-SHC study and UK Biobank, respectively. An important finding was there was a 2- to 3-fold higher risk of AD even within the normal SBP and DBP categories than in the lowest reference category, suggesting that the optimal BP value may be considerably lower than what is considered normal BP for the prevention of AD. In addition, a roughly 3-fold higher than reference group risk was observed for individuals with hypertension in the UK Biobank, the J-SHC study, and our meta-analysis. In the UK Biobank, estimates of the population-attributable risk suggested that an SBP above the reference cat- egory (≥120 mmHg) may account for 62% of AD cas- es, whereas a DBP above the reference category (≥80 mm Hg) may account for 36% of AD cases; hypertension 
-was deemed to account for 53% of cases. In the J-SHC study, hypertension was deemed to account for 53% of cases as well, and the corresponding estimates for SBP and DBP ranged between 52% and 61%. This suggests that a substantial proportion of AD cases could be pre- vented if the prevalence of hypertension or elevated BP in the general population could be reduced. 
-In the meta-analysis for hypertension, significant associations between hypertension and AD persisted in subgroup and sensitivity analyses, suggesting that the result was robust and independent of other risk fac- tors for which we adjusted, including the smoking habit, lipid status, coronary artery disease, diabetes, and BMI. There was some suggestion of funnel plot asymmetry that was likely attributable to the inclusion of the study with the largest sample size and weakest association.8 Although there were a few studies in each of the meta- analyses for BP, they both showed a positive dose- response relationship between increasing SBP or DBP and the risk of AD, with a notably steeper association with DBP. Of note, we observed some risk of AD even within the normal BP range. 
-Two biological mechanisms have been suggested to contribute to the development of AD when patients are exposed to elevated BP. One mechanism is AD with few pathological changes of atherosclerosis, which is com- monly seen in type A AD.22,23 In this mechanism, the hypertensive status is associated with a loss of elastic 
-fibers in the aortic media and unstable connections between each elastic lamina, resulting in AD before or after aortic aneurysm formation.24,25 Hypertension has also been shown to be related to dilatation of the ascend- ing aorta without evidence of atherosclerosis.26–28 Such ascending aortic aneurysmal changes increase aortic wall stress29 and have been reported to increase the risk of AD drastically.30 The vulnerability of the ascending aorta to having a dissection or contracting an aneurysm by exposure to hypertension has been suggested to be driven by genetic factors.22 Another mechanism from elevated BP that may contribute to the development of AD is atherosclerosis, which is commonly seen in type B AD.31,32 Hypertension has been reported to be a major cause of atherosclerosis and aneurysmal formation by impairing repair processes.33 
-There is uncertainty about the predictive reliability between SBP and DBP. In the study of Strachan et al,6 DBP was a stronger predictor of aortic diseases, includ- ing AD, than SBP; however, Reed et al20 found a stron- ger association with SBP than with DBP. In terms of vascular mortality, a meta-analysis of prospective stud- ies suggested that SBP and DBP were similarly predic- tive across all ages, with an effect size ≈2-fold higher in DBP than in SBP.34 In addition, a meta-analysis of BP and the risk of abdominal aortic aneurysm showed sig- nificant associations for both SBP and DBP, albeit with a considerably stronger association for DBP,35 which is consistent with the current findings. The dose-response 
-relationship between DBP and AD was exponential in shape in the UK Biobank, but the nonlinearity was less pronounced in our meta-analysis. These findings high- light the importance of BP management. The associa- tions between hypertension and BP and AD, which were reinforced in this meta-analysis, provide further impetus to support public health promotion to reduce and control hypertension. Although the risk of AD in certain popula- tions is also determined by unmodifiable factors, hyper- tension remains a major modifiable risk factor for AD, and populations can reduce the risk of AD through the prevention and management of hypertension. 
-The prospective large-scale cohort study design that is based on the general population is a major strength of both the J-SHC study and UK Biobank because it reduces the possibility for information bias. However, several limitations associated with the present studies warrant mention. First, neither cohort was not represen- tative of the general population with regard to several participant characteristics; therefore, they cannot be used to provide representative disease prevalence and incidence rates. Specifically, a healthy volunteer selec- tion bias in the UK Biobank has been reported, with participants more likely to live in less socioeconomically deprived area and thus have a healthier lifestyle.36 How- ever, a valid assessment of exposure-disease relation- ships can be obtained. Second, there were no data on the history of AD at baseline in the J-SHC study, and for this reason, we were unable to exclude participants 
-with prevalent AD; however, we believe that the impact of this was limited because AD is a rare and highly fatal disease. Third, the inclusion of AD deaths without cap- ture of AD incidence is a limitation in the J-SHC study. The richness of the baseline data allowed us to explore possible confounders and to adjust for the effects of additional variables in the UK Biobank study. Fourth, mis- classification of both the exposure and outcome such as that resulting from coding inaccuracy in administrative or medical databases is another possible limitation of our cohort studies and the studies included in the meta- analysis. However, if such misclassification occurred, it would most likely have been nondifferential with regard to the exposure and outcome status because of the prospective design of the studies, so the calculated risk estimates would tend to be biased toward the null and thus underestimated.37 Fifth, the hypertension status or BP was assessed at baseline in the cohort studies but may have changed over the follow-up period, so using the baseline measurement may not have adequately represented the exposure level during follow-up, leading to regression dilution bias. However, some reports found 
-that baseline BP was a better predictor of cardiovascu- lar diseases than current BP.38 Finally, despite millions of patient-years of observation, there were a total of 266 AD events to analyze in our cohorts, suggesting that clinical action may be challenging, given the colossal numbers needed to be treated to prevent an AD event; however, the benefits of reducing the BP may extend to other cardiovascular diseases as well.39 
-The main limitation of the current meta-analysis is the low number of published studies that were included in the analyses. There were also few published studies on the relationship between the SBP or DBP and AD, likely attributable to the relative rarity of the disease, which lim- ited the possibility of conducting subgroup and sensitiv- ity analyses and testing for funnel plot asymmetry in the analyses of SBP and DBP. The study outcome was AD mortality in the 2 studies (Whitehall Study and J-SHC study), whereas the outcome was AD incidence in the other 6 studies, and we found no significant heteroge- neity between these subgroups in the meta-analysis. This is not surprising given the relatively high fatality rate in AD. The number of cases in the studies included in 
-the meta-analysis ranged from 23 to 188, with 1 par- ticularly large population-wide Swedish study enrolling 2219 cases.8 Both the heterogeneity and funnel plot asymmetry observed in the meta-analysis appeared to be explained by this Swedish study, which had the small- est effect size but the highest weight among the stud- ies. The weak associations observed in this study may have resulted from the crude nature of the registry- based data; for example, hypertensive medication use was used as a proxy for hypertension status and may have led to misclassification and likely attenuation of the observed risk estimates, unadjusted or residual negative confounding attributable to a lack of data on lifestyle factors, or the inclusion of several highly correlated and potentially intermediate cardiovascular conditions in the multivariable model. 
-Our analyses are important for public health because they provide the first summary of the evidence from pro- spective cohort studies on the association of BP and hypertension with the risk of AD, improving the evidence base from being based on reports of case series to an actual estimate of the RR. This study also provides esti- mates of attributable risk, which were consistent with those in a previous Swedish study.5 Although further studies are needed, the current results suggest that reducing BP, through either healthy lifestyle or medi- cations, may consequently reduce the incidence of AD and furthermore that the optimal target BP may be even lower than the current cutoff for normal BP. 
-Conclusions 
-The analyses of the J-SHC study and UK Biobank and the meta-analysis of 8 cohort studies showed a roughly 3-fold higher risk of AD in individuals with hypertension than in individuals without hypertension. The risk of AD was positively dose dependent even within the normal BP range in the J-SHC study, UK Biobank study, and meta- analysis. In the nonlinear dose-response meta-analysis, a high versus low SBP and DBP was associated with an ≈3- and 20-fold higher risk of AD, respectively, than the reference group. These results confirm previous obser- vations that a high BP is an important risk factor for AD and provide precise estimates of the associated risks. 
+I would like to talk today
+about technical improvements in single-cell RNA sequencing, delivering the promise of
+RNA therapeutics. And for this, I would like to start today with current integrated systems
+for single-cell sequencing, which includes systems that are able to dispense cells with
+the quality control of collected cells, as well as the downstream applications you can
+perform in the same instruments. And we are talking in general about RNA single-cell sequencing.
+But even I would like to present to you today other approaches that can be performed, such
+as single-cell genomic DNA or some other applications regarding epigenetics, such as ATECH single-cell.
+Afterwards, I would like to talk or to give you some improvement of a single-cell collection,
+presentation, and especially chemistry, then to talk about the way you can perform transcriptomics
+within a cell in terms of evaluating messenger RNAs or poly-A transcript, but also, at the
+same time, to evaluate a large number of long-gnogolin RNAs. And finally, to talk about multi-omics
+data analysis, in this specific case, collecting genotype to phenotype within the same cell.
+So I think that screen is light. As you can see, in the panel, you can see a microfluidic
+droplet system from the 10 Genomics. And as you sure know, most of the people who work
+in single-cell sequencing is using this platform. And more than 95% of the data reported in
+the Cell Atlas is coming from this platform. And it's, of course, the best platform in
+terms of high throughput, because you are able to evaluate several thousand of cells
+at once, especially helpfully when you are starting with very heterogeneous tissues.
+But we in our core unit realize that for many, many, and not only clinical projects,
+this platform has limitations, because most of the people need, if you are interested
+or interested in specific cells or sub-population cells starting with heterogeneous tissues,
+mostly you need to select cells based on different methods. But working with the 10
+genomics, one of the methods is the fact sorting prior to sequencing or to preparation of libraries.
+Apart of this, most of the people are working with single nuclei because of cell sizing
+limitations, and all cells over 35 microns are mostly not assessed during the procedure
+of cell capturing in the 10 genomics. Especially the chemistry the system is using the 10 genomics,
+they are using oligo-dt for cDNA synthesis, and the cDNA synthesis is like partially,
+so you are able to sequence only short pieces nearly to the three-end or five-end of the
+transcript, but the full length approach is still missing. For this reason, we introduce
+an additional platform, which is well established as well as the 10 genomics. This is the isolate.
+The isolate platform is working basically using a nanowell plate. In this specific case,
+we are using a plate with 5,184 nanowells, and the instruments offer an integrated imaging
+system. Mostly you can work with a maximal of two fluorescence types. We are mostly using
+DAPI in order to distinguish living cells, and Texas Red to discard dead cells from the
+single cell suspension. Apart of this, the imaging system allows you to distinguish or
+to eliminate from the further processes cell debris or clustering or cell doublets and
+so on. The most beautiful thing for the isolate, and I'm sure you all know this, is the flexibility
+in chemistry for RNA sequencing, because you can access a transcript very similar to the 10x
+sequencing with three-end fragments, but even you have the choice to go for full length approaches,
+and the instruments allow you even to develop some self-made protocols or custom solutions
+that are not part of the, let's say, portfolio from Takara chemistry. What we are currently doing
+are only full length approaches because of clinical questions, and we aim to evaluate
+a part of the transcriptomics. We would like to see how worse the variant calling there
+and possibly to associate this with transcriptomic evidence. The disadvantage of the Cell N1
+is that the system, you started with 5,000 cells, but once we proceed with the quality control,
+only between 1,000 and 1,600 cells will be selected for further processing,
+and this is, of course, especially in comparison with the 10 genomics to less.
+For this reason, in panel C, you can see an additional instrument, this is the seven one instrument is basically a dispenser, and that have the best and really beautiful quality imaging system, because the system, allow you to send it sales.
+Based on morphology, independent of cell sizing, because you can access cells, common cells that vary in a range of sizing from two to over 500 micrometers.
+A part of this, we are using this to in order to improve the capturing rate from thousand cells to three or four thousands, nearly 4000 cells during one run.
+And for this, the first things we did in panel D is to combine the isolate with the seven one using the seven one for cell dispensing and quality controls, using the Kakara 5184 chip.
+This is the first things we implemented in our laboratory, and we are performing a quality control there, and once we dispense cells, we can use exactly the same chip and put this in the isolate for for more or for specific downstream applications and today I would like to
+focus on RNA sequencing. For people that probably doesn't know how it works, the isolate is selecting by using a software from the company, is selecting a living cells, and by staining and imaging, you can discard for example in panel B, you can see
+multiple cells, or in the middle the dead cells because the stain even in Texas parade is visible, or cell debris, or cell debris, so that you can select the only good cells prior sequencing.
+And here, I would like to present you.
+This is a show by the first time in our group, because we currently are cooperating with people from the anatomy from the group from slavery.
+They are working with one says, and in this case you can see peripheral nervous systems says that has a sizing.
+First of all, a very unusual morphology.
+And second, you will find cells between 200 and 500 micrometers in size, and by using three different fluorophores we could visualize this in the isolate, and currently we are able to assess these difficult cells and sequence these in a whole cell manner,
+without a nuclei isolation.
+The next.
+So for this reason we decide to, to combine the seven one system for cell dispensing based on cell morphology, based on cell sizing, or the instrument allow you to work from one to four different floor force in order to sell it real says from a
+tissues.
+And once we proceed with the quality control. We are working on the isolated then by using exactly the same chip. So, the whole procedure from cell dispensing to library preparation occurs, using one chip step.
+So in the isolate the first things we are doing then after collection is proceed with the RT pre amplification incorporation of indexing mostly this is the protocol for full length approaches because we are performing only those.
+And then we proceed after indexing with the pigmentation reaction and the library. And this process from the cell dispensing till the library generation takes two days fully automated.
+And most important thing is when we started with this with this novel system. We, we started this because people working, for example in the cardiology, asked for the sequencing for in in whole cells mode for says, such as a cardio myocytes and
+actually sure no cardio myocytes are very unstable cells and very unusual in morphology because the, the, the living cells, and what says are those with this cylindrical morphology you can see in the middle.
+And for this reason we check how the instrument access says over, let's say, hundred microns and you can see in the, in the first panel on the left.
+And we started with a normal nuclei isolation after tissue dissociation, and the dispensing of cells is going very straightforward, as well as the, as the library preparation.
+This is no problem, and you can call it says within 30 minutes in the middle one, you have the an example of tissue dissociation and reach cardio myocytes and you can see different morphologies they are all of them are cardio myocyte but you can see
+that the other cells that are not seeing rate is like apoptotic is not cell dead but nearly to. And we could assess based on this morphology in the UMAP, you can see two different clusters that are coming from these different morphologies.
+And this kind of things you can also evaluate assessing quality control, and in order to perform a qualities in morphology and evaluate the state of the cell.
+And in the, in the last picture. This is an example from IPSS differentiated to cardio myocytes.
+These are cells with normal sizing from 24 to 50 micrometers, and the system is working really fine with this.
+And
+in the next picture, we tested the, the, the performances of the single cell RNA sequencing, working with nuclei, and we have several oncological approaches in this specific case, we started or tested the system with a frozen biopsies in this specific case what
+you can see is the evaluation of three different patients with pancreatic cancer. And what you can see are three different phenotypes of pancreatic cancer.
+And this study has been done by using nuclei because once you have frozen tissues, you are not able to work with cold cells because they are not living cells and for this reason we decided to match or to, or to make a match study, starting with the original
+tumors, or from the patients, then the researchers working in this, in this project, and they develop a PDX mice using the original tumor patient, as well as organoids.
+And we perform with these different three patients, a study demonstrating that nuclei is working really, really fine with the system. And if you take a look on the other part of the slide, the frozen tissues exhibit always less amount of exonic reads, which is normal
+but what we see from the data analysis is that is still good for for aging expression analysis.
+So to put this in summary, the use of the single one and isolating combination, allow you to perform from the dispensing to the library preparation.
+All in by using one step, only one chip, allow you the analysis of all cells independent of sizing and cell morphology from two to 500 micrometers.
+And allow the analysis of living cell, as well as fixed cells, which has been already tested by us in our laboratory. Analysis of nuclei, starting with frozen tissues.
+And the most interesting thing is the flexibility in chemistry for different approaches of single cell RNA sequencing. The three end approach, the full length approach, improving the data analysis for detection variants,
+and the three end approach, the full length approach, improving the data analysis for detection variants, and the three end approach, improving the data analysis for detection variants.
+And the last developed method by us was the single cell total RNA-Seq, which allow you
+a beautiful identification of long non-coding RNAs beside the messenger RNAs.
+Now we are coming to the second part of the presentation, because the first things we
+did in cooperation with the group from Andrew Fisher from the German Center for Neurodegenerative
+Disease was to evaluate the performances of the total single cell RNA-Seq on the isolate
+fully automated, and Andrew is working on the identification of several long intergenic
+non-coding RNAs in human brain, a part of this astrocyte might probably have neuron-specific
+studies, and even to find some long-coding RNAs in heart, heart-specific long non-coding
+RNAs.
+For this reason, we started with him, and Andrew is working since two or three years
+deep here with the 10 genomics and generates a lot of data, and the first things we did
+is to compare the performances of full-length approaches independent of single cell total
+or the normal full-length approach.
+I have to say that all approaches are not done by using Oligo-DTP, always we are talking
+about random hexamers in order for full coverage of transcriptomics, and what you can see is
+this is a pilot data, specifically for neuron-specific long non-coding RNAs data, so first of all,
+a global U-map from the different kind of neuron-specific, and you can see that by evaluating
+isolate in full-length mode, the sensitivity of the assays in terms of detection of messenger
+RNAs or coding RNAs are higher than in the PENIX, and especially if you are specifically
+looking at long non-coding RNAs, you can see that the isolate is the platform of choice.
+Now we are coming specifically because we are proposing a combination of instruments,
+cell and one isolate, and for this, of course, we need to evaluate methodologically how good
+is the performances of the combination when we are comparing this with the isolate, which
+is, besides the PENIX, a well-established single cell system, and the goal was first
+to evaluate technical improvements by using this combination, and the second goal was
+to bioinformatically demonstrate how good you can access coding variants that could
+probably be associated to transcriptomic markers in order to define phenotypically differences
+between samples. For this reason, we choose a special cohort of samples. In this case,
+we took progeria samples. These are dermal fibroblasts from patients, and we chose six
+different progeria samples that have been previously described as phenotypically different,
+and we include, of course, two controls, and started with the wet lab performances in which we
+dispense exactly the same samples on one Takara isolate chip, 5184 nanowells, and on the other
+hand, three different chips that should work only in the isolate as usual or as standard, let's say.
+Why this? Because in order to compare the methods, we need to generate after-quality
+contracts about the same amount of cells, and you can see that in both submerging data from
+three chips in the isolate, we got something like 3,100 cells, very comparable to the performance
+of the combination by using only one chip. In the table, you can see how many cells we
+dispense from the very beginning and how much cells, per sample, we got after-quality controls.
+I have to say that this quality control is not regarding the instrument itself. It's after
+bioinformatic analysis evaluating housekeeping genes, performances, number of genes detected per
+cell, in media, and whatever. So after the first bioinformatic data-quality control.
+The first results we get technically, again, we started with exactly the same amount of cells for
+the isolate alone, as well as for the combination, which were about 3,000 cells. Then we sequenced
+exactly in the same way to get about 400,000 reads in media per cell for both approaches.
+And the first thing we observed is that by using the isolate alone, you will be able to
+assess much more exonic reads. But if you take a look on the feature A, the amount of intronic
+as well as intergenic reads from the combination is much higher. In the feature B, you can see that
+all transcript we found in the isolate, in the well-established isolate, were found even in the
+combination. And much more, especially long-known coding RNAs, were found in the combination. And
+in feature C, you can see an RNA biotyping from both technologies. And even you, I showed you
+in the slide before that the performances of isolate in terms of coding RNAs in comparison
+with the techniques is excellent. But you can see here that when you compare the combination,
+we are able to assess much more long-known coding RNAs that are working with the isolate alone.
+Okay. Technically, we can say that the combination is working really fine and that the
+overlap between well-established technologies, such as the isolate, is the performances of the
+combination is working really fine. Now, we are coming much more in terms of biological evaluation.
+And the first thing we did is, of course, this is a very common data analysis, nothing special,
+because we proceed with data visualization, how we would classroom the patients in the UMAP from
+the combination and the isolate alone. In panel B, you can see a top-handed markers or genes found
+through the whole progeria samples, because in this disease, you will find many, many genes
+that are differentially expressed that are common or associated directly to progeria syndrome.
+And in the panel C, we evaluated them in an unsupervised clustering,
+the general progeria transcriptome pathways that we already know. For example,
+cluster 5 and 2 from visual C are much more related to the patient 13-9 and 13-60.
+Then you can see clearly cluster 4 and 3, which are much more associated with patients
+615 and 800. And then we can see on the heat map, some already known molecules involved in pathways
+are partially known from the progeria. And we evaluate, as usually, some kind of genes that
+has been described as this kind of markers for specific phenotypes under the UMAP.
+And once we evaluate transcriptional profiling, the next step was to perform a single,
+so to determine variants, SNP-calling variants within the samples. And for this,
+because we are looking at phenotypically differences, we determined the follow conditions.
+First of all, because of single-cell RNA has a lot of noise, you have, in order to assess variants,
+to use additional data sets, such as bicarbonate sequencing, whole exome sequencing approaches
+similar to those, in order to confirm all variants you are getting from the single-cell data.
+The second condition was, of course, to evaluate known synonymous mutations,
+because this is a very experimental bioinformatic data set.
+that most of them were already reported in the database
+from a single nucleotide polymorphisms.
+And because of phenotype description,
+we searched specifically for those variants
+that were known uniform distributed.
+This mean patient specific.
+And we got a list of several hundred of those variants
+for each of the samples.
+And you can see here a visualization of very few of them.
+And we tried, of course, to define some variant
+for each of the patients that are labeled in red
+in the UMAP.
+The next step was based on these variants,
+we performed similar to one study from Peethi 2021
+published in Nature Communications.
+There was a linear regression tool in order to associate,
+I have to show you the regular ones in much more detail.
+We performed this kind of regular analysis on the left.
+You can see all eight samples we analyze
+regarding these specific mutation,
+in this case for patient 615
+and mutation in the gene DAX at this specific position.
+And you can see the transcriptional effect
+regarding these variants.
+And those genes on the upper part of the regular
+or heat map are transcriptional markers
+suggest to be direct related to this specific mutation.
+This is, of course, bioinformatically calculated
+and non-functional study has been done till now.
+For this reason, we decided to proceed with the next step,
+which is in order to confirm the regular results,
+we took each of the sample patients,
+in this case sample 615 and sample 1360,
+we took the mutation we found for the gene DAX,
+as well as the mitochondrial SIP,
+each of them for each of these specific patients.
+And what we found, you can see on the left in red,
+I put all genes that has been commonly
+detect for this sample
+when we are doing differential expression analysis
+between mutated cells and non-mutated cells
+from these specific patients.
+And what was really nice to see is that
+when we are doing reactome
+and connecting all of these molecules,
+we were able to define some pathways
+specific for this specific sample based on this mutation,
+which was for sample 615,
+the transcriptional regulation of TP53,
+that's confirmed result from transcriptomic,
+I show you from the very beginning.
+A part of this, we realized that the gene DAX itself
+was differentially expressed, not only mutated,
+and is associated, strongly associated
+while formative lengthening of telomeres,
+which is the main pathway described phenotypically
+for these patients.
+On the other side, you have the other patient
+with the mitochondrial mutation
+and the mitochondrial dysfunction in progeria
+is the second main pathway associated to progeria.
+And we could find a lot of overlap of genes in red,
+even again, that were found transcriptionally
+as well as in the regular,
+as well when we are doing differential expression analysis
+between mutated and non-mutated cells.
+In this specific case that we found
+when you are doing reactome,
+that's the restrictional regulation of MSSA is regulated
+as well as the MET activation,
+and MET activation is something
+that has been previously described.
+So that we could test by using confirmations
+of variants in single cells with other data sets
+by using data previously published
+that the tools bioinformatically we apply for this
+are reliable in this kind of thing.
+So, lastly, so I would like to say
+that improvement for RNA therapeutic consists
+of the choose of downstream application of RNA-Seq
+depending of the biological question,
+the processing of long non-coding RNAs,
+and you sure know that most of biomarkers
+currently defined for disease,
+especially in oncology are long non-coding RNAs,
+to evaluate genetic variants
+associated to transcriptional markers
+and to evaluate samples phenotype
+based on transcriptional and genetic events.
+So now I'm finished with this presentation
+and of course would like to send my book,
+which consists of excellent technical assistance
+as well as bioinformaticians working
+not only in service staff, much more in research
+and students, and especially groups
+and institutions in getting has been working
+in the development of single cell platform,
+especially the German Center for Neurodegenerative Disease,
+Professor Andrew Fisher, the cardiology,
+Professor Hasselbusser, Hubert C. Mehrman,
+the oncology and the human genetics
+by Professor Dr. Bolognic.
+Thank you for your attention.
+So I'm happy to hear if you have some questions.
+Yeah, thank you very much for this very nice presentation.
+Technically very interesting,
+also very interesting biology.
+If you have questions, please raise your hand
+or also type your questions into the chat.
+That would be great.
+So I can already start with the first question
+that has been pasted into the chat.
+It comes from Rodrigo Continua de Almeida.
+And the question is,
+did you look for alternative splicing events
+in the ISL8 in combination with the cell in one?
+I have to say that the evaluation of splicing variants
+by doing full length is of course possible,
+especially when you are doing the single total RNA,
+because the coverage is much better.
+But we never look specifically at this,
+much more how would this a coverage
+and how deep you need to sequence
+in order to perform calling variants with this.
+But in theory, the evaluation of this is possible.
+Thank you very much.
+I personally also have a question until we wait,
+maybe there'll be more questions
+and I'll ask you in the meantime, what about the costs?
+I mean, I think you kind of presented very nice data
+on the advantages of combining like the cell in one
+and the ISL8 that looks very interesting,
+very promising particularly for the kind of large cell types.
+Can you say something about costs
+in comparison to tele-genomics or other platforms
+in terms of per cell costs and overall costs?
+Yeah, exactly.
+So I already said that the 10 genomic
+is evaluating about 7, 800, sorry, 8,000 cells at once.
+And if you ask about cost per cell,
+sure will be the 10 genomics probably cheaper,
+but what I can tell you is the cost
+you will need per experiment
+and I'm talking about per chip.
+So evaluation of three to 4,000 cells,
+you have two different steps to consider.
+First of all, the dispensing RT chemistry
+during libraries for one chip,
+which is about 3,900 euros or 4,000 euro around.
+And then the sequencing cost and this depend of course,
+what you would like to do with the data.
+In this particular case, in which we sequence DPIR
+in order to determine variants
+as well as DPIR transcriptomics,
+long non-coding RNAs, whatever,
+we sequence 400,000 read per cell.
+And these are mostly two lanes
+in the high sec 4,000, for example.
+And these are costs of about 2,500 only for sequencing.
+So then you need to add this
+to the 4,000 before 6,500 euro per experiment.
+with a very deep sequence.
+Yeah, cool.
+Good to know.
+And if we already get like your direct feedback
+from a facility, how many users at the moment
+kind of using, for example, this platform
+versus others in your lab?
+Exactly.
+This is a good question because we are working very close
+to the human genetics and we are working much more
+in clinical trials, in clinical issues.
+And for this reason, it will be in the future essential
+to evaluate variants beside transcriptomics.
+And the most of the researchers work in the cardiology
+that would like to assess whole cells and whatever.
+So we have 80% of the people using this technology
+because it's working fine.
+But we still have other people working with 10X,
+for example, Andre from the German center for neuro,
+he still working with the 10X,
+but in case he's looking for low-nobody RNAs,
+he knows he has to generate data with the isolate platform
+much more than, always depends what you would like to do.
+Sorry, I was on mute.
+So I ask you once more to paste questions
+or raise your hands if you have some.
+At the moment, I don't see raised hands.
+I have asked one more questions in the meantime.
+So I was very intrigued by the long non-coding RNAs
+that you can detect now.
+I think it's very exciting and indeed, of course,
+very difficult with the classical approaches.
+So from a more biological term,
+I mean, if you basically do these types of analysis
+and only subset your data on long non-coding RNAs,
+do you also see cell type separation?
+So does basically every cell type has really
+a unique composition of long non-coding RNAs?
+This is an excellent question we have to do.
+I have to say that we started with the single cell total RNA
+a couple of months ago, mainly working with neurons.
+And what we are doing is you map from all of them.
+We consider not only long non-coding RNAs,
+even the poly-A transcripts,
+but sure, with the data we already have,
+we can take a look at that,
+but we never perform only for this.
+Okay, yeah, very exciting.
+I'm very much looking forward to see how this looks like.
+I think this would be really cool.
+Yeah.
+Yeah, there's one more question coming in,
+which I think will be our last question
+because then we're also kind of at the end of the time.
+So Ipek Guneng ask you,
+hi, could you maybe explain the difference
+in the UMAP between the methods
+with ISL8 only versus ISL8 joined with the cell in one?
+So to think that by using probably if we did this study
+with the genomics, you will get other UMAPs.
+So UMAPs are not identical
+because you are using different chemistry.
+Even in the comparison,
+we are not using exactly the same ISL8 chemistry
+because of volume differences.
+So we are working with 250 nanoliters N volume in the ISL8
+and 200 only in the ISL8,
+sorry, in the combination with 250
+and in ISL8 only with 200.
+So there is a lot of differences in volume
+and performances.
+Still the same chemistry,
+but you are not able to generate
+working with different platforms,
+same visualization of clusters.
+And this can vary.
+And this is an important thing
+because I would like to sensibilize people
+to go out from clusters and to shower,
+take a look at the data in much more detail.
+Many people need to understand what's mean a cluster.
+Our cells like are probably much more apoptotic
+than what's because markers even are difficult
+to define cell types mostly.
+In the single cell atlas,
+the information coming from different cell types
+and tissues is even very heterogeneous.
+And for this reason,
+I think that to shower UMAPs
+and to over-interpretate this basal cluster
+is always a mistake researchers are doing.
+Thank you very much for this explanation.
+Very interesting with this,
+and we are slightly over time.
+And I would like to thank you again, Gabriella,
+for giving this really nice overview,
+both on the technical aspect
+and particularly I think important for fragile cells
+and for large cells.
+I think it's a really, really important contribution here
+and really important insights,
+but also in all the other aspects that you mentioned,
+really interesting presentation.
+I would like to remind you that in case you missed something
+and this session is recorded,
+so you can basically rewatch it
+if you're interested in specific details
+that you may have missed.
+I would also like to remind you that in two weeks,
+we have another SCOP meeting or SCOP presentation
+by Dr. Tashibana from Munich,
+the 1st of July, same time as today, 9.30.
+And with this, yeah, thanks again, Gabriella,
+for this nice presentation.
+And I wish you all a great Friday
+and a nice weekend ahead of you.
