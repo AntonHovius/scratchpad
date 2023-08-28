@@ -1,84 +1,308 @@
-Blood Pressure, Hypertension, and the Risk of Aortic Dissection Incidence and Mortality: Results From the J-SCH Study, the UK Biobank Study, and a Meta-Analysis of Cohort Studies
-
-Summary:
-The research article delves into the relationship between hypertension or elevated blood pressure (BP) and the risk of aortic dissection (AD). Despite hypertension being a known risk factor for AD, there have been limited prospective studies on this topic. This research analyzed data from two significant cohorts: the J-SHC study (Japan-Specific Health Checkups) and the UK Biobank, with over 500,000 participants each. Using multivariable Cox regression, the study estimated hazard ratios to understand the association of hypertension/elevated BP with AD incidence and mortality. The results from both cohorts and a meta-analysis of other studies indicated a strong positive dose-response relationship between BP and AD risk. The research concluded that hypertension and elevated systolic and diastolic BP significantly increase the risk of AD, even within the normal BP range.
-
-Study Design and Rationale: 
-
-Comprehensive Approach - The study utilized data from two large cohorts and conducted a meta-analysis. This comprehensive approach enhances the validity of the findings and allows for better generalization across different populations. Using multiple sources of data can provide a more holistic understanding and reduce biases that might be present in a single dataset.
-Stated Hypothesis - The research does not explicitly state a hypothesis in the provided content. However, the objective is clear: to investigate the association between hypertension/elevated BP and AD.
-Research Question and Study Design - The research question focuses on understanding the relationship between elevated blood pressure or hypertension and the risk of aortic dissection. The study design, which includes analyzing data from two large cohorts and conducting a meta-analysis, is appropriate for this type of research question as it allows for a comprehensive examination of the association across different populations and contexts.
-
-Background and Rationale:
-
-Hypertension or elevated blood pressure (BP) is identified as a significant risk factor for aortic dissection (AD). However, there have been limited prospective studies on this topic.
-The research aimed to fill the knowledge gap by investigating the association between hypertension/elevated BP and AD using two large cohorts and a meta-analysis of published studies.
-
-Methods:
-
-J-SHC Study (Japan-Specific Health Checkups): This study was based on health checkups for Japanese inhabitants aged between 40 and 74. The study followed participants until they reached 75 years of age. The outcome was AD death, determined from death certificates.
-UK Biobank: This was a large-scale prospective cohort study involving participants aged 40 to 69. The primary outcome was the incidence of AD, determined from hospital admission or death records.
-Meta-Analysis: The researchers conducted a systematic review and meta-analysis in line with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. They included published retrospective or prospective cohort studies and nested case-control studies within prospective studies.
-
-Results:
-
-In both the J-SHC study and UK Biobank, there was a significant association between hypertension/elevated BP and AD incidence. The risk of AD was found to be positively dose-dependent, even within the normal BP range.
-The meta-analysis further reinforced these findings, showing a strong, positive dose-response relationship between BP and AD.
-
-Discussion:
-
-The research is among the most extensive studies on the association between BP and the risk of AD.
-The findings underscore the importance of managing and optimizing blood pressure to prevent AD, a severe condition with potentially catastrophic complications.
-The study also highlights the need for further research to understand the nuances of the relationship between BP and AD, especially considering the dose-dependent risk even within the normal BP range.
-
-Key Takeaways:
-
-1) Hypertension and elevated BP are significant risk factors for aortic dissection.
-2) The comprehensive approach of using two large cohorts and a meta-analysis provides robust evidence for the findings.
-3) The research emphasizes the importance of blood pressure management in preventing severe conditions like AD.
-
-Implications for Public Health
-
-Given the strong association between hypertension/elevated BP and AD, how might public health initiatives be tailored to address this risk and promote better cardiovascular health?
-
-Summary:
-The research article investigates the association between hypertension or elevated blood pressure (BP) and aortic dissection (AD). Data from two major cohort studies, the J-SHC study (Japan-Specific Health Checkups) and UK Biobank, were analyzed. The findings reveal a strong association between hypertension, elevated systolic and diastolic blood pressure, and the risk of AD. The risk of AD was found to be dose-dependent, even within the normal BP range. The article emphasizes the importance of optimizing blood pressure to prevent AD, given its serious implications.
-
-Implications for Public Health:
-
-Strong Association with Hypertension: The research highlights a significant correlation between hypertension and the risk of AD. Public health initiatives should prioritize regular blood pressure monitoring and early intervention for those with elevated BP.
-Dose-Dependent Risk: Even within the normal BP range, there's a positive dose-dependent risk of AD. This suggests that even slight elevations in BP can increase the risk, emphasizing the need for maintaining optimal BP levels.
-Public Awareness: Given the severe consequences of AD, there's a need for increased public awareness about the importance of regular BP check-ups, lifestyle modifications, and adherence to prescribed medications.
-Given the strong association between hypertension/elevated BP and AD, public health initiatives can be tailored by emphasizing regular BP monitoring, promoting a heart-healthy lifestyle, and ensuring adherence to prescribed medications. Additionally, public awareness campaigns can educate the masses about the risks associated with elevated BP and the importance of maintaining optimal levels.
-
-Limitations and Future Research:
-
-Sample Size and Diversity: The study primarily focuses on data from the J-SHC study (Japan-Specific Health Checkups) and the UK Biobank. While these are large cohorts, the study's findings might be more applicable to the populations of Japan and the UK, potentially limiting generalizability to other populations.
-Data Exclusions: A significant number of individuals were excluded from the J-SHC study due to a lack of essential data, which could introduce bias.
-Self-Reported Data: Some data, such as the history of coronary artery disease, were determined from self-reports, which can introduce recall bias.
-Outcome Measurement: The primary outcome for the J-SHC study was AD death determined from death certificates, which might not capture all cases or misclassify some.
-Potential Confounders: While the study adjusted for several potential confounders, there's always a possibility of residual confounding in observational studies.
-Future research could aim to include more diverse populations, utilize more comprehensive data collection methods, and explore other potential risk factors for aortic dissection.
-
-Type of Study and Its Strengths and Limitations:
-
-Type: This is a cohort study combined with a meta-analysis of other cohort studies.
-Strengths:
-Large sample sizes from the J-SHC study and the UK Biobank provide robust statistical power.
-The study combines individual data analysis with a meta-analysis, enhancing the generalizability of the findings.
-Adjustments were made for several potential confounders, reducing the risk of biased estimates.
-Limitations:
-Cohort studies are observational, so they can't establish causation.
-There's potential for selection bias, especially given the exclusions in the J-SHC study.
-The reliance on death certificates in the J-SHC study might lead to misclassification.
-
-Statistical Analyses and Bias:
-
-Analyses: The study employed multivariable Cox regression to estimate hazard ratios, and in the meta-analysis, summary relative risks were calculated with random-effects models. Nonlinear dose-response relationships were also tested.
-Bias Considerations:
-The study adjusted for multiple potential confounders, reducing the risk of confounding bias.
-The use of self-reported data introduces the potential for recall bias.
-Excluding participants based on missing data can introduce selection bias.
-The study acknowledges heterogeneity in the meta-analysis, which suggests variability in the results of the included studies.
-
-While the study provides valuable insights into the association between hypertension/elevated BP and aortic dissection, it's essential to consider its limitations when interpreting the findings. Future research can build upon this by addressing the mentioned limitations and exploring the topic in more diverse populations.
+But if you take a look on the feature A, the amount of intronic
+as well as intergenic reads from the combination is much higher. In the feature B, you can see that
+all transcript we found in the isolate, in the well-established isolate, were found even in the
+combination. And much more, especially long-known coding RNAs, were found in the combination. And
+in feature C, you can see an RNA biotyping from both technologies. And even you, I showed you
+in the slide before that the performances of isolate in terms of coding RNAs in comparison
+with the techniques is excellent. But you can see here that when you compare the combination,
+we are able to assess much more long-known coding RNAs that are working with the isolate alone.
+Okay. Technically, we can say that the combination is working really fine and that the
+overlap between well-established technologies, such as the isolate, is the performances of the
+combination is working really fine. Now, we are coming much more in terms of biological evaluation.
+And the first thing we did is, of course, this is a very common data analysis, nothing special,
+because we proceed with data visualization, how we would classroom the patients in the UMAP from
+the combination and the isolate alone. In panel B, you can see a top-handed markers or genes found
+through the whole progeria samples, because in this disease, you will find many, many genes
+that are differentially expressed that are common or associated directly to progeria syndrome.
+And in the panel C, we evaluated them in an unsupervised clustering,
+the general progeria transcriptome pathways that we already know. For example,
+cluster 5 and 2 from visual C are much more related to the patient 13-9 and 13-60.
+Then you can see clearly cluster 4 and 3, which are much more associated with patients
+615 and 800. And then we can see on the heat map, some already known molecules involved in pathways
+are partially known from the progeria. And we evaluate, as usually, some kind of genes that
+has been described as this kind of markers for specific phenotypes under the UMAP.
+And once we evaluate transcriptional profiling, the next step was to perform a single,
+so to determine variants, SNP-calling variants within the samples. And for this,
+because we are looking at phenotypically differences, we determined the follow conditions.
+First of all, because of single-cell RNA has a lot of noise, you have, in order to assess variants,
+to use additional data sets, such as bicarbonate sequencing, whole exome sequencing approaches
+similar to those, in order to confirm all variants you are getting from the single-cell data.
+The second condition was, of course, to evaluate known synonymous mutations,
+because this is a very experimental bioinformatic data set.
+that most of them were already reported in the database
+from a single nucleotide polymorphisms.
+And because of phenotype description,
+we searched specifically for those variants
+that were known uniform distributed.
+This mean patient specific.
+And we got a list of several hundred of those variants
+for each of the samples.
+And you can see here a visualization of very few of them.
+And we tried, of course, to define some variant
+for each of the patients that are labeled in red
+in the UMAP.
+The next step was based on these variants,
+we performed similar to one study from Peethi 2021
+published in Nature Communications.
+There was a linear regression tool in order to associate,
+I have to show you the regular ones in much more detail.
+We performed this kind of regular analysis on the left.
+You can see all eight samples we analyze
+regarding these specific mutation,
+in this case for patient 615
+and mutation in the gene DAX at this specific position.
+And you can see the transcriptional effect
+regarding these variants.
+And those genes on the upper part of the regular
+or heat map are transcriptional markers
+suggest to be direct related to this specific mutation.
+This is, of course, bioinformatically calculated
+and non-functional study has been done till now.
+For this reason, we decided to proceed with the next step,
+which is in order to confirm the regular results,
+we took each of the sample patients,
+in this case sample 615 and sample 1360,
+we took the mutation we found for the gene DAX,
+as well as the mitochondrial SIP,
+each of them for each of these specific patients.
+And what we found, you can see on the left in red,
+I put all genes that has been commonly
+detect for this sample
+when we are doing differential expression analysis
+between mutated cells and non-mutated cells
+from these specific patients.
+And what was really nice to see is that
+when we are doing reactome
+and connecting all of these molecules,
+we were able to define some pathways
+specific for this specific sample based on this mutation,
+which was for sample 615,
+the transcriptional regulation of TP53,
+that's confirmed result from transcriptomic,
+I show you from the very beginning.
+A part of this, we realized that the gene DAX itself
+was differentially expressed, not only mutated,
+and is associated, strongly associated
+while formative lengthening of telomeres,
+which is the main pathway described phenotypically
+for these patients.
+On the other side, you have the other patient
+with the mitochondrial mutation
+and the mitochondrial dysfunction in progeria
+is the second main pathway associated to progeria.
+And we could find a lot of overlap of genes in red,
+even again, that were found transcriptionally
+as well as in the regular,
+as well when we are doing differential expression analysis
+between mutated and non-mutated cells.
+In this specific case that we found
+when you are doing reactome,
+that's the restrictional regulation of MSSA is regulated
+as well as the MET activation,
+and MET activation is something
+that has been previously described.
+So that we could test by using confirmations
+of variants in single cells with other data sets
+by using data previously published
+that the tools bioinformatically we apply for this
+are reliable in this kind of thing.
+So, lastly, so I would like to say
+that improvement for RNA therapeutic consists
+of the choose of downstream application of RNA-Seq
+depending of the biological question,
+the processing of long non-coding RNAs,
+and you sure know that most of biomarkers
+currently defined for disease,
+especially in oncology are long non-coding RNAs,
+to evaluate genetic variants
+associated to transcriptional markers
+and to evaluate samples phenotype
+based on transcriptional and genetic events.
+So now I'm finished with this presentation
+and of course would like to send my book,
+which consists of excellent technical assistance
+as well as bioinformaticians working
+not only in service staff, much more in research
+and students, and especially groups
+and institutions in getting has been working
+in the development of single cell platform,
+especially the German Center for Neurodegenerative Disease,
+Professor Andrew Fisher, the cardiology,
+Professor Hasselbusser, Hubert C. Mehrman,
+the oncology and the human genetics
+by Professor Dr. Bolognic.
+Thank you for your attention.
+So I'm happy to hear if you have some questions.
+Yeah, thank you very much for this very nice presentation.
+Technically very interesting,
+also very interesting biology.
+If you have questions, please raise your hand
+or also type your questions into the chat.
+That would be great.
+So I can already start with the first question
+that has been pasted into the chat.
+It comes from Rodrigo Continua de Almeida.
+And the question is,
+did you look for alternative splicing events
+in the ISL8 in combination with the cell in one?
+I have to say that the evaluation of splicing variants
+by doing full length is of course possible,
+especially when you are doing the single total RNA,
+because the coverage is much better.
+But we never look specifically at this,
+much more how would this a coverage
+and how deep you need to sequence
+in order to perform calling variants with this.
+But in theory, the evaluation of this is possible.
+Thank you very much.
+I personally also have a question until we wait,
+maybe there'll be more questions
+and I'll ask you in the meantime, what about the costs?
+I mean, I think you kind of presented very nice data
+on the advantages of combining like the cell in one
+and the ISL8 that looks very interesting,
+very promising particularly for the kind of large cell types.
+Can you say something about costs
+in comparison to tele-genomics or other platforms
+in terms of per cell costs and overall costs?
+Yeah, exactly.
+So I already said that the 10 genomic
+is evaluating about 7, 800, sorry, 8,000 cells at once.
+And if you ask about cost per cell,
+sure will be the 10 genomics probably cheaper,
+but what I can tell you is the cost
+you will need per experiment
+and I'm talking about per chip.
+So evaluation of three to 4,000 cells,
+you have two different steps to consider.
+First of all, the dispensing RT chemistry
+during libraries for one chip,
+which is about 3,900 euros or 4,000 euro around.
+And then the sequencing cost and this depend of course,
+what you would like to do with the data.
+In this particular case, in which we sequence DPIR
+in order to determine variants
+as well as DPIR transcriptomics,
+long non-coding RNAs, whatever,
+we sequence 400,000 read per cell.
+And these are mostly two lanes
+in the high sec 4,000, for example.
+And these are costs of about 2,500 only for sequencing.
+So then you need to add this
+to the 4,000 before 6,500 euro per experiment.
+with a very deep sequence.
+Yeah, cool.
+Good to know.
+And if we already get like your direct feedback
+from a facility, how many users at the moment
+kind of using, for example, this platform
+versus others in your lab?
+Exactly.
+This is a good question because we are working very close
+to the human genetics and we are working much more
+in clinical trials, in clinical issues.
+And for this reason, it will be in the future essential
+to evaluate variants beside transcriptomics.
+And the most of the researchers work in the cardiology
+that would like to assess whole cells and whatever.
+So we have 80% of the people using this technology
+because it's working fine.
+But we still have other people working with 10X,
+for example, Andre from the German center for neuro,
+he still working with the 10X,
+but in case he's looking for low-nobody RNAs,
+he knows he has to generate data with the isolate platform
+much more than, always depends what you would like to do.
+Sorry, I was on mute.
+So I ask you once more to paste questions
+or raise your hands if you have some.
+At the moment, I don't see raised hands.
+I have asked one more questions in the meantime.
+So I was very intrigued by the long non-coding RNAs
+that you can detect now.
+I think it's very exciting and indeed, of course,
+very difficult with the classical approaches.
+So from a more biological term,
+I mean, if you basically do these types of analysis
+and only subset your data on long non-coding RNAs,
+do you also see cell type separation?
+So does basically every cell type has really
+a unique composition of long non-coding RNAs?
+This is an excellent question we have to do.
+I have to say that we started with the single cell total RNA
+a couple of months ago, mainly working with neurons.
+And what we are doing is you map from all of them.
+We consider not only long non-coding RNAs,
+even the poly-A transcripts,
+but sure, with the data we already have,
+we can take a look at that,
+but we never perform only for this.
+Okay, yeah, very exciting.
+I'm very much looking forward to see how this looks like.
+I think this would be really cool.
+Yeah.
+Yeah, there's one more question coming in,
+which I think will be our last question
+because then we're also kind of at the end of the time.
+So Ipek Guneng ask you,
+hi, could you maybe explain the difference
+in the UMAP between the methods
+with ISL8 only versus ISL8 joined with the cell in one?
+So to think that by using probably if we did this study
+with the genomics, you will get other UMAPs.
+So UMAPs are not identical
+because you are using different chemistry.
+Even in the comparison,
+we are not using exactly the same ISL8 chemistry
+because of volume differences.
+So we are working with 250 nanoliters N volume in the ISL8
+and 200 only in the ISL8,
+sorry, in the combination with 250
+and in ISL8 only with 200.
+So there is a lot of differences in volume
+and performances.
+Still the same chemistry,
+but you are not able to generate
+working with different platforms,
+same visualization of clusters.
+And this can vary.
+And this is an important thing
+because I would like to sensibilize people
+to go out from clusters and to shower,
+take a look at the data in much more detail.
+Many people need to understand what's mean a cluster.
+Our cells like are probably much more apoptotic
+than what's because markers even are difficult
+to define cell types mostly.
+In the single cell atlas,
+the information coming from different cell types
+and tissues is even very heterogeneous.
+And for this reason,
+I think that to shower UMAPs
+and to over-interpretate this basal cluster
+is always a mistake researchers are doing.
+Thank you very much for this explanation.
+Very interesting with this,
+and we are slightly over time.
+And I would like to thank you again, Gabriella,
+for giving this really nice overview,
+both on the technical aspect
+and particularly I think important for fragile cells
+and for large cells.
+I think it's a really, really important contribution here
+and really important insights,
+but also in all the other aspects that you mentioned,
+really interesting presentation.
+I would like to remind you that in case you missed something
+and this session is recorded,
+so you can basically rewatch it
+if you're interested in specific details
+that you may have missed.
+I would also like to remind you that in two weeks,
+we have another SCOP meeting or SCOP presentation
+by Dr. Tashibana from Munich,
+the 1st of July, same time as today, 9.30.
+And with this, yeah, thanks again, Gabriella,
+for this nice presentation.
+And I wish you all a great Friday
+and a nice weekend ahead of you.
