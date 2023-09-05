@@ -1,308 +1,55 @@
-But if you take a look on the feature A, the amount of intronic
-as well as intergenic reads from the combination is much higher. In the feature B, you can see that
-all transcript we found in the isolate, in the well-established isolate, were found even in the
-combination. And much more, especially long-known coding RNAs, were found in the combination. And
-in feature C, you can see an RNA biotyping from both technologies. And even you, I showed you
-in the slide before that the performances of isolate in terms of coding RNAs in comparison
-with the techniques is excellent. But you can see here that when you compare the combination,
-we are able to assess much more long-known coding RNAs that are working with the isolate alone.
-Okay. Technically, we can say that the combination is working really fine and that the
-overlap between well-established technologies, such as the isolate, is the performances of the
-combination is working really fine. Now, we are coming much more in terms of biological evaluation.
-And the first thing we did is, of course, this is a very common data analysis, nothing special,
-because we proceed with data visualization, how we would classroom the patients in the UMAP from
-the combination and the isolate alone. In panel B, you can see a top-handed markers or genes found
-through the whole progeria samples, because in this disease, you will find many, many genes
-that are differentially expressed that are common or associated directly to progeria syndrome.
-And in the panel C, we evaluated them in an unsupervised clustering,
-the general progeria transcriptome pathways that we already know. For example,
-cluster 5 and 2 from visual C are much more related to the patient 13-9 and 13-60.
-Then you can see clearly cluster 4 and 3, which are much more associated with patients
-615 and 800. And then we can see on the heat map, some already known molecules involved in pathways
-are partially known from the progeria. And we evaluate, as usually, some kind of genes that
-has been described as this kind of markers for specific phenotypes under the UMAP.
-And once we evaluate transcriptional profiling, the next step was to perform a single,
-so to determine variants, SNP-calling variants within the samples. And for this,
-because we are looking at phenotypically differences, we determined the follow conditions.
-First of all, because of single-cell RNA has a lot of noise, you have, in order to assess variants,
-to use additional data sets, such as bicarbonate sequencing, whole exome sequencing approaches
-similar to those, in order to confirm all variants you are getting from the single-cell data.
-The second condition was, of course, to evaluate known synonymous mutations,
-because this is a very experimental bioinformatic data set.
-that most of them were already reported in the database
-from a single nucleotide polymorphisms.
-And because of phenotype description,
-we searched specifically for those variants
-that were known uniform distributed.
-This mean patient specific.
-And we got a list of several hundred of those variants
-for each of the samples.
-And you can see here a visualization of very few of them.
-And we tried, of course, to define some variant
-for each of the patients that are labeled in red
-in the UMAP.
-The next step was based on these variants,
-we performed similar to one study from Peethi 2021
-published in Nature Communications.
-There was a linear regression tool in order to associate,
-I have to show you the regular ones in much more detail.
-We performed this kind of regular analysis on the left.
-You can see all eight samples we analyze
-regarding these specific mutation,
-in this case for patient 615
-and mutation in the gene DAX at this specific position.
-And you can see the transcriptional effect
-regarding these variants.
-And those genes on the upper part of the regular
-or heat map are transcriptional markers
-suggest to be direct related to this specific mutation.
-This is, of course, bioinformatically calculated
-and non-functional study has been done till now.
-For this reason, we decided to proceed with the next step,
-which is in order to confirm the regular results,
-we took each of the sample patients,
-in this case sample 615 and sample 1360,
-we took the mutation we found for the gene DAX,
-as well as the mitochondrial SIP,
-each of them for each of these specific patients.
-And what we found, you can see on the left in red,
-I put all genes that has been commonly
-detect for this sample
-when we are doing differential expression analysis
-between mutated cells and non-mutated cells
-from these specific patients.
-And what was really nice to see is that
-when we are doing reactome
-and connecting all of these molecules,
-we were able to define some pathways
-specific for this specific sample based on this mutation,
-which was for sample 615,
-the transcriptional regulation of TP53,
-that's confirmed result from transcriptomic,
-I show you from the very beginning.
-A part of this, we realized that the gene DAX itself
-was differentially expressed, not only mutated,
-and is associated, strongly associated
-while formative lengthening of telomeres,
-which is the main pathway described phenotypically
-for these patients.
-On the other side, you have the other patient
-with the mitochondrial mutation
-and the mitochondrial dysfunction in progeria
-is the second main pathway associated to progeria.
-And we could find a lot of overlap of genes in red,
-even again, that were found transcriptionally
-as well as in the regular,
-as well when we are doing differential expression analysis
-between mutated and non-mutated cells.
-In this specific case that we found
-when you are doing reactome,
-that's the restrictional regulation of MSSA is regulated
-as well as the MET activation,
-and MET activation is something
-that has been previously described.
-So that we could test by using confirmations
-of variants in single cells with other data sets
-by using data previously published
-that the tools bioinformatically we apply for this
-are reliable in this kind of thing.
-So, lastly, so I would like to say
-that improvement for RNA therapeutic consists
-of the choose of downstream application of RNA-Seq
-depending of the biological question,
-the processing of long non-coding RNAs,
-and you sure know that most of biomarkers
-currently defined for disease,
-especially in oncology are long non-coding RNAs,
-to evaluate genetic variants
-associated to transcriptional markers
-and to evaluate samples phenotype
-based on transcriptional and genetic events.
-So now I'm finished with this presentation
-and of course would like to send my book,
-which consists of excellent technical assistance
-as well as bioinformaticians working
-not only in service staff, much more in research
-and students, and especially groups
-and institutions in getting has been working
-in the development of single cell platform,
-especially the German Center for Neurodegenerative Disease,
-Professor Andrew Fisher, the cardiology,
-Professor Hasselbusser, Hubert C. Mehrman,
-the oncology and the human genetics
-by Professor Dr. Bolognic.
-Thank you for your attention.
-So I'm happy to hear if you have some questions.
-Yeah, thank you very much for this very nice presentation.
-Technically very interesting,
-also very interesting biology.
-If you have questions, please raise your hand
-or also type your questions into the chat.
-That would be great.
-So I can already start with the first question
-that has been pasted into the chat.
-It comes from Rodrigo Continua de Almeida.
-And the question is,
-did you look for alternative splicing events
-in the ISL8 in combination with the cell in one?
-I have to say that the evaluation of splicing variants
-by doing full length is of course possible,
-especially when you are doing the single total RNA,
-because the coverage is much better.
-But we never look specifically at this,
-much more how would this a coverage
-and how deep you need to sequence
-in order to perform calling variants with this.
-But in theory, the evaluation of this is possible.
-Thank you very much.
-I personally also have a question until we wait,
-maybe there'll be more questions
-and I'll ask you in the meantime, what about the costs?
-I mean, I think you kind of presented very nice data
-on the advantages of combining like the cell in one
-and the ISL8 that looks very interesting,
-very promising particularly for the kind of large cell types.
-Can you say something about costs
-in comparison to tele-genomics or other platforms
-in terms of per cell costs and overall costs?
-Yeah, exactly.
-So I already said that the 10 genomic
-is evaluating about 7, 800, sorry, 8,000 cells at once.
-And if you ask about cost per cell,
-sure will be the 10 genomics probably cheaper,
-but what I can tell you is the cost
-you will need per experiment
-and I'm talking about per chip.
-So evaluation of three to 4,000 cells,
-you have two different steps to consider.
-First of all, the dispensing RT chemistry
-during libraries for one chip,
-which is about 3,900 euros or 4,000 euro around.
-And then the sequencing cost and this depend of course,
-what you would like to do with the data.
-In this particular case, in which we sequence DPIR
-in order to determine variants
-as well as DPIR transcriptomics,
-long non-coding RNAs, whatever,
-we sequence 400,000 read per cell.
-And these are mostly two lanes
-in the high sec 4,000, for example.
-And these are costs of about 2,500 only for sequencing.
-So then you need to add this
-to the 4,000 before 6,500 euro per experiment.
-with a very deep sequence.
-Yeah, cool.
-Good to know.
-And if we already get like your direct feedback
-from a facility, how many users at the moment
-kind of using, for example, this platform
-versus others in your lab?
-Exactly.
-This is a good question because we are working very close
-to the human genetics and we are working much more
-in clinical trials, in clinical issues.
-And for this reason, it will be in the future essential
-to evaluate variants beside transcriptomics.
-And the most of the researchers work in the cardiology
-that would like to assess whole cells and whatever.
-So we have 80% of the people using this technology
-because it's working fine.
-But we still have other people working with 10X,
-for example, Andre from the German center for neuro,
-he still working with the 10X,
-but in case he's looking for low-nobody RNAs,
-he knows he has to generate data with the isolate platform
-much more than, always depends what you would like to do.
-Sorry, I was on mute.
-So I ask you once more to paste questions
-or raise your hands if you have some.
-At the moment, I don't see raised hands.
-I have asked one more questions in the meantime.
-So I was very intrigued by the long non-coding RNAs
-that you can detect now.
-I think it's very exciting and indeed, of course,
-very difficult with the classical approaches.
-So from a more biological term,
-I mean, if you basically do these types of analysis
-and only subset your data on long non-coding RNAs,
-do you also see cell type separation?
-So does basically every cell type has really
-a unique composition of long non-coding RNAs?
-This is an excellent question we have to do.
-I have to say that we started with the single cell total RNA
-a couple of months ago, mainly working with neurons.
-And what we are doing is you map from all of them.
-We consider not only long non-coding RNAs,
-even the poly-A transcripts,
-but sure, with the data we already have,
-we can take a look at that,
-but we never perform only for this.
-Okay, yeah, very exciting.
-I'm very much looking forward to see how this looks like.
-I think this would be really cool.
-Yeah.
-Yeah, there's one more question coming in,
-which I think will be our last question
-because then we're also kind of at the end of the time.
-So Ipek Guneng ask you,
-hi, could you maybe explain the difference
-in the UMAP between the methods
-with ISL8 only versus ISL8 joined with the cell in one?
-So to think that by using probably if we did this study
-with the genomics, you will get other UMAPs.
-So UMAPs are not identical
-because you are using different chemistry.
-Even in the comparison,
-we are not using exactly the same ISL8 chemistry
-because of volume differences.
-So we are working with 250 nanoliters N volume in the ISL8
-and 200 only in the ISL8,
-sorry, in the combination with 250
-and in ISL8 only with 200.
-So there is a lot of differences in volume
-and performances.
-Still the same chemistry,
-but you are not able to generate
-working with different platforms,
-same visualization of clusters.
-And this can vary.
-And this is an important thing
-because I would like to sensibilize people
-to go out from clusters and to shower,
-take a look at the data in much more detail.
-Many people need to understand what's mean a cluster.
-Our cells like are probably much more apoptotic
-than what's because markers even are difficult
-to define cell types mostly.
-In the single cell atlas,
-the information coming from different cell types
-and tissues is even very heterogeneous.
-And for this reason,
-I think that to shower UMAPs
-and to over-interpretate this basal cluster
-is always a mistake researchers are doing.
-Thank you very much for this explanation.
-Very interesting with this,
-and we are slightly over time.
-And I would like to thank you again, Gabriella,
-for giving this really nice overview,
-both on the technical aspect
-and particularly I think important for fragile cells
-and for large cells.
-I think it's a really, really important contribution here
-and really important insights,
-but also in all the other aspects that you mentioned,
-really interesting presentation.
-I would like to remind you that in case you missed something
-and this session is recorded,
-so you can basically rewatch it
-if you're interested in specific details
-that you may have missed.
-I would also like to remind you that in two weeks,
-we have another SCOP meeting or SCOP presentation
-by Dr. Tashibana from Munich,
-the 1st of July, same time as today, 9.30.
-And with this, yeah, thanks again, Gabriella,
-for this nice presentation.
-And I wish you all a great Friday
-and a nice weekend ahead of you.
+Introduction
+
+Marfan syndrome (MFS) is a hereditary connective tissue disorder  caused  by  mutations in the FBN1 gene, which encodes for ﬁbrillin-1  protein,  an important  constituent  of the  extracellular  matrix.  Although  these patients have a multisystemic disease that involves ocular, skeletal, and  cardiovascular  systems,  survival  is mainly determined by aortic complications. The current management of aortic involvement  in  MFS includes regular aortic imaging to evaluate aortic dilation progression, and prophylactic aortic repair when  aortic  dilation  reaches  a  deﬁned threshold that carries the threat of dissection (1). Current medical treatment aims to delay aortic dilation progression and avoid aortic complications, and betablockers are the standard treatment for preventing aortic dilation. However, the randomized evidence supporting the use of beta-blockers is limited to a single, small, open-label trial (2), and many patients experience  progressive  aortic  dilation  despite  such therapy (3,4). Furthermore, aortic dilation in MFS has been related to overexpression of transforming growth factor–beta (5). Therefore, losartan, an  angiotensin-II receptor blocker (ARB) that has previously demonstrated transforming growth factor–beta antagonism, has been studied. Four large clinical  trials  with  different  designs,  either comparing losartan with beta-blockers (6,7) or adding losartan or placebo to baseline treatment (8,9), included Marfan patients  with  different  age range  and aortic  dilation  proﬁles.  Results  at  3  years of follow-up ranged from reduction of aortic dilation from losartan treatment to no  beneﬁt  of  losartan added to baseline treatment (most of them with baseline  beta-blockers).  In  the  LOAT  (LOsartan vs ATenolol) trial (7), similar to The  Pediatric  Heart Network trial (6), no differences in aortic diameter progression were observed with losartan compared with  atenolol  treatment.  The  conﬂicting  results of the published studies raised the question of whether longer intervention would yield different results. Therefore, the aim of the present study was to eval- uate the beneﬁt of  losartan  compared  with  atenolol for  the  prevention  of  aortic  dilation  and  aortic  complications in Marfan patients over a longer period of observation (>5 years).
+
+Methods
+
+The MFS patients  included  in  the  previous  clinical trial (7) were followed-up over an open-label extension of the study, maintaining the initial treatment assigned by randomization. The follow-up protocol included a minimum of an annual clinical and echocardiographic evaluation. Clinical events (need  for aortic surgery based on Guidelines recommendations [1], aortic dissection, and/or death) were registered and, after at least 5 years had elapsed from the start of the clinical trial, a cardiac magnetic  resonance  imaging (CMR) study was performed. The study was approved by the ethics committees of both hospitals, and all patients (or their guardians) provided their written informed consent.
+PARTICIPANTS. The initial inclusion criteria for participation  in  the  LOAT  trial  were:  MFS  diagnosis (based on original Ghent criteria), age between 5 and 60 years, and maximum aortic root diameter <45 mm. Exclusion criteria were: history of aortic dissection or
+cardiac/aortic  surgery; grade III/IV aortic regurgitation; history of angioedema or any  other intolerance to angiotensin-converting enzyme inhibitors, ARB, or beta-blockers; treatment with other cardiovascular drugs; pregnancy or planned pregnancy; or history  of asthma,  respiratory  failure,  kidney,  or neurological disease.  A  total  of 140 participants were included in the LOAT trial.  In  the  present  study,  12  patients  were ruled  out:  5  who  withdrew  consent, 1 for hypertension,  2  for  planned  pregnancy,  and 2 for noncompliance within 6 months of the start of  the  trial (Figure 1), and 2 in whom Marfan diagnosis  was  posteriorly ruled out. Thus, 128 patients were included for the  extension  of  the  trial  (n  ¼  64  losartan  group, n ¼ 64 atenolol group).
+
+TREATMENT
+
+Patients were maintained on the same drug (losartan or atenolol) and at the same dosage as during the clinical trial. Treatment was interrupted if pregnancy was planned (for losartan) or signs  of clinical  intolerance  (hypotension  or  asthenia)  or other side effects associated with the treatment CMR STUDY. The CMR study was performed with the same protocol as in the LOAT trial. All CMR  studies were conducted with 1.5-T (Signa Excite GE, Milwaukee, Wisconsin) and 3-T systems (Philips Achieva Tx, Best, the Netherlands). Imaging of the entire aorta was obtained: steady-state free precession cine acquisitions were obtained in held expiration and with electrocardiography synchronization. Perpendicular cine images were obtained at the level of the sinuses of Valsalva and ascending aorta (at the level of the pulmonary bifurcation) using the double-oblique technique.  The  3 cusp-to-commissure diameters were measured at the aortic root level at the enddiastolic frame. The maximum of the 3 diameters at baseline and at follow-up was considered for analysis. Maximum ascending aortic diameter was  also measured. All measurements were indexed by body surface area at the time of the CMR study. Measurements were taken by a blinded observer (N.V.) using the QFlow software package, version  5.5  (Medis, Leiden, the Netherlands).
+
+OUTCOMES
+
+As in the previous LOAT trial, primary endpoints were deﬁned as changes in aortic root and ascending aorta diameter indexed by body surface
+area on CMR with losartan versus atenolol. Secondary endpoints were clinical events during follow-up, including aortic dissection, need for aortic  intervention or heart surgery, and death.
+
+STATISTICAL ANALYSIS
+
+Analyses were made following the modiﬁed intention-to-treat principle. Continuous variables were summarized as mean  SD or median and  interquartile  range.  Categorical  variables  were  presented  as  counts  and  percentages. Comparison of continuous variables was made by Student’s t-test and by chi-square test for categorical variables. When normality was not assumed, nonparametric analyses were made instead. Survival curves  were  estimated  using  the  Kaplan-Meier method  and  compared  with  log-rank  tests.  Statistical signiﬁcance was considered at p #0.05 (2-sided). Analyses  were  performed  using  SPSS  19.0  software (IBM,  Chicago,  Illinois).
+
+RESULTS
+
+A total of 128 patients were included in the  study:  64 from the  losartan  group  and  64  from  the  atenolol group. Baseline characteristics are  described  in Table 1. No differences were  observed  related  to  age, sex, body surface area, or aortic dimensions.  A  total  of 109 (85%) patients had FBN1 gene analysis, of whom a pathogenic mutation was found in 89 (82%): 50 (56%) were classiﬁed as dominant negative, 26 (29%) as haploinsufﬁcient, and 13 (15%) as unclassiﬁable. In the  losartan  group,  54  patients (84.4%) continued with losartan throughout follow-up; of the rest, 4 discontinued medical treatment, 5 changed to betablockers,  and  1  received  a  combination of atenolol plus losartan (due to hypertension).  A  total  of  48 patients (75.0%) in the atenolol group continued with atenolol throughout follow-up; 12 of the remaining patients  discontinued  medical  treatment, and 4 changed to losartan. Mean clinical follow-up was 6.7  1.5 years (median 7.2 years; interquartile range: 6.3 to 7.8 years). Nine events occurred in the losartan group (7  elective ascending aorta surgery, 1 elective descending aorta surgery, and 1 type A aortic dissection) and 12 in the atenolol group (9 elective  ascending  aorta  surgery,  2 type A aortic dissection,  and  1  type  B  aortic  dissection). Aortic root diameters prior to type A dissections were 43, 47, and 49 mm. Of the 4 aortic dissections, 3 resulted in death (1  type  B).  Survival  analysis  showed no differences in the combined  endpoint  of  aortic surgery, aortic dissection, or  death  (p  ¼ 0.462)  or  for the combined endpoint of  acute  aortic  syndrome  or death (p ¼ 0.305). Survival curves are shown in the Central Illustration.
+ 
+total  of 61  patients  from the losartan group and 58 from the atenolol group had follow-up CMR, either at a minimum of 5 years of follow-up or before the event.  Mean CMR  follow-up  was  5.9 2.0  years. Aortic root diameter increased in both groups:
+0.4	mm/year  (95%  conﬁdence  interval  [CI]:  0.2  to
+0.5	mm/year)  in  the  losartan  and  0.4  mm/year  (95%
+CI: 0.3 to 0.6 mm/year) in the atenolol groups. However, no statistically signiﬁcant differences in aortic dilation  progression  were  observed  between
+groups: —0.0 mm/year (95% CI: —0.25 to 0.17 mm/year; p ¼ 0.754). Furthermore, no statistically signiﬁcant differences  were  observed  when  evaluating  aortic  root
+diameters indexed by body surface area or  ascending aorta diameters (Table 2). Similar results were found when only patients who continued with the same treatment  as during the trial were considered (Online Table 1).
+In  the  subgroup  analyses,  no  signiﬁcant  beneﬁcial
+effect of losartan was observed on aortic root  diameter regardless of sex, age group, baseline aortic root diameter,  or  type  of  dominant  negative  versus  hap-
+loinsufﬁcient  FBN1  mutation  (Figure 2).
+DISCUSSION
+
+ 
+
+This is the longest study to date comparing clinical evolution and aortic dilation in Marfan patients treated with atenolol  versus  losartan.  This  study found no differences in clinical events over a  long period of treatment (median: 7.2 years) or in aortic dilation progression assessed by CMR (median 6.7  years).  Furthermore,  no  differences  were observed in the subgroup analysis by sex,  age,  baseline aortic diameters, or type of FBN1 mutation.
+Beta-blockers have become standard in the prevention  of  aortic  dilation  and  dissection  in  patients with MFS since the report by Shores  et  al.  (2). However, their beneﬁt is debatable, and 2 metaanalyses  also  reached  opposing  conclusions  (10,11). More recently, 4 prospective  randomized  trials, COMPARE (COzaar in Marfan  PAtients  Reduces aortic Enlargement) (8), Pediatric Heart Network (6), SARTAN  (Marfan  Sartan)  (9),  and  LOAT  (7),  were  the ﬁrst to examine the use of ARBs in Marfan patients; these trials followed the publication of the landmark work by Habashi et al. (12), in a mouse model, and the remarkably positive results of a  small,  nonrandomized trial on the effects of losartan in a small subset of children with a severe phenotype of the disease (3). The designs of these recent trials were diverse:  the  COMPARE  and  SARTAN  trials  assessed the  beneﬁt  of  adding  losartan  to  baseline  therapy compared with adding  placebo,  and  the  Pediatric Heart  Network  and  LOAT  trials  compared  the administration of losartan versus atenolol. The COMPARE was open-label, Pediatric  Heart  Network was single-blinded, and SARTAN and LOAT were double-blinded, randomized trials. Evaluation of the primary outcome, the rate of aortic root enlargement, was evaluated by echocardiography in the largest trials, the Pediatric Heart Network and SARTAN, and by CMR in the COMPARE and LOAT trials. Although COMPARE included only adult patients, 28% and 40%
+of patients in the  SARTAN  and  LOAT  trials,  respectively, were <18 years of age. By contrast, 75% of patients in the Pediatric Heart Network were  <16  years, and the mean Z-score of included patients ranged from 3.2 to 4.0. Clinical events were similar between treatment groups, and  only  the  COMPARE  trial showed a slight reduction in aortic root growth rate at 3 years  in  the  group  treated  with  losartan  (0.77  
+1.36 mm vs. 1.35 1.55 mm; p < 0.014). No relationship was found between blood pressure changes during treatment and aortic root growth rate  changes. Recently, a meta-analysis was published of all prospective randomized clinical trials studying the effect of losartan on aortic dilation (13). The results indicate that losartan treatment  slows the rate of aortic  dilation; however, no beneﬁts on clinical outcomes were
+observed in the losartan group compared with the nonlosartan group (most under beta-blocker treatment). This result, however,  should  be  interpreted with caution: as previously exposed, the design of the 6 studies differed signiﬁcantly, and the meta-analysis
+included redundant information of subgroup  analyses of the COMPARE trial. Furthermore, the relatively low dose of losartan administered in  human  trials compared with the mouse model could be an explanation for the lack of consistent positive results in human. However, one of the questions that remains to be answered is whether a longer intervention would yield different results. This question  is  partly addressed in the current study, where most patients maintained  the  baseline  randomized  treatment  and its doses, and after a 6-year treatment, we found no difference between losartan and atenolol treatment groups in the aortic root  dilation  rate  or  clinical events.  In  addition,  we  found  no  differences  in  losartan  efﬁcacy depending  on  the  type  of  FBN1  mutation,  thus  not  replicating  the  results from Franken et al. (14), which demonstrated a more marked reduction of aortic dilation rate with the addition of losartan in haploinsufﬁcient Marfan patients.
+
+STUDY LIMITATIONS
+
+Although the initial trial was double-blinded, the extension was open-label. However, experts who measured aorta size by CMR were blinded to the medical treatment and clinical information. A further limitation was the absence of  a control  group  with  placebo,  which  was  not  possible for  ethical  reasons  because  beta-blockers  are accepted as the standard treatment. The ﬁnal sample size of the study was not large; however, with the use of CMR for aortic diameter measurements, it sufﬁced to detect clinically signiﬁcant differences of 2 mm in 6 years in the aortic root dilation rate between  treatment groups (97% statistical power to detect a difference $0.4 mm/year). In the current study, 85%
+of patients underwent FBN1  gene  analysis,  82%  of whom had pathogenic mutations. The proportion of negative  FBN1  in  our  study  (18%)  was  similar to other  clinical  trials:  15%  in  the SARTAN, 16.2% in the COMPARE, and 11.7%  in  the  Pediatric  Heart Network.
+
+CONCLUSIONS
+
+The results showed no differences in long-term treatment with  losartan  compared  to  atenolol  in aortic root and ascending aorta dilation rate or the frequency  of  clinical  events  in  MFS patients. Although losartan was not proven superior to atenolol in monotherapy in MFS patients, it might be a useful, low-risk alternative to beta-blockers in the long-term management of these patients.
