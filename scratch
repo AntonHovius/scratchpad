@@ -1,134 +1,64 @@
-I would like to talk today
-about technical improvements in single-cell RNA sequencing, delivering the promise of
-RNA therapeutics. And for this, I would like to start today with current integrated systems
-for single-cell sequencing, which includes systems that are able to dispense cells with
-the quality control of collected cells, as well as the downstream applications you can
-perform in the same instruments. And we are talking in general about RNA single-cell sequencing.
-But even I would like to present to you today other approaches that can be performed, such
-as single-cell genomic DNA or some other applications regarding epigenetics, such as ATECH single-cell.
-Afterwards, I would like to talk or to give you some improvement of a single-cell collection,
-presentation, and especially chemistry, then to talk about the way you can perform transcriptomics
-within a cell in terms of evaluating messenger RNAs or poly-A transcript, but also, at the
-same time, to evaluate a large number of long-gnogolin RNAs. And finally, to talk about multi-omics
-data analysis, in this specific case, collecting genotype to phenotype within the same cell.
-So I think that screen is light. As you can see, in the panel, you can see a microfluidic
-droplet system from the 10 Genomics. And as you sure know, most of the people who work
-in single-cell sequencing is using this platform. And more than 95% of the data reported in
-the Cell Atlas is coming from this platform. And it's, of course, the best platform in
-terms of high throughput, because you are able to evaluate several thousand of cells
-at once, especially helpfully when you are starting with very heterogeneous tissues.
-But we in our core unit realize that for many, many, and not only clinical projects,
-this platform has limitations, because most of the people need, if you are interested
-or interested in specific cells or sub-population cells starting with heterogeneous tissues,
-mostly you need to select cells based on different methods. But working with the 10
-genomics, one of the methods is the fact sorting prior to sequencing or to preparation of libraries.
-Apart of this, most of the people are working with single nuclei because of cell sizing
-limitations, and all cells over 35 microns are mostly not assessed during the procedure
-of cell capturing in the 10 genomics. Especially the chemistry the system is using the 10 genomics,
-they are using oligo-dt for cDNA synthesis, and the cDNA synthesis is like partially,
-so you are able to sequence only short pieces nearly to the three-end or five-end of the
-transcript, but the full length approach is still missing. For this reason, we introduce
-an additional platform, which is well established as well as the 10 genomics. This is the isolate.
-The isolate platform is working basically using a nanowell plate. In this specific case,
-we are using a plate with 5,184 nanowells, and the instruments offer an integrated imaging
-system. Mostly you can work with a maximal of two fluorescence types. We are mostly using
-DAPI in order to distinguish living cells, and Texas Red to discard dead cells from the
-single cell suspension. Apart of this, the imaging system allows you to distinguish or
-to eliminate from the further processes cell debris or clustering or cell doublets and
-so on. The most beautiful thing for the isolate, and I'm sure you all know this, is the flexibility
-in chemistry for RNA sequencing, because you can access a transcript very similar to the 10x
-sequencing with three-end fragments, but even you have the choice to go for full length approaches,
-and the instruments allow you even to develop some self-made protocols or custom solutions
-that are not part of the, let's say, portfolio from Takara chemistry. What we are currently doing
-are only full length approaches because of clinical questions, and we aim to evaluate
-a part of the transcriptomics. We would like to see how worse the variant calling there
-and possibly to associate this with transcriptomic evidence. The disadvantage of the Cell N1
-is that the system, you started with 5,000 cells, but once we proceed with the quality control,
-only between 1,000 and 1,600 cells will be selected for further processing,
-and this is, of course, especially in comparison with the 10 genomics to less.
-For this reason, in panel C, you can see an additional instrument, this is the seven one instrument is basically a dispenser, and that have the best and really beautiful quality imaging system, because the system, allow you to send it sales.
-Based on morphology, independent of cell sizing, because you can access cells, common cells that vary in a range of sizing from two to over 500 micrometers.
-A part of this, we are using this to in order to improve the capturing rate from thousand cells to three or four thousands, nearly 4000 cells during one run.
-And for this, the first things we did in panel D is to combine the isolate with the seven one using the seven one for cell dispensing and quality controls, using the Kakara 5184 chip.
-This is the first things we implemented in our laboratory, and we are performing a quality control there, and once we dispense cells, we can use exactly the same chip and put this in the isolate for for more or for specific downstream applications and today I would like to
-focus on RNA sequencing. For people that probably doesn't know how it works, the isolate is selecting by using a software from the company, is selecting a living cells, and by staining and imaging, you can discard for example in panel B, you can see
-multiple cells, or in the middle the dead cells because the stain even in Texas parade is visible, or cell debris, or cell debris, so that you can select the only good cells prior sequencing.
-And here, I would like to present you.
-This is a show by the first time in our group, because we currently are cooperating with people from the anatomy from the group from slavery.
-They are working with one says, and in this case you can see peripheral nervous systems says that has a sizing.
-First of all, a very unusual morphology.
-And second, you will find cells between 200 and 500 micrometers in size, and by using three different fluorophores we could visualize this in the isolate, and currently we are able to assess these difficult cells and sequence these in a whole cell manner,
-without a nuclei isolation.
-The next.
-So for this reason we decide to, to combine the seven one system for cell dispensing based on cell morphology, based on cell sizing, or the instrument allow you to work from one to four different floor force in order to sell it real says from a
-tissues.
-And once we proceed with the quality control. We are working on the isolated then by using exactly the same chip. So, the whole procedure from cell dispensing to library preparation occurs, using one chip step.
-So in the isolate the first things we are doing then after collection is proceed with the RT pre amplification incorporation of indexing mostly this is the protocol for full length approaches because we are performing only those.
-And then we proceed after indexing with the pigmentation reaction and the library. And this process from the cell dispensing till the library generation takes two days fully automated.
-And most important thing is when we started with this with this novel system. We, we started this because people working, for example in the cardiology, asked for the sequencing for in in whole cells mode for says, such as a cardio myocytes and
-actually sure no cardio myocytes are very unstable cells and very unusual in morphology because the, the, the living cells, and what says are those with this cylindrical morphology you can see in the middle.
-And for this reason we check how the instrument access says over, let's say, hundred microns and you can see in the, in the first panel on the left.
-And we started with a normal nuclei isolation after tissue dissociation, and the dispensing of cells is going very straightforward, as well as the, as the library preparation.
-This is no problem, and you can call it says within 30 minutes in the middle one, you have the an example of tissue dissociation and reach cardio myocytes and you can see different morphologies they are all of them are cardio myocyte but you can see
-that the other cells that are not seeing rate is like apoptotic is not cell dead but nearly to. And we could assess based on this morphology in the UMAP, you can see two different clusters that are coming from these different morphologies.
-And this kind of things you can also evaluate assessing quality control, and in order to perform a qualities in morphology and evaluate the state of the cell.
-And in the, in the last picture. This is an example from IPSS differentiated to cardio myocytes.
-These are cells with normal sizing from 24 to 50 micrometers, and the system is working really fine with this.
-And
-in the next picture, we tested the, the, the performances of the single cell RNA sequencing, working with nuclei, and we have several oncological approaches in this specific case, we started or tested the system with a frozen biopsies in this specific case what
-you can see is the evaluation of three different patients with pancreatic cancer. And what you can see are three different phenotypes of pancreatic cancer.
-And this study has been done by using nuclei because once you have frozen tissues, you are not able to work with cold cells because they are not living cells and for this reason we decided to match or to, or to make a match study, starting with the original
-tumors, or from the patients, then the researchers working in this, in this project, and they develop a PDX mice using the original tumor patient, as well as organoids.
-And we perform with these different three patients, a study demonstrating that nuclei is working really, really fine with the system. And if you take a look on the other part of the slide, the frozen tissues exhibit always less amount of exonic reads, which is normal
-but what we see from the data analysis is that is still good for for aging expression analysis.
-So to put this in summary, the use of the single one and isolating combination, allow you to perform from the dispensing to the library preparation.
-All in by using one step, only one chip, allow you the analysis of all cells independent of sizing and cell morphology from two to 500 micrometers.
-And allow the analysis of living cell, as well as fixed cells, which has been already tested by us in our laboratory. Analysis of nuclei, starting with frozen tissues.
-And the most interesting thing is the flexibility in chemistry for different approaches of single cell RNA sequencing. The three end approach, the full length approach, improving the data analysis for detection variants,
-and the three end approach, the full length approach, improving the data analysis for detection variants, and the three end approach, improving the data analysis for detection variants.
-And the last developed method by us was the single cell total RNA-Seq, which allow you
-a beautiful identification of long non-coding RNAs beside the messenger RNAs.
-Now we are coming to the second part of the presentation, because the first things we
-did in cooperation with the group from Andrew Fisher from the German Center for Neurodegenerative
-Disease was to evaluate the performances of the total single cell RNA-Seq on the isolate
-fully automated, and Andrew is working on the identification of several long intergenic
-non-coding RNAs in human brain, a part of this astrocyte might probably have neuron-specific
-studies, and even to find some long-coding RNAs in heart, heart-specific long non-coding
-RNAs.
-For this reason, we started with him, and Andrew is working since two or three years
-deep here with the 10 genomics and generates a lot of data, and the first things we did
-is to compare the performances of full-length approaches independent of single cell total
-or the normal full-length approach.
-I have to say that all approaches are not done by using Oligo-DTP, always we are talking
-about random hexamers in order for full coverage of transcriptomics, and what you can see is
-this is a pilot data, specifically for neuron-specific long non-coding RNAs data, so first of all,
-a global U-map from the different kind of neuron-specific, and you can see that by evaluating
-isolate in full-length mode, the sensitivity of the assays in terms of detection of messenger
-RNAs or coding RNAs are higher than in the PENIX, and especially if you are specifically
-looking at long non-coding RNAs, you can see that the isolate is the platform of choice.
-Now we are coming specifically because we are proposing a combination of instruments,
-cell and one isolate, and for this, of course, we need to evaluate methodologically how good
-is the performances of the combination when we are comparing this with the isolate, which
-is, besides the PENIX, a well-established single cell system, and the goal was first
-to evaluate technical improvements by using this combination, and the second goal was
-to bioinformatically demonstrate how good you can access coding variants that could
-probably be associated to transcriptomic markers in order to define phenotypically differences
-between samples. For this reason, we choose a special cohort of samples. In this case,
-we took progeria samples. These are dermal fibroblasts from patients, and we chose six
-different progeria samples that have been previously described as phenotypically different,
-and we include, of course, two controls, and started with the wet lab performances in which we
-dispense exactly the same samples on one Takara isolate chip, 5184 nanowells, and on the other
-hand, three different chips that should work only in the isolate as usual or as standard, let's say.
-Why this? Because in order to compare the methods, we need to generate after-quality
-contracts about the same amount of cells, and you can see that in both submerging data from
-three chips in the isolate, we got something like 3,100 cells, very comparable to the performance
-of the combination by using only one chip. In the table, you can see how many cells we
-dispense from the very beginning and how much cells, per sample, we got after-quality controls.
-I have to say that this quality control is not regarding the instrument itself. It's after
-bioinformatic analysis evaluating housekeeping genes, performances, number of genes detected per
-cell, in media, and whatever. So after the first bioinformatic data-quality control.
-The first results we get technically, again, we started with exactly the same amount of cells for
-the isolate alone, as well as for the combination, which were about 3,000 cells. Then we sequenced
-exactly in the same way to get about 400,000 reads in media per cell for both approaches.
-And the first thing we observed is that by using the isolate alone, you will be able to
-assess much more exonic reads. 
+Introduction
+
+Marfan syndrome (MFS) is an inherited disorder caused by muta- tions in the FBN1 gene encoding the fibrillin-1 protein.1,2 Abnormal fibrillin results in higher signalling through the TGF-b pathway3 with increased phosphorylation of Smad2/3, which may contribute to aortic medial degeneration. Aortic complications, such as dilation, dissection, and rupture are the leading causes of MFS-related mor- tality. Advances in diagnosis and surgical prophylactic ascending aor- ta replacement have improved the prognosis and life expectancy of patients.4,5 Therapy with b-adrenergic blockers has shown a bene- ficial effect in reducing aortic dilation progression,6 – 8 and has been proposed as the standard treatment for MFS.9 However, angioten- sin II-receptor blockers are emerging as potential alternatives to b-blockers. Losartan is an angiotensin II type 1 (AT1) receptor an- tagonist which attenuates canonical and non-canonical transforming growth factor-b (TGF-b) signalling in the aorta and inhibits TGF-b-mediated activation of extracellular signal-regulated ki- nase.10 This drug significantly reduced the aortic dilation rate, first in a Marfan mouse model and later in a small observational study in children with MFS.11 The COMPARE study revealed a significantly lower aortic dilation rate in patients treated with losartan-b-blocker therapy compared with b-blockers alone. However, these results were not confirmed in the recent Marfan Sartan trial in which 86% of patients received b-blocker therapy.13 Furthermore, a large clin- ical trial including children and young adults showed no benefit in aortic root dilation assessed by echocardiography when losartan was compared with atenolol over a 3-year period.14 Discrepancies in the results of these trials may be due to treatment study designs (additional beneficial effect of losartan superiority over b-blockers), differences in drug doses, study population, or imaging modality used to measure aorta dilation. To date, no prospective randomized clinical trial has compared the benefits of losartan vs. atenolol as a monotherapy in the treatment of MFS assessed by magnetic reson- ance imaging (MRI). Magnetic resonance imaging permits accurate and tridimensional measurement of aortic dimensions and is of cru- cial importance in MFS patients in whom aortic root asymmetry is not uncommon15 (Figure 1). The primary aim of the study was to compare the efficacy of lo- sartan and atenolol in the prevention of progressive aortic dilation in MFS patients. A secondary aim of the study was to compare the in- cidence of clinical end-points (aortic dissection or rupture, need for cardiac surgery and death) during follow-up between the losartan and atenolol groups.
+
+Methods
+
+Trial design
+
+A phase IIIb, randomized, parallel, double-blind study of 140 MFS patients was conducted at the Hospital Universitario 12 de Octubre (Madrid, Spain) and Hospital Universitario Vall d’Hebron (Barcelona, Spain) between 2008 and 2013. Losartan and atenolol were purchased and the manufacturers had no role in the study. The trial complied with the Declaration of Helsinki and was approved by the Ethics Committees of the hospitals. The trial is registered in the EU Clinical Trial Registry. 2007-001125-97 and in ClinicalTrials.gov NCT01145612. All patients (or their guardians) provided written informed consent.
+
+Participants
+
+Inclusion criteria for participation in the study were: MFS diagnosis (based on original Ghent criteria),16 age between 5 and 60 years and maximum aortic root diameter ,45 mm. Exclusion criteria were: his- tory of aortic dissection or cardiac/aortic surgery, grade III/IV aortic regurgitation, history of angioedema or any other intolerance to angiotensin-converting enzyme inhibitors, AT1 receptor blockers or b-blockers, treatment with other cardiovascular drugs, pregnancy or planned pregnancy in the next 3 years, history of asthma, respiratory fail- ure, kidney, or neurological disease. Patients previously receiving b-blockers went through a 4-week ‘wash-out’ period.
+
+Interventions
+
+In both treatments, the starting dose was 25 mg/day for the first 15 days, rising to 100 mg depending on clinical tolerance and ambulatory blood pressure (BP) measurements. In patients with body weight ,50 kg, the dose was individually adjusted according to body weight, starting at 12.5 mg/day for the first 15 days and rising to 1.4 mg/kg/day depending on clinical tolerance.
+
+Outcomes
+Primary end-point: changes in aortic root and ascending aorta diameter indexed by body surface area (BSA) on MRI after 36 months of treat- ment with losartan vs. atenolol.
+Secondary end-point: events during follow-up including aortic dissec- tion or rupture, need for aortic intervention or heart surgery and death. Participant monitoring Patients were closely followed by clinical and transthoracic echocardi- ography (TTE) controls every 6 months by the same investigators at each hospital. Clinical follow-up included specific inquiry into the pres- ence of symptoms and treatment compliance. Ambulatory 24-h blood pressure monitoring (SpaceLabs 90217 monitor, SpaceLabs Medical, Redmond, WA, USA) was carried out at baseline and at the end of the study, or when the patient presented symptoms of hypotension. Blood pressure was taken every 20 min dur- ing the daytime and every hour during the night. Measured values of sys- tolic blood pressure (SBP), diastolic blood pressure (DBP), and heart rate were stored and evaluated according to the established recommendations.
+
+Magnetic resonance imaging of the entire aorta was performed at baseline before the start of the study medication and at the end of the 3-year treatment. All MRI studies were performed at the two cen- tres using a 1.5-T system (Signa Excite GE, Milwaukee, WI, USA).
+Steady-state free precession cine acquisitions were obtained in held expiration and ECG synchronization using the following para- meters: field of view 350 × 297 mm, matrix size 256 × 192, repeti-tion time, 50 ms, and slice thickness 6 mm. Perpendicular cineimages were obtained at the level of the sinuses of Valsalva, and as- cending aorta (at the level of the pulmonary bifurcation) using the double-oblique technique. The three cusp-to-commissure diameters were measured at the level of the aortic root at the end-diastolic frame; the maximum of the three diameters at baseline and at follow- up were considered for analysis (Figure 1). Maximum ascending aortic diameter was also measured. All measurements were indexed by BSA. Measurements were taken by a blinded observer (G.T.) using the QFlow software package, version 5.5 (Medis, Leiden, the Netherlands).
+
+Intra- and inter-observer variability of aortic diameter at the sinus of Valsalva by MRI showed excellent reproducibility (intra-and inter- observer mean difference of 0.2 + 1.5 and 0.3 + 1.6 mm, respectively; intra-class correlation coefficient of 0.94, P , 0.001 and 0.93, P , 0.001, respectively). Randomization and masking
+Eligible patients were randomly assigned to receive losartan or atenolol. The trial followed a double-blinded design. A computer-generated scheme using randomly permuted blocks of 10 was used. A sealed opa- que envelope containing information on the type of study medication assigned and random allocation number was provided for each patient by the Pharmacy Department. Containers and both study medications were identical in colour and shape. The randomization code was not available to the investigators, thereby ensuring masking assignment.
+
+Statistical analysis
+
+Sample size calculation was based on the primary end-point. An annual aortic root dilation rate of 1 mm17 with an approximate SD of 2 mm would be expected. Considering a two-sided hypothesis testing, patients per group was estimated to detect a difference between treat- ments, in the total dilation rate, of 1 mm after 3 years (a ¼ 0.05; b ¼ 0.2). The final sample size was set at 140 patients (70 per group) to allow for drop-outs and patient loss during follow-up.
+Analysis of covariance with the baseline aortic dimension as covariate was employed to evaluate the effect of losartan and atenolol on the aor- tic dilation change. Multiple testing correction was performed using a permutation approach of 1000 permutations.12 Covariance was em- ployed for subgroup analyses according to age, sex, baseline mean arter- ial pressure, and baseline aortic dimensions. Finally, multiple linear regression analysis was used to adjust for some differences between groups in baseline covariates of sex, age, and BSA. Analyses were made following the modified intention-to-treat principle. Therefore, all patients in each group who had received at least one dose of the study treatment assigned were considered for analysis. Outcomes in all patients with MRI were analysed and missing data in the primary out- come variable were excluded from the analysis. Qualitative variables were expressed as absolute and relative frequencies, and quantitative variables as the mean and SD. Statistical significance was considered
+when P ≤ 0.05 (two sided). The comparison of continuous variables
+was made by Student’s t-test or the repeated measurement analysis of variance (ANOVA). When normality was not assumed, non-parametric analyses were made instead.
+Statistical procedures were performed using SPSS 19.0 software (IBM, Chicago, IL, USA) and R statistical package (Rstudio, 0.98 953; R base, 3.2.1).
+
+Role of the funding source
+
+The trial was funded and sponsored entirely by the Spanish Ministry of Science, which had no participation in the study design, data collection, analysis, or manuscript writing.
+
+Results
+
+One hundred and forty patients (25.2 + 13.7 years, 60% females) were enrolled: 70 randomly assigned to receive losartan and 70 to atenolol (Figure 2). At baseline, no statistically significant differences were observed in patient characteristics and aorta size measure- ments between groups (Table 1). Although genetic analysis was not an inclusion criterion, 119 patients underwent genetic analysis, of whom 97 (82%) were FBN1 positive. A losartan dosage of 100 mg or 1.4 mg/kg daily was achieved in 66 patients (94.3%). In four pa- tients, losartan was reduced to 50 mg/daily owing to dizziness caused by low BP. An atenolol dosage of 100 mg or 1.4 mg/kg daily was achieved in 64 patients (91.4%). In six patients, atenolol was re- duced to 50 mg/daily owing to extreme fatigue in two, dyspnoea in one, and dizziness in three. Maximum doses in patients ,50 kg was 1.29 + 0.12 mg/kg/day in the losartan group and 1.33 + 0.15 mg/kg/ day in the atenolol group. Four patients prematurely stopped losar- tan and six atenolol.
+
+During follow-up, five patients suffered aortic events: two re- quired prophylactic aortic root surgery, one a type A dissection treated surgically, and two type B dissections, one of whom died in the acute phase. Although four of the five patients with aortic complications were from the atenolol group, no statistically signifi- cant difference was observed between treatment groups (P ¼ 0.366). Fifty-one and 48 patients in the losartan and atenolol groups, re- spectively, underwent 24-h BP monitoring at baseline and after 3 of losartan was observed on aortic root diameter regardless of sex, age group, and baseline mean BP (Figure 5).
+
+Discussion
+
+To our knowledge, this is the first randomized, double-blind trial using MRI to compare the efficacy of losartan and atenolol, given as monotherapy, to prevent aortic dilation in MFS patients. The changes in aortic root and ascending aorta indexed maximum dia- meters over 3 years of treatment did not differ significantly between treatment groups. The results of the present study did not demon- strate differences between treatments in their efficacy to prevent aortic dilation in MFS.
+
+Several studies reported that b-blocker therapy delays the pro- gression of aortic root dilation6 – 8 and is the standard treatment for the prevention of aortic complications in MFS patients. How- ever, other trials identified a subset of MFS patients not responding to b-blocker treatment.18 – 20 It is generally admitted that the effi- cacy of b-blockers depends on their ability to reduce the mechanical impact on the aortic wall by limiting the force of left ventricular ejec- tion (i.e. dp/dt) and heart rate. In a mouse model of MFS, losartan induced a decrease in TGF-b signalling and was superior to atenolol in preventing aortic root dilation and elastic fibre degeneration.10 However, a recent publication suggested that TGF-b hyperactiv- ity represents a marker of impaired tissue repair rather than the initial trigger of arterial disease and argued for a treatment strategy that would target both promiscuous AT1 receptors and TGF-b sig- nalling without interfering with the early protective role of TGF-b activity.21
+Later, several small observational studies in children showed a sig- nificant reduction in aortic root enlargement in patients receiving lo- sartan in addition to b-blockers.11,22,23 However, a recently published trial including a large cohort of children and young adults found no significant differences in the rate of aortic root dilation by TTE between the losartan and atenolol groups.14 In that study, aten- olol dose was markedly higher than in ours (2.7 + 1.1 mg/kg/day) and losartan similar, leading to a slight but significant decrease in mean DBP in the atenolol group. This higher dose of the b-blocker and its effect on blood pressure could have favoured a b-blocker re- duction in the aortic growth rate. Moreover, aortic dilation in our cohort (mean aortic root Z-score 3.2 + 2.2) was smaller than in the Lacro study (median Z-score 4.0). Therefore, our results are in line with those results of the Pediatric Heart Network trial but extend the information on the effect of losartan vs. atenolol treat- ment as a monotherapy in an older MFS population (with .50% of patients over 25 years of age) and with less dilated aortic root
+(Z-score ≤3 in 40% of patients).
+Two recent European trials reported discrepancies in the bene- ficial effect of losartan added to previous medical b-blocker treat- ment.12,13 The COMPARE trial,12 a randomized, open-label, controlled trial in 145 adult MFS patients, found a significantly lower aortic dilation rate in those treated with the losartan-b-blocker combination compared with b-blocker therapy alone. However, in the Marfan Sartan trial,13 a randomized, double-blind, placebo- controlled trial in 303 adult patients, the aortic root diameter was not modified by the adjunction of losartan to baseline therapy over the 3-year treatment. Although both trials included a similar profile of MFS patients, and b-blockers were continued in .75% of patients, doses of this drug were not pre-established. Maximum losartan doses and their effects may be influenced by this combin- ation. In fact, during the course of the study, losartan treatment was prematurely stopped in 15% of patients in the COMPARE trial and 28% of patients in the Marfan Sartan trial. Since both b-blockers and losartan might be effective in MFS, a synergistic but different ef- fect of the combination of both treatments cannot be ruled out. As in other trials, no significant relationship was found between the re- duction in BP and changes in aortic size. However, comparison of two ambulatory BP determinations or in the scheduled visits may not be sufficiently robust to rule out an interaction between aortic size changes and the decrease in BP. As in the COMPARE study, we used MRI as one of the most accurate techniques for evaluating aor- tic size enlargement. In MFS, the frequent aortic root asymmetry may be a limitation when measuring maximum aortic root diameter by TTE15 (Figure 1). In addition, inter-observer variability, particular- ly in patients with a chest deformation, is better by MRI than TTE. Since the maximum diameter indicates the management and risk of aortic complications in MFS, we considered the change in max- imum diameter to be the primary end-point. In our series, we found that maximum growth was observed at the maximum basal diam- eter. As in other studies, a reduction in indexed aortic root diameter was observed in treated MFS patients, particularly in the younger population.11,14,22 – 24 A possible explanation for the decrease in indexed aortic root could be that body size increases more rapidly than aorta size in most children.
+Despite the promising findings of losartan treatment of Marfan in mouse models, these results were not confirmed in our study. Al- though we have no clear explanation for these discrepancies, one possibility could be the wide genetic heterogeneity of MFS pa- tients25 compared with the homogeneous genetic background of the mouse model. Recently, the type of FBN-1 mutation—based on biochemical effects on the fibrillin-1 protein—was related to the losartan effect, which was more beneficial in patients with hap- loinsufficiency compared with dominant negative mutations.26
+Our study has significant differences with previously published trials since the effects of losartan and atenolol, as monotherapy, in maximum indexed aortic root diameter changes was determined by MRI. Most studied patients were adults with mild– moderate aorta dilation, and target treatment doses were reached in the majority of cases. The results of our study did not show significant differences in aortic dilation progression between losartan and atenolol over the 3-year treatment, and in fact there was a trend towards a greater re- duction in the indexed diameter in the losartan group. Therefore, it seems reasonable to consider losartan as an alternative to atenolol, especially in patients with intolerance or side effects to this drug. Other trials are currently underway, and a planned meta-analysis may permit a more precise definition of the role of losartan in the management of MFS patients.27
+
+Limitations
+
+Age heterogeneity could have been a limitation of the present study. Nevertheless, we normalized aorta size by BSA, as did most studies, to reduce variability. Although the final sample size in our study was not large, it sufficed to detect clinically relevant differences of 1 mm/ 3 years in the aortic root dilation rate between treatment groups.
+
+Conclusions
+
+The results of our study showed no differences in the effects of lo- sartan and atenolol on changes in aortic root and ascending aorta diameters in MFS patients. Although the study was neutral for the primary end-point, further studies are required to ascertain the ef- fect of losartan therapy in certain subgroups of patients regarding aortic root diameter, age, or type of gene mutation.
