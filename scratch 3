@@ -1,34 +1,4 @@
-The study of genes is a perennial topic in biology. Our
-understanding of genes—the nucleotide sequence, the
-gene structure, the gene function and expression—has
-reached an unprecedented level [1]. In eukaryotes, the
-genetic material DNA binds to histones to form nucleosomes, which fold and condense to form chromatin
-[2, 3]. In the processes of DNA replication and transcription, some regions of chromatin are opened [4], i.e.
-depleted of nucleosomes. Regulatory elements [such as
-transcription factors (TFs)] can bind to the exposed DNA
-sites in open regions and regulate DNA replication or
-transcription [5]. In addition, the chromatin structure can
-undergo dynamic epigenetic modifications, such as DNA
-methylation [6], histone modification [7] and chromatin
-remodelling [8], which are difficult to fully detect by
-traditional molecular techniques.
-Because the interaction between protein and DNA
-inf luences gene expression, it has been the focus of
-intense interest. Immunoprecipitation is a technique for
-protein enrichment using the principle of antibody binding, which is the foundation of chromatin immunoprecipitation coupled with deep sequencing (ChIP-seq) [9].
-The DNA bound to the target is then sequenced to reveal
-its binding sites in the genome [10, 11]. More recently,
-ATAC-seq, which uses Tn5 transposase to cleave only
-those regions of DNA that are not protected by bound
-proteins [12, 13], has been used to assay dynamic changes
-of chromatin structure. ATAC-seq and ChIP-seq are
-therefore highly consistent and complementary. ATACseq and ChIP-seq can be integrated to explore the mechanism of protein regulation of gene expression, making
-it possible to identify transcriptional differences caused
-by transcription initiation regulatory factors. Together
-with RNA-seq, which determines the expression level of
-specific RNA, ATAC-seq and ChIP-seq can be integrated
-to provide a unified picture of gene expression regulation
-[14]. Integrated analysis of multiple sequencing methods
-provides a powerful means for annotating the functional
-features of the genome, revealing the mechanisms of
-gene regulation at the frontiers of biology [15].
+The study of genes is a perennial topic in biology. Our understanding of genes—the nucleotide sequence, the gene structure, the gene function, and expression—has reached an unprecedented level. In eukaryotes, the genetic material DNA binds to histones to form nucleosomes, which fold and condense to form chromatin. In the processes of DNA replication and transcription, some regions of chromatin are opened, i.e., depleted of nucleosomes. Regulatory elements [such as transcription factors (TFs)] can bind to the exposed DNA sites in open regions and regulate DNA replication or transcription. In addition, the chromatin structure can undergo dynamic epigenetic modifications, such as DNA methylation, histone modification, and chromatin remodeling, which are difficult to fully detect by traditional molecular techniques.
+
+Because the interaction between protein and DNA influences gene expression, it has been the focus of intense interest. Immunoprecipitation is a technique for protein enrichment using the principle of antibody binding, which is the foundation of chromatin immunoprecipitation coupled with deep sequencing (ChIP-seq). The DNA bound to the target is then sequenced to reveal its binding sites in the genome. More recently, ATAC-seq, which uses Tn5 transposase to cleave only those regions of DNA that are not protected by bound proteins, has been used to assay dynamic changes of chromatin structure. ATAC-seq and ChIP-seq are therefore highly consistent and complementary. ATAC-seq and ChIP-seq can be integrated to explore the mechanism of protein regulation of gene expression, making it possible to identify transcriptional differences caused by transcription initiation regulatory factors. Together with RNA-seq, which determines the expression level of specific RNA, ATAC-seq and ChIP-seq can be integrated to provide a unified picture of gene expression regulation. Integrated analysis of multiple sequencing methods provides a powerful means for annotating the functional features of the genome, revealing the mechanisms of gene regulation at the frontiers of biology.
+
