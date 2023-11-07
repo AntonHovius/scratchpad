@@ -1,0 +1,39 @@
+ABSTRACT
+
+Harnessing the power of single-cell genomics technologies, single-cell Hi-C (scHi-C) and its derived technologies provide powerful tools to measure spatial proximity between regulatory elements and their target genes in individual cells. Using a global background model, we propose SnapHiC-G, a computational method to identify long-range enhancer-promoter interactions from scHi-C data. Applied to datasets generated from mouse embryonic stem cells and human brain cortical cells, SnapHiC-G demonstrates high sensitivity in identifying these interactions. Additionally, it can pinpoint putative target genes for non-coding WAS variants, and the genetic heritability of neuropsychiatric diseases is enriched for single nucleotide polymorphisms (SNPs) within SnapHiC-G-identified interactions in a cell-type-specific manner. Overall, SnapHiC-G serves as a robust tool for characterizing cell-type-specific enhancer-promoter interactions from complex tissues and can aid in the discovery of chromatin interactions significant for gene regulation in biologically relevant cell types.
+
+INTRODUCTION
+
+Chromatin spatial organization is critical for genome function and gene regulation. Chromatin conformation capture technologies, such as Hi-C, have enhanced our understanding of the 3D genome structure, revealing chromosome territories, A/B compartments, topologically associating domains (TADs), and chromatin loops. Bulk Hi-C analysis pools cells to generate a population-averaged chromatin contact map, but this does not reflect the individual cellular chromatin features, which show substantial variability in chromatin loops and interactions. This variability suggests that genome organization is more dynamic than previously understood, with evidence of significant cell-level heterogeneity, mirroring the stochastic nature of gene expression in mammals. Studying single-cell chromatin features thus offers new insights into genome function and gene regulation.
+
+Recent advances in single-cell genomics allow for the profiling of 3D genome structures in single cells with remarkable throughput and resolution. The scHi-C technique follows the bulk Hi-C protocol with additional steps for single-cell isolation or barcoding. The scHi-C data processing includes steps such as read alignment, deduplication, filtering, and binning to create a contact matrix for analysis. However, scHi-C data is characterized by extreme sparsity and limited capture efficiency, necessitating imputation methods to enhance the signal-to-noise ratio for chromatin feature detection. Innovations in data imputation and modeling now permit the reconstruction of 3D genome structures and feature extraction from single cells.
+
+Detecting chromatin loops or significant long-range chromatin interactions from bulk Hi-C data has led to the development of various computational methods. These methods generally fall into two categories: global background-based methods and local background-based methods. SnapHiC and SnapHiC2, our previous works, implement data imputation followed by a combination of these models to identify chromatin loops from single-cell data, mainly identifying CTCF-anchored structural loops. However, a method explicitly dedicated to identifying enhancer-promoter interactions from scHi-C data has been lacking.
+
+To address this, we introduce SnapHiC-G, which utilizes a global background model to specifically identify long-range enhancer-promoter interactions from scHi-C data. Our analysis of scHi-C datasets from mouse embryonic stem cells and human brain cortical cells indicates that SnapHiC-G not only outperforms SnapHiC but also surpasses methods designed for bulk Hi-C data, providing higher sensitivity with comparable precision in pinpointing long-range enhancer-promoter interactions.
+
+Overview of the SnapHiC-G algorithm
+
+The SnapHiC-G algorithm consists of four components:
+
+Imputing chromatin contact probabilities in every single cell
+Distance-stratified normalization of imputed contact probabilities
+Filtering candidate bin pairs
+Identifying statistically significant long-range enhancer-promoter interactions
+Given single-cell contact matrices, SnapHiC-G first applies the RWR algorithm to generate imputed contact probability matrices for every single cell using a sliding window approach. The imputed contact probabilities are converted into distance-stratified Z-scores. This accounts for the dependence between contact probability and genomic distance between two bins. For identifying enhancer-promoter interactions, SnapHiC-G filters bin pairs based on transcript start sites and available epigenetic annotations to obtain a set of candidate bin pairs that span between gene promoters and cis-regulatory regions. It then defines enhancer-promoter interactions based on the global background by applying the one-sample t-test for each tested bin pair across all single cells of the same cell type. Bin pairs with FDR less than 0.1 and t-statistics greater than 3 are identified as significant interactions. In the analysis, all scHi-C data are binned into 10Kb resolution unless stated otherwise.
+
+Benchmarking with mouse embryonic stem cells (mESCs)
+
+SnapHiC-G was applied to single-cell Hi-C data from 742 mouse embryonic stem cells. This data was compared with results from other methods designed for bulk Hi-C data. To benchmark, a reference list of significant interactions was constructed using identified loops from deeply sequenced bulk Hi-C data and significant interactions from various sources. The union of all reference interactions was used, focusing on bin pairs with a genomic distance between 20Kb and 1Mb. The same filtering step used in SnapHiC-G was applied to outputs from other methods for a fair comparison.
+
+With the full set of mESCs, SnapHiC-G identified more significant enhancer-promoter interactions than other methods. It reached a genome-wide power of 80%, recovering most interactions in the reference list. Bulk Hi-C methods missed most reference interactions without imputing single-cell contact probabilities. The performance with fewer cells was also assessed, showing that SnapHiC-G retained its performance effectively even with a reduced number of cells.
+
+The precision of identified interactions across the six methods was evaluated against the same reference list. Identified interactions were ranked by their significance, and precision for the top interactions was calculated. SnapHiC-G showed a comparable or better performance in terms of precision among the most significant interactions.
+
+Enrichment of brain eQTL-TSS pairs in human cortical cells
+
+SnapHiC-G-identified enhancer-promoter interactions were evaluated for functional characteristics by re-analyzing data from human prefrontal cortical cells. eQTL data from various brain banks and a control sample from liver eQTL data were used. Cell types were classified based on DNA methylome. SnapHiC-G was applied to major cell types separately, and the enrichment of identified interactions as eQTL-TSS of Gene pairs was computed. The odds of a bin pair being an eQTL-TSS pair were significantly higher for significant interactions than pseudo bin pairs.
+
+Gene expression patterns of cell-type-specific enhancer-promoter interactions
+
+Gene expression patterns were evaluated in cell-type-specific interactions. Cell-type-specific interactions were defined as exclusively present in only one cell type. After down-sampling cells to match the numbers across cell types, genes with promoters overlapping with these specific interactions were selected. Gene expression levels were analyzed from RNA sequencing data from corresponding cell types. It was observed that gene expression levels were higher for genes involved in cell-type-specific interactions in the respective cell type, adding evidence that predicted enhancer-promoter interactions could provide valuable cell-type-specific information.
