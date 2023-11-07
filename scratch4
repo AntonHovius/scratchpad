@@ -1,0 +1,876 @@
+Polygenic Risk Score of PTSD
+
+significant loci were identified in the subset of samples of
+European ancestry (n = 23,212 PTSD cases; n = 151,447
+controls) and one significant locus was identified in the
+subset of samples of African ancestry (n = 4,363 PTSD
+cases; n = 10,976 controls) in the PGC-PTSD Freeze 2
+GWAS (Nievergelt et al., 2019). The genome-wide significant
+loci and variants in linkage disequilibrium implicated zinc
+finger DHHC-type palmitoyltransferase 14 (ZDHHC14), parkin
+RBR E3 ubiquitin protein ligase (PARK2), kazrin (KAZN),
+TMEM51 antisense RNA 1 (TMEM51-AS1) and zinc finger
+protein 813 (ZNF813) in European samples and long intergenic
+non-protein coding RNA 2335 (LINC02335), microRNA 5007
+(MIR5007), PCBP2 overlapping transcript (PCBP2-OT1), long
+intergenic non-protein coding RNA 2571 (LINC02571) and
+major histocompatibility complex B (HLA-B) in African samples.
+However, these did not replicate in an independent cohort
+consisting of European- and African-American participants
+(Gelernter et al., 2019) and to date, GWAS have yet to identify
+robust genetic variants associated with PTSD.
+This could be due to the fact that PTSD has a complex
+genomic architecture, with potentially thousands to hundreds of
+thousands of common single nucleotide polymorphisms (SNPs),
+each with a small effect size, contributing to the risk for or
+resilience against toward developing the disorder. Aggregating
+the effects of these common SNPs, using individual or summary
+level statistics from GWAS data, can provide insight into the
+degree to which genetic variants influence the phenotype of
+interest. For instance, at a population level, the phenotypic
+variation observed in a cohort of women of European ancestry
+with PTSD explained by common SNPs (h2 SNP ), was shown to be
+∼ 29% (Duncan et al., 2018b). Interestingly, this was considerably
+higher than the h2 SNP observed in the corresponding cohort
+of male participants (Duncan et al., 2018b). Further, the SNPbased heritability estimates for PTSD are comparable to other
+complex psychiatric disorders such as schizophrenia, bipolar
+disorder and major depressive disorder (MDD) (Duncan et al.,
+2018b), highlighting the significant intrinsic contribution of
+many common genetic variants toward the risk for PTSD.
+To assess genetic liability at an individual level, one can
+employ the use of polygenic risk scores (PRS). A PRS is the
+sum of all the risk alleles carried by an individual weighted
+by their effect size for a particular trait (Lewis and Vassos,
+2020). In other words, PRS represent the additive effect of
+thousands to hundreds of thousands of genetic variants as a
+single measure of genetic risk, on an individual level, toward
+developing a particular trait. Therefore, PRS has the potential
+to identify individuals at risk for developing PTSD following
+trauma exposure and in fact, the genetic risk for PTSD (PTSDPRS) has been shown to be more predictive of PTSD diagnosis
+than trauma exposure severity (Waszczuk et al., 2020). The
+predictive utility of PRS can also explain some of the phenotypic
+variance in response to trauma exposure, for example, PTSDPRS explained 4.68% of the variation observed in PTSD onset
+and 4.35% of PTSD symptom severity in a cohort of war
+veterans (Misganaw et al., 2019). Delineating individuals based
+on their PRS for developing PTSD may allow for improved
+early prevention and treatment interventions to be put in place
+
+rely on clinician-based interviews and self-report measures from
+patients. There is a need to identify individuals at risk for
+developing PTSD in order to implement early intervention
+strategies or treatment following trauma exposure. However,
+individual susceptibility, heterogenous symptoms and varying
+degrees of trauma severity make predicting, diagnosing, and
+treating PTSD challenging.
+There are several risk factors associated with the development
+of PTSD, such as level of education (Polimanti et al., 2019;
+Shalev et al., 2019), the experience of childhood trauma (child
+neglect and emotional, physical and sexual abuse) (McLaughlin
+et al., 2017) and prior exposure to community and interpersonal
+violence (Nöthling et al., 2019; Shalev et al., 2019). In
+addition, females are more likely to develop PTSD than males
+(Christiansen and Hansen, 2015). Further, PTSD is frequently
+associated with symptoms of anxiety and depression (Barbano
+et al., 2019) and often co-occurs with metabolic syndrome (MetS)
+(Rosenbaum et al., 2015; Penninx and Lange, 2018). MetS, a risk
+factor for cardiovascular disease, is characterized by obesity, high
+blood pressure, dyslipidemia and insulin resistance (Alberti et al.,
+2009). Individuals with PTSD are at a greater risk for developing
+MetS compared to age- and sex-matched controls (Rosenbaum
+et al., 2015; Wolf et al., 2017). The pathophysiology underlying
+PTSD and its associated co-morbidities remain largely unknown.
+Although PTSD is conditional upon an extrinsic event(s), there
+is strong evidence to support the genetic heritability of PTSD
+(Duncan et al., 2018a). It is, however, unclear how trauma
+exposure and genetic risk interact to result in PTSD and MetS comorbidity. Therefore, understanding the genetic architecture of
+PTSD may help elucidate the physiological mechanisms that lead
+to the development of the disorder and help identify and treat
+individuals at risk.
+Candidate gene approaches have reported an association
+between PTSD and variants in genes such as FKBP prolyl
+isomerase 5 (FKBP5), ADCYAP receptor type I (ADCYAP1R1)
+and C-reactive protein (CRP) (reviewed by Daskalakis et al.,
+2018). Briefly, these genes implicate hypothalamic-pituitaryadrenal axis dysfunction, glucocorticoid dysregulation, and
+immune system abnormalities in PTSD. These associations are
+supported by several other studies. For instance, increased hair
+cortisol levels were observed in South African women with
+PTSD compared to trauma-exposed controls (Heuvel et al.,
+2020) and PTSD severity has been associated with higher
+levels of inflammation (Fonkoue et al., 2020). However, the
+Psychiatric Genomics Consortium (PGC) (Sullivan et al., 2018)
+have highlighted the power of genome-wide association studies
+(GWAS), which simultaneously test the association of common
+genetic variants across the genome with a phenotype of interest,
+thereby limiting the usage and bias of candidate gene studies in
+the field of psychiatric genetics.
+The PGC-PTSD Workgroup, an international collaboration
+investigating the genomics of PTSD, have published two of
+the largest PTSD GWAS to date (Duncan et al., 2018b;
+Nievergelt et al., 2019). The PGC-PTSD Freeze 1 dataset
+(n = 4,522 PTSD cases; n = 15,548 controls) did not identify
+any genome-wide significant loci (Duncan et al., 2018b).
+However, after acquiring additional samples, two independent
+
+Participants were excluded if they had any major psychiatric
+disorder (e.g., severe psychotic or bipolar disorder), or any
+neurological disorder.
+
+following trauma or in anticipation of trauma exposure (e.g.,
+emergency service personnel).
+Polygenic risk scores can also be used to examine shared
+genetic risk between traits of interest such as associated comorbidities (e.g., MetS) and other psychiatric disorders. For
+example, a modest genetic risk overlap was observed between
+PTSD and MDD (Duncan et al., 2018b) and MDD-PRS
+significantly predicted PTSD diagnoses in a cohort of 9/11
+responders (Waszczuk et al., 2020) as well as in a civilian Peruvian
+cohort (Shen et al., 2020). Shared genetic risk strongly suggests
+joint underlying genetic and physiological mechanisms exist
+between traits and PRS can therefore also be used to identify
+shared molecular pathways to provide insight into mechanisms
+underlying co-morbid disorders.
+The studies introduced above have mainly been conducted in
+cohorts comprising samples of European ancestry, which has left
+a significant gap in knowledge regarding the genetic contribution
+to developing PTSD in individuals that are not of European
+ancestry. For example, due to discrepant allele frequencies
+between population groups, a risk variant may not be associated
+with a trait of interest in one population group compared
+to another. The differences in genomic architecture between
+various ancestries also impacts the utility of PRS amongst
+different ancestral groups (Misganaw et al., 2019). This highlights
+the need for genetic studies consisting of individuals of nonEuropean ancestry in order to increase the diversity of psychiatric
+genetics research so that genetic-based treatment/intervention
+strategies and the clinical use of PRS can be beneficial to all
+population groups.
+This study, comprised of a civilian cohort of individuals selfidentified as belonging to the South African Colored population
+group, examined cross-sectionally, aimed (i) to identify genetic
+variants associated with PTSD by conducting a GWAS metaanalysis (n = 343 controls; n = 260 PTSD cases), (ii) to
+determine the predictive utility of PRS for PTSD in this
+South African cohort, (iii) in order to investigate shared genetic
+mechanisms between PTSD and MetS. This study represents the
+first GWAS and PRS analysis of PTSD in a uniquely admixed
+South African sample.
+
+Demographic and Clinical Assessment
+Sociodemographic data, such as gender, ethnicity, age, education,
+employment, income, and marital status, were ascertained
+using a demographic questionnaire. Clinicians diagnosed
+participants with PTSD, and assessed PTSD symptom severity
+over the previous month, using the Clinician-Administered
+Posttraumatic Stress Disorder Scale (CAPS-5) for Diagnostic
+and Statistical Manual of Mental Disorders, 5th edition (DSM-5)
+(Weathers et al., 2015). In addition, PTSD symptom severity
+(range 0–80) was also determined using the PTSD Checklist
+for DSM-5 (PCL-5), with a cut-off point between 31 and
+33 suggestive of probable PTSD diagnoses (Blevins et al.,
+2015). Where possible, control participants were matched
+on ethnicity, age, gender and trauma-exposure, based on
+the DSM-5 criteria.
+Metabolic syndrome screening was conducted using the WHO
+STEPS instrument (WHO, 2008). Blood pressure, heart rate,
+height, weight, and waist circumference were measured. In
+addition, venous blood samples were drawn after an overnight
+fast (of at least 8 h), to assess levels of fasting blood glucose,
+triglyceride and high-density lipoprotein cholesterol (HDL-C).
+Participants were diagnosed with MetS if they were found
+to have three out of five of the following harmonized JIS
+criteria: (i) raised waist circumference (≥90 cm); (ii) raised
+triglycerides (>1.7 mmol/l); (iii) low HDL-C (men < 1.0 mmol/l,
+women < 1.3 mmol/l); (iv) raised blood pressure ≥130/85 mmHg
+or on hypertension treatment; and (v) raised fasting glucose
+≥5.6 mmol/l or on diabetes treatment. These criteria and cutoff values represent a widely used consensus definition of MetS
+derived from a meeting of several health organizations (Alberti
+et al., 2009). In addition, body mass index (BMI), an alternative
+clinical measure of adiposity to asses MetS (Gurka et al., 2018),
+was used as a continuous measure of cardiovascular disease risk
+in the PRS models.
+
+Genotype Quality Control and Imputation
+DNA from participants with PTSD and controls was extracted
+from blood samples using the Gentra Puregene Blood
+Kit (Qiagen), according to the manufacture’s protocol, in
+the Neuropsychiatric Genetics Laboratory at Stellenbosch
+University, South Africa. One-hundred and sixty-three of the
+controls and 164 participants with PTSD were genotyped using
+the Infinium Multi-ethnic Global Array (MEGA, Illumina)
+(Wave 1) and 221 controls and 117 participants with PTSD
+were genotyped using the Infinium Global Screening Array
+(GSA, Illumina) (Wave 2). All genotyping was conducted at the
+Broad Institute (Cambridge, MA, United States) in collaboration
+with the Psychiatric Genomics Consortium and Cohen Veteran
+Society. Note, due to the complex genomic architecture
+of the study population, a 5-way admixed population, the
+samples genotyped through this collaboration were not
+included in the PGC-PTSD Freeze 2 GWAS meta-analysis
+and therefore, the discovery and target datasets used for the
+
+MATERIALS AND METHODS
+Study Population
+Participants for this study were recruited between May 2014
+and June 2017 as part of the SHARED ROOTS project,
+conducted in Cape Town, South Africa. The study was
+approved by Stellenbosch University’s Health Research Ethics
+Committee (HREC: N13/08/115). All research participants
+provided written informed consent to take part in the
+study. Participants were included if they were willing and
+able to provide informed consent; were 18 years or older;
+were able to read and write Afrikaans or English; were not
+pregnant; and were self-identified as being South African
+Colored. The South African Colored population is a fiveway admixed population group, located in the Western
+Cape Province of South Africa (Uren et al., 2016, 2020).
+
+Table 1). A fixed-effects meta-analysis was then conducted across
+Wave 1 and Wave 2 using p-values and direction of effect,
+weighted by sample size, in METAL (Willer et al., 2010). A pvalue below 5 × 10−8 was considered statistically significant,
+according to Bonferroni multiple test correction for one million
+SNPs. A SNP with a p-value below 5 × 10−6 was considered to be
+suggestively associated with PTSD.
+
+PRS analysis (see section “Polygenic Risk Score Analysis”)
+are independent.
+Genotyping quality control procedures were performed
+separately on the genotype data obtained from Wave 1 and
+Wave 2 samples using PLINK 1.9 (Chang et al., 2015). Briefly,
+variants were restricted to SNPs located on chromosomes 1–
+22 and were excluded if they had a minor allele frequency
+(MAF) < 1%, a missingness rate >3%; a significantly different
+call rate between cases and controls; or failed Hardy-Weinberg
+Equilibrium in control samples (p-value < 1 × 10−6 ) (Schurz
+et al., 2019). Individual samples were removed if they were found
+to have excessive missingness, a mean heterozygosity rate greater
+than three times the standard deviation, and mismatching sex
+information (Marees et al., 2018). Related samples were identified
+using the pairwise identity-by-descent function in PLINK 1.9 and
+PI_HAT > 0.2 (Anderson et al., 2010; Marees et al., 2018). Thirtythree and 31 samples were removed due to relatedness in Wave 1
+and Wave 2, respectively.
+Genotype principal component analysis (PCA) of PTSD
+cases and controls was performed using SMARTPCA
+(Patterson et al., 2006; Price et al., 2006), after restricting
+SNPs to variants with rsIDs only; removing SNPs in linkage
+disequilibrium (–indep-pairwise 50 5 0.2); and removing
+related individuals (PI_HAT > 0.2) (Anderson et al., 2010;
+Marees et al., 2018). In addition, SMARTPCA was used to
+show how the South African Colored population fits in among
+global ancestral groups. This was done by merging these
+genotype data with 1000 Genomes Project (1KGP) Phase3 data
+(Auton et al., 2015).
+In order to increase coverage, genotype imputation was
+conducted using SHAPEIT2 (Delaneau et al., 2011) and the
+positional Burrows-Wheeler transform (PBWT) (Durbin, 2014)
+via the Sanger Imputation Server (McCarthy et al., 2016)
+and the African Genome Resource (AGR) reference panel1 .
+Supplementary Figure 1 illustrates that imputation with the
+AGR reference panel produced higher median quality scores
+compared to other available reference panels. The AGR has
+previously been shown to be the most suitable, publicly available
+imputation panel for the South African Colored population
+(Schurz et al., 2019). Following imputation, SNPs with an INFO
+Score > 0.8, a MAF > 1% and a missingness rate <3% were
+retained for further analysis.
+
+Functional Annotation
+The GWAS meta-analysis output was annotated according to
+the human genome build GRCh37 (hg19) using the default
+settings of the SNP2GENE function in FUnctional Mapping and
+Annotation (FUMA), a web-based tool (Watanabe et al., 2017).
+SNPs were considered independent from each other at a default
+r2 value of 0.6.
+
+Polygenic Risk Score Analysis
+PRSice version 2.3.1 (Choi and O’Reilly, 2019) was used to
+calculate PTSD polygenic risk scores (PTSD-PRS) in Wave
+1 and Wave 2 participants using summary statistics from
+the PGC-PTSD Freeze 2 GWAS dataset (Nievergelt et al.,
+2019), available at https://www.med.unc.edu/pgc/downloadresults/ptsd/, to assess whether PTSD-PRS was associated with
+PTSD status and/or PTSD symptom severity, as measured
+by CAPS-5 and PCL-5, MetS diagnosis (having at least
+three out of five criteria) and BMI. PTSD-PRS analysis
+was conducted using the overall PGC-PTSD Freeze-2 GWAS
+summary statistics (ALL), as well as data from European(EURO) and African American- (AfAM) ancestry subsets in
+order to determine which discovery dataset is best suited for this
+study population.
+In R (R Core Team, 2020), PTSD-PRS, at eight p-value
+cut-off thresholds (PT1 = 0.001, PT2 = 0.05, PT3 = 0.1,
+PT4 = 0.2, PT5 = 0.3, PT6 = 0.4, PT7 = 0.5 and PT8 = 1),
+were regressed on the first five principal components in both
+Wave 1 and Wave 2 participants. The phenotype of interest
+was then regressed on the standardized, combined residuals.
+The variance explained by the regression model was denoted
+by Nagelkerke’s pseudo R2 value if the outcome variable was
+binary (PTSD case/control status and MetS diagnosis) or R2 if
+the outcome variable was continuous (PTSD symptom severity
+score (CAPS-5 and PCL-5) and BMI) (Choi and O’Reilly, 2019).
+A p-value of less than 0.00625 was determined as significant
+according to Bonferroni multiple test correction (p < 0.05/8
+p-value thresholds).
+
+GWAS Meta-Analysis
+Genome-wide association analysis was conducted following
+quality control and imputation within Wave 1 (controls, n = 141;
+PTSD, n = 153) and Wave 2 (controls, n = 202; PTSD, n = 107).
+Logistic regression was performed to test the association between
+genotype and PTSD diagnosis with the first five PCs included as
+covariates (Supplementary Figure 2). Sex was not included as
+a covariate because the number of male and female participants
+did not differ between the case and control groups (χ2 , p > 0.05,
+Table 1). However, age was included as an additional covariate
+in the Wave 2 GWAS because control subjects were significantly
+older than participants with PTSD in (Wilcoxon, p < 0.001,
+1
+
+Statistical Analysis
+In order to determine differences between PTSD cases and
+controls, within each Wave, non-parametric data (age,
+CAPS-5 score, and PCL-5 score) were analyzed using a
+Wilcoxon test and represented by the median and interquartile range (IQR). Differences in categorical variables (sex
+and MetS diagnosis) between PTSD cases and controls were
+analyzed using a Chi-squared (χ2 ) test. Statistical analysis
+was conducted in R 4.0.2 or higher (R Core Team, 2020).
+The package ggplot2 (Wickham, 2016) was used to generate
+the figures in R.
+
+
+TABLE 1 | Descriptive characteristics of Wave 1 and Wave 2 participants.
+Wave 1
+
+Wave 2
+
+Controls (n = 141)
+
+PTSD (n = 153)
+
+p-value
+
+Controls (n = 202)
+
+PTSD (n = 107)
+
+p-value
+
+Age, years
+
+42.0 (IQR = 21.7)
+
+40.6 (IQR = 17.6)
+
+0.232
+
+50.8 (IQR = 22.1)
+
+43.9 (IQR = 18.9)
+
+<0.001***
+
+Sex (Female)
+
+75.1% (n = 106)
+
+74.5% (n = 114)
+
+1
+
+59.9% (n = 121)
+
+69.1% (n = 74)
+
+1
+
+MetS (Yes)
+
+27.6% (n = 39)
+
+28.7% (n = 44)
+
+0.937
+
+34.6% (n = 70)
+
+31.8% (n = 34)
+
+0.702
+
+BMI
+
+27.3 (IQR = 8.6)
+
+28.5 (IQR = 10.5)
+
+0.724
+
+28.4 (IQR = 10.3)
+
+28.7 (IQR = 10.7)
+
+0.722
+
+CAPS-5 total score
+
+4.0 (IQR = 11.0)
+
+37.0 (IQR = 13.0)
+
+<0.001***
+
+6.0 (IQR = 11.0)
+
+34.0 (IQR = 16.0)
+
+<0.001***
+
+PLC-5 total score
+
+9.0 (IQR = 17.2)
+
+53.0 (IQR = 19.5)
+
+<0.001***
+
+10.5 (IQR = 24.8)
+
+48.0 (IQR = 24.0)
+
+<0.001***
+
+MetS, metabolic syndrome; BMI, body mass-index; CAPS-5, clinician-administered PTSD scale for DSM-5; PCL-5, PTSD checklist for DSM-5; *** indicates a p-value
+less than 0.001.
+
+source of this deflation by plotting the expected vs. observed
+p-values per MAF bin.
+The web-based tool FUMA, annotated the seven independent
+lead SNPs of suggestive significance, to five genes: PARK2, CUB
+and Sushi multiple domains 1 (CSMD1), dedicator of cytokinesis
+(DOCK4), chromosome 3 open reading frame 80 (C3orf80),
+and ATP binding cassette subfamily A member 8 (ABCA8)
+(Table 2). Gene-based analysis further revealed PARK2 as a
+genome-wide significant gene (p = 2.6473 × 10−6 ) out of a total
+of 18,861 protein-coding genes. Gene-set analysis did not reveal
+any pathways significantly associated with PTSD.
+
+RESULTS
+Study Population Description
+One-hundred and forty-one controls and 153 participants with
+PTSD remained after 33 samples were excluded from the
+Wave 1 dataset due to relatedness estimates determined during
+genotype data quality control procedures. Similarly, 31 samples
+were excluded from the Wave 2 dataset due to relatedness
+which left 202 controls and 107 participants with PTSD for
+association analysis.
+Within the Wave 1 dataset, controls were of similar age
+to PTSD participants. Participants with PTSD did not differ
+from controls on BMI. Both PTSD and control groups had a
+similar proportion of female participants as well as a similar
+number of participants with a MetS diagnosis (Table 1). Wave
+2 controls were significantly older than participants with PTSD
+(Wilcoxon, p < 0.001, Table 1). There were no significant
+differences in BMI, sex and MetS frequency between PTSD cases
+and controls in Wave 2.
+All participants were self-identified as belonging to
+the South African Colored population group. The genetic
+distribution of this population within the global ancestry groups
+is illustrated by Figure 1. The South African Colored population
+group cluster separately from the other global population groups
+based on their genetic data. Supplementary Figure 2 illustrates
+that participants with PTSD and controls were evenly distributed
+across the principal components.
+
+Polygenic Risk Score Analysis
+Posttraumatic stress disorder-polygenic risk scores were
+calculated in Wave 1 and Wave 2 participants (controls n = 343;
+PTSD, n = 260) using the PGC-PTSD Freeze 2 GWAS summary
+statistics (ALL, overall; EURO, European-ancestry; and AfAM,
+African American-ancestry) to assess whether PTSD-PRS was
+associated with PTSD status, PTSD symptom severity and MetSrelated phenotypes in this South African sample. Regression
+analysis obtained the lowest p-value at PT2−ALL = 0.05 using the
+overall (ALL) PGC-PTSD Freeze 2 GWAS summary statistics
+(p = 0.00786). This explained 1.31% of the PTSD case/control
+phenotypic variation, as measured by Nagelkerke’s pseudo R2
+value (Figure 3). Likewise, regression analysis for CAPS-5 total
+scores obtained a p-value of 0.036 at PT2−ALL = 0.05, which
+explained 0.86% of the phenotypic variation in CAPS-5 total
+scores (Figure 3). PTSD-PRS was associated with PCL-5 score
+(PT2−EURO = 0.05, R2 = 0.00737, p = 0.0353, Figure 3); and MetS
+diagnosis (PT1−EURO = 0.001, Nagelkerke’s pseudo R2 = 0.00969,
+p = 0.0217, Figure 4) when using the European PGC-PTSD
+Freeze 2 GWAS summary statistics. However, these results
+were not significant after Bonferroni correction for multiple
+testing (Bonferroni corrected p-value = 0.00625). Further,
+PTSD-PRS calculated using the African American (AfAM)
+PGC-PTSD Freeze 2 GWAS summary statistics (Figures 3, 4)
+was not associated with any of the phenotypes of interest (PTSD
+diagnosis, PTSD symptom severity, MetS diagnosis, and BMI).
+
+GWAS Meta-Analysis
+Six-hundred and three samples were included in the metaanalysis. No SNPs reached genome wide significance
+(p < 5 × 10−8 , Figure 2A). However, seven independent
+loci reached a suggestive level of significance (p < 5 × 10−6 ,
+Figure 2A and Table 2): rs2315551 (chr6, p = 2.262 × 10−7 ),
+rs9458519 (chr6, p = 3.212 × 10−7 ), rs58910976 (chr8,
+p = 1.388 × 10−6 ), rs2084346 (chr11, p = 2.202 × 10−6 ),
+rs1419748 (chr7, p = 3.178 × 10−6 ), rs6791269 (chr3,
+p = 3.884 × 10−6 ) and rs77235638 (chr17, p = 4.006 × 10−7 ),
+with a consistent direction of effect between the two datasets.
+A quantile-quantile (Q-Q) plot indicates the absence of
+confounding population structure (genomic inflation, λ = 0.992,
+Figure 2B). However, the Q-Q plot appears visibly deflated.
+Supplementary Figure 4 illustrates an investigation into the
+Frontiers in Neuroscience | www.frontiersin.org
+
+DISCUSSION
+To the best of our knowledge this is the first GWAS and PRS
+analysis of PTSD in the South African population. Despite the
+
+FIGURE 1 | Principal component analysis with 1000 Genomes Project Phase 3 data. Shared Roots (A–C) Wave 1 and (D–F) Wave 2 participants and 1000
+Genomes Phase 3 samples plotted together based on principal components (PC1–3) from overlapping SNP data. Shared Roots participants (gray) cluster separately
+from the other population groups. AFR, African ancestry; AMR, Admixed American ancestry; EAS, East Asian ancestry; EUR, European ancestry; SAS, South Asian
+ancestry; and SAC, South African Colored (Shared Roots).
+
+FIGURE 2 | GWAS meta-analysis of PTSD in a South African cohort. (A) A Manhattan plot representing the GWAS meta-analysis (controls, n = 343; PTSD cases,
+n = 260) of Wave 1 and Wave 2. The red line indicates the genome-wide significance threshold after Bonferroni correction (p < 5 × 10−8 ) and the blue line
+represents a suggestive significance threshold (p < 5 × 10−6 ). Seven independent loci reached a suggestive level of genome-wide significance. SNP rs2315551 on
+chromosome six had the smallest p-value (p = 2.262 × 10−7 ). (B) A Q-Q plot of the expected vs. observed p-values obtained from the meta-analysis illustrates the
+absence of confounding population structure (genomic inflation, λ = 0.992).
+
+modest sample size (n = 603), the results of the GWAS metaanalysis suggest that variants in PARK2 may be associated with
+the development of PTSD, which is in agreement with the largest
+PTSD-GWAS meta-analysis conducted to date (Nievergelt et al.,
+2019). In addition, PRS indicate a possible role of PTSDassociated genetic risk in PTSD-MetS comorbidity, despite
+the discovery datasets being mostly made up of samples of
+European ancestry.
+
+The seven independent lead SNPs of suggestive evidence for
+association (p-value below 5 × 10−6 ) in the GWAS meta-analysis,
+implicated five genes in the development of PTSD (PARK2,
+CSMD1, DOCK4, C3orf80, and ABCA8). Briefly, variants in
+CSMD1, encoding the CUB and Sushi multiple domains 1
+protein, have previously been associated with PTSD following
+combat exposure in participants from the Marine Resiliency
+Study, with 85% of the participants being of European ancestry
+
+(Nievergelt et al., 2015). Further, CSMD1 has also been implicated
+in schizophrenia (The Schizophrenia Psychiatric Genome-Wide
+Association Study Consortium, 2011), bipolar disorder (Woo
+et al., 2017) and cognitive function (Norwegian/Scandinavian
+cohort) (Athanasiu et al., 2017). CSMD1 plays a role in
+the complement system which is involved in the immune
+system but also in synaptic pruning, a crucial mechanism
+in neurodevelopment and cognitive processes (Stephan et al.,
+2012). DOCK4 has been implicated in schizophrenia and autism
+spectrum disorder (Koomar and Michaelson, 2020). DOCK4
+regulates adherens junctions between cells and plays a role
+in dendritic growth, neurodevelopmental processes as well as
+neurotransmission (Ueda et al., 2008).
+Of significance interest is the suggestive association between
+variants in the PARK2 gene (also known as PRKN) and PTSD
+in this South African cohort, because PARK2 has previously
+been associated with PTSD in the largest PTSD-GWAS metaanalysis conducted to date (Nievergelt et al., 2019). PARK2
+encodes parkin, an E3 ubiquitin ligase involved in many cellular
+processes throughout the human body. For reasons yet to be
+fully understood, although evidence points to mitochondrial
+dysfunction, loss of function associated with variants within
+PARK2 results in the degeneration of dopaminergic neurons,
+specifically (Shaltouki et al., 2015; Sassone et al., 2017; Noda
+et al., 2020). Hence, PARK2 genetic variation has been found
+to be associated with decreased levels of dopamine and the
+development of Parkinson’s disease (PD) (Blauwendraat et al.,
+2020). It is notable that war veterans with PTSD are found to
+have increased risk of developing PD compared to matchedcontrols (White et al., 2020). Moreover, symptoms of PTSD, such
+as intrusive (re-experiencing) thoughts, avoidance behaviors,
+hyperarousal and negative alterations in cognition and mood can
+be explained by a deficit in dopaminergic signaling in the brain
+(reviewed by Torrisi et al., 2019) and may unite various PTSD
+comorbidities, such as MDD (Ney et al., 2021). Therefore, it is
+plausible that genetic variation in PARK2 contributes to deficits
+in dopaminergic signaling observed in the pathophysiology of
+PTSD. Importantly, even though results from this study are in
+line with existing literature, before conclusions can be drawn,
+further work is needed to validate these findings.
+Results from the PRS analysis demonstrated that PTSDPRS constructed from the overall PGC-PTSD Freeze 2 GWAS
+summary statistics was associated with a diagnosis of PTSD in
+this South African population. Further, PTSD-PRS was associated
+with MetS diagnosis, but not BMI, when using a subset of PGCPTSD Freeze 2 that only consisted of data from individuals of
+European-ancestry. This finding supports the well-documented
+association between PTSD and MetS, suggesting that the genetic
+variants involved in the development of PTSD also play a role
+in the development of MetS. This may provide insight into
+mechanisms underlying PTSD-MetS comorbidity.
+Results from the PRS analysis need to be considered with
+caution because the PTSD-PRS only explains a small proportion
+of the observed phenotypic variation (<2%) in PTSD and MetS
+and, further, the significant findings do not withstand correction
+for multiple testing. This may be because the use of PRS is
+less applicable in non-European populations due to the current
+
+Suggestive significance level, p < 5 × 10−6 . Chr, chromosome; A1, minor allele; MAF, minor allele frequency; LD, linkage disequilibrium. a Estimated Beta calculated from Z-score.
+
+3
+–
+ABCA8
+rs77235638
+
+Intergenic
+
+17
+
+66957323
+
+T
+
+C
+
+0.0561
+
+0.0518
+
+−4.611
+
+−0.5670
+
+4.006 × 10−7
+
+2
+
+–
+
+1
+
+++
+0.2636
+
+3.884 × 10−6
+−4.617
+
+4.659
+0.4693
+
+0.1052
+0.1531
+
+0.4983
+G
+
+C
+T
+
+T
+111374061
+
+159954631
+3
+
+7
+
+TRIM59-IFT80
+rs6791269
+
+Intronic
+
+DOCK4
+rs1419748
+
+Intronic
+
+−0.3628
+
+3.178 × 10−6
+
+3
+
+–
+2.202 × 10−6
+
+5
+
+++
+1.388 × 10−6
+0.3129
+4.827
+
+−4.734
+0.2492
+
+0.2832
+0.2551
+
+0.2874
+T
+
+G
+A
+
+A
+45751081
+
+3552673
+8
+
+11
+rs2084346
+
+ncRNAintronic
+
+CSMD1
+
+Uncharacterized
+
+rs58910976
+
+Intronic
+
+−0.2957
+
+–
+
+1
+++
+
+3.212 × 10−7
+
+0.2941
+
+2.262 × 10−7
+
+−5.111
+
+5.176
+0.4191
+
+0.3317
+0.3537
+
+0.4354
+C
+
+G
+T
+
+T
+162134994
+
+162739309
+6
+
+6
+
+PARK2
+rs9458519
+
+Intronic
+
+PARK2
+rs2315551
+
+Intronic
+
+−0.3013
+
+Direction of
+effect
+p-value
+Betaa
+Z-score
+MAF Wave 2
+MAF Wave 1
+A2
+A1
+Position
+Chr
+Region
+Mapped Gene
+Variant
+
+TABLE 2 | Seven independent lead SNPs (p < 5 × 10−6 ) were identified by FUMA in 603 samples.
+
+12
+
+Polygenic Risk Score of PTSD
+
+No. SNPs in
+LD (r 2 > 0.6)
+
+Swart et al.
+
+7
+
+June 2021 | Volume 15 | Article 677800
+
+Swart et al.
+
+Polygenic Risk Score of PTSD
+
+FIGURE 3 | PTSD-PRS prediction for PTSD-related phenotypes (PTSD case/control status, CAPS-5 score and PCL-5 score). The lowest p-value was obtained at
+PT2−ALL = 0.05 using the overall (ALL) PGC-PTSD Freeze 2 GWAS summary statistics (p = 0.00786). This explained 1.31% of the PTSD case/control phenotypic
+variation. However, PTSD-PRS, calculated using the PGC-PTSD Freeze 2 GWAS summary statistics, was not predictive of PTSD or PTSD symptom severity after
+Bonferroni correction for multiple testing (p > 0.00625). CAPS-5, clinician-administered PTSD symptom for DSM-5; PCL-5, PTSD checklist for DSM-5; ALL, overall
+PGC-PTSD Freeze 2 data; EURO, European ancestry; AfAM, African American ancestry.
+
+FIGURE 4 | PTSD-PRS prediction for metabolic syndrome-related phenotypes. The lowest p-value was obtained at PT1−EURO = 0.001 using the European (EURO)
+PGC-PTSD Freeze 2 GWAS summary statistics (p = 0.0217). This explained 0.97% of the variation in MetS diagnosis. Results were not significant after Bonferroni
+correction for multiple testing (p > 0.00625). MetS, metabolic syndrome diagnosis; BMI, body mass index; ALL, overall PGC-PTSD Freeze 2 data; EURO, European
+ancestry; AfAM, African American ancestry.
+
+In summary, results from this study provide supporting
+evidence for the role of genetic variation in PARK2 in the
+development of PTSD. Results from the PRS analysis suggest
+that genetic risk variants associated with PTSD are also involved
+in the etiology of MetS thereby providing insight into PTSDMetS comorbidity. Examining the genomic data in conjunction
+with additional omics data such as gene expression data and
+epigenetic data will facilitate increased confidence in the findings.
+Nonetheless, the study and findings contribute to the broader
+goal of increasing diversity in psychiatric genetics.
+
+lack of large available GWAS summary statistics from cohorts
+of non-European or admixed ancestry that can be used as
+discovery data (Vassos et al., 2017). PRS analysis performs better
+when the discovery and target datasets are derived from the
+same ancestral population (Misganaw et al., 2019). For example,
+using the PGC-PTSD Freeze 1 summary statistics, the PTSDPRS explained 4.68% of the phenotypic variation in a cohort
+of European veterans, but the predictive ability of the same
+PRS was minimal in a sub-set of veterans of African ancestry
+(Misganaw et al., 2019).
+Currently, the PGC-PTSD Freeze 2 GWAS overall summary
+statistics are the largest discovery dataset available to calculate
+PTSD-PRS (n = 206,655 participants). However, it may not be
+the most optimal discovery dataset to calculate PTSD-PRS in
+individuals belonging to the South African Colored population,
+even with the option to stratify the discovery dataset by ancestry
+because the resultant subsets are much smaller in sample
+size. This may explain why the PTSD-PRS calculated using
+the African American (n ∼ 15,000 participants) subset of the
+PGC-PTSD Freeze 2 GWAS was not predictive of any of the
+phenotypes of interest.
+In addition, ancestral make-up between the discovery and
+target datasets is suggested to be a major PRS performance
+indicator (Misganaw et al., 2019). Therefore, utilizing the overall
+summary statistics probably produced the lowest p-value because
+the dataset consists of genetic data from multiple ancestry
+groups, similar to the varying ancestral contributions to the
+South African Colored genome (Uren et al., 2016, 2020).
+However, this does not explain why we only observed an
+association between PTSD-PRS and MetS diagnosis when using
+the European subset of PGC-PTSD Freeze 2 summary statistics.
+As the psychiatric genetics field slowly diversifies its studies,
+or develops alternative techniques better suited for admixed
+populations and populations of non-European ancestry, PRS
+analysis and predictive performance in non-European cohorts
+should improve, thereby strengthening the statistical as well as
+clinical applicability of PRS across the globe.
+While this study has yielded important preliminary findings,
+there are limitations that deserve mention. First, this study
+was considerably underpowered, with a total of n = 603
+participants included in the final meta-analysis, and neither
+GWAS nor PRS results withstood correction for multiple
+testing. Results from this study require replication in more
+powerful datasets. Second, statistical genetic tools and the
+GWAS and PRS approaches used in the current study may
+not be appropriate for the complex genetic architecture of
+the South African Colored population, corroborating the
+call for analytical pipelines that are designed specifically to
+handle genomic data of complex admixed populations as
+well as the need to increase the diversity of the psychiatric
+genetics field to facilitate accuracy and clinical application of
+underlying genetic risk measures. Lastly, with larger samples,
+future work should consider analyzing PTSD and MetS by
+symptom clusters (i.e., applying a dimensional approach) rather
+than categorically by diagnosis in order to provide insight
+into the mechanisms underlying the heterogenous symptoms
+characteristic of each disorder.
