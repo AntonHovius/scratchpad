@@ -1,0 +1,82 @@
+Pre-amble
+Prior Works
+
+The authors refer to some of their prior collaborations [ref, ref] and use methodologies and conclusions from these referenced studies to inform their analysis. All three works are affiliated with the “Shared Roots” research initiative (MRC-RFA-UFSP-01-2013). Investigating genetic and environmental elements shared by PD, PTSD, Schizophrenia, and metabolic syndrome in a cohort of individuals from a similar geographic area of Cape Town, South Africa, all unrelated and with similar socioeconomic backgrounds, falling within the lower to middle income spectrum. These individuals self-identified as "mixed ancestry," a term that in South Africa refers to an ethnic group with a lineage that is a mixture of African, European, and Asian ancestries.
+
+Swart et al. 
+
+In the first instance the referenced GWAS study [ref] delved into the genetics of PTSD by establishing a method of calculating polygenic risk scores (PRS), that aim to sum the effect of numerous small-effect genetic variants. Notably, the study found specific gene loci associated with PTSD in populations of European and African descent, but these findings weren’t replicated in a separate group. This sperate group, the "independent cohort" in which the PTSD-associated loci did not replicate refers to an independent group of European- and African-American participants studied by Gelernter et al. (2019). Suggesting that the genetic variants associated with PTSD identified in the original group may not be universally applicable across different ancestries or populations. The exclusion criteria for the study were not explicitly detailed but individuals with major psychiatric disorders (such as severe psychotic or bipolar disorders) or neurological disorders were excluded from the PTSD GWAS meta-analysis to avoid confounding the PTSD-related genetic findings, and the Gelernter study in question involved more than 165,000 US military veterans. As addressed by the contemporary articles’ mention of military cohorts as likely biasing sample populations. This first reference article reiterated, as this article has done – that the genetic underpinnings of PTSD are complex and not yet fully understood. The PRS for PTSD showed promise as a more predictive tool for PTSD diagnosis than the severity of trauma exposure, indicating a significant genetic component to the disorder. The study also pointed out the necessity for genetic studies to represent diverse ancestries to truly capture the global genetic diversity in PTSD risk. 
+
+Hemmings et al.
+
+The second article to be reference was an RNA-seq study investigating the shared and disorder-specific processes underlying posttraumatic stress disorder (PTSD), Parkinson’s disease (PD), and schizophrenia in a portion of the Shared Roots cohort. It involved RNA-seq analysis of blood from cases and controls, utilizing both single-gene and network-level 
+transcriptomic approaches. Weighted gene correlation network analysis (WGCNA) clusters genes into modules based on the correlation of their expression levels. Genes within a module tend to have similar expression patterns and potentially related functions. By examining these modules, once can infer how genes may interact within networks and identify "hub genes”, central to the module's functionality. WGCNA can enable identification of broad pathological mechanisms that underlie diseases’ being studied, even if the contributing genes are disorder-specific, and in the case of this study - significant gene expression differences were indeed found primarily in the PTSD cohort. The study also highlighted key processes like ribosomal expression, inflammation, and ubiquitination across these disorders. It also identified specific pathways, such as those related to ribosomal function in PTSD and PD, as well as focal adhesion and extracellular matrix pathways in PD and schizophrenia.
+
+* Neutrophil concentrations can also vary widely due to biological variation and measurement techniques. Using the median and IQR here helps account for these sources of variability and gives a more reliable statistical description of the data.
+
+A Chi-Square statistic close to zero suggests very little difference between the observed and expected frequencies; this means the data does not provide much evidence against the null hypothesis, which posits no association between the categorical variables. 
+
+**The test statistics provided for Mets and Smoking are unusually low and the p-values are exactly 1. In standard practice, a p-value would not be exactly 1 due to the presence of sample error and natural variability but as group matching considered MetS - the p-value of 1 here most likely reflects this group matching.
+
+However, metabolic syndrome (MetS) comprises 5 risk factors primarily observed in individuals living with obesity and diabetes, and its investigation here is off the back of previous work by the authors suggesting some association between MetS and PTSD. It is highly polygenic, so there is a bit of a paradox that this creates in my eyes: the authors legitimise their tenuous findings on the basis that the sampled population is likely highly heterogenous due to admixture, ancestry etc, and given the small population sampled likely insufficient to resolve the full range of interactions at play. With that said, it could be argued that they overlaid a strong filter group pairing by MetS, in a small and geographically isolated population. Finding tenuous evidence of any significant interactions later on in the paper might do well interpreted with an additional grain of salt given this small detail.
+
+The p value of 1 in the Wilcoxon Rank-Sum Test for RIN, suggesting no statistically significant difference between the groups in RNA integrity, implying robust RNA libraries were constructed. The group highlights in their discussion that messenger RNA experiences a continuous process of synthesis and degradation, which is precisely controlled by physiological and environmental factors, and postulate that gene expression shortly after 
+exposure to trauma may exhibit variations compared to the gene expression patterns associated with long-term PTSD. However, their research did not uncover any corroborating evidence for this hypothesis, and this preliminary test is an early indication that this may prove an unfruitful endeavour in the cohort. 
+
+The median is used along with the IQR for both the RIN and neutrophil concentrations, which suggests that the researchers were interested in the central tendency and spread of the data without the influence of outliers. RIN is similar between groups and is similarly central. There is a slight difference in medians for neutrophil concentration (0.40 vs. 0.34), but the reported IQRs are the same (0.1), suggesting a similar spread of data around the median.
+
+
+
+Table 2. 
+Top 10 global cis-eQTLs and 1 global trans-eQTL identified 
+
+
+Genome-wide genotyping data were acquired for individuals with PTSD and control participants, with DNA extracted and genotyped using a commercial kit and a global array. Quality control was performed using established software, focusing on SNPs with a minor allele frequency (MAF) greater than 10%.
+
+RNA-seq data were obtained by extracting RNA from blood samples, which were then sequenced. The data were prepared for eQTL analysis by removing low-count reads, normalizing, and performing variance stabilization.
+
+Expression Quantitative Trait Loci (eQTL) analysis was conducted using the Matrix eQTL package in R, incorporating covariates such as age, sex, and various health and demographic factors. An additive linear regression model was used, and significance thresholds were set after multiple testing corrections.
+
+The controls used by the authors included the use of control participants without PTSD, quality control steps to exclude low-frequency SNPs and those in linkage disequilibrium, and adjustment for population structure via principal component analysis. They also controlled for variability in gene expression due to different blood cell types.
+
+FDR and Beta values, provide information on the strength and direction of the association between SNPs and gene expression. The FDR is a measure used to control the expected proportion of incorrectly rejected null hypotheses (false positives) due to multiple comparisons. The Beta value indicates the effect size of the SNP on gene expression. P-values indicate the statistical significance of the results. These metrics together help to understand which genetic variants have a reliable and meaningful influence on gene expression independent of PTSD status. 
+
+The eQTL analysis identified 29 cis-eQTLs and 1 trans-eQTL using a large number of SNPs, with the associations being independent of PTSD case/control status. These eQTLs were 
+
+linked to specific molecular functions and biological processes, with detailed results in Table S2 not spoken to in this report. Notably, the study's eQTL findings were verified against the GTEx database, which is a resource for studying human gene expression and regulation. However, the study did not find significant SNP-gene interactions that varied with PTSD status. The analysis suggests a complex genetic architecture where multiple loci interact in a network, rather than single SNP-gene pairs exerting large effects. The lack of any significant case-control differences in eQTL effects suggests that these genetic influences on gene expression are not unique to PTSD but rather common to both cases and controls…
+
+SNP rs8521 (chromosome 11, C > T) is associated with an increase in expression of both TAGLN and SIDT2. The authors note that variants in TAGLN and SIDT2 have been implicated in metabolic syndrome, which is relevant given the comorbidity between PTSD and metabolic syndrome. the brain uses around half of body's glucose in any one day, despite being only 2% of our body mass, so particular sensitivity to metabolic shifts in glucose sensitivity are not entirely unplausible. But the insistence and focus on the metabolic component may ignore the protein Sidt2’s role in the lysosomal membrane, where it has unknown specific function. It helps preserve lysosomal form and stability in acidic environments and is a transporter for nucleic acids, influencing both RNA and DNA management by lysosomes.
+
+SNP rs6758936 (chromosome 2, G > A) affects the expression of AC007278.2 and IL18RAP. IL18RAP and its related pathways are involved in immune response, and the association is particularly interesting as it connects to IL-6 levels in PTSD-affected individuals. Returning the point above again - lysosomes are crucial for the detection and response mechanisms of innate immune cells, so due to the potential (albeit presently uncharacterised) relationship between interleukin pathways and TAGLN / SIDT2, the upregulation of both may warrant investigation.
+
+SNP rs933489 (chromosome 1, T > C) is linked to the expression of SMG5 and C1orf85. SMG5 has been implicated in PTSD in animal models and might be influenced by treatments with antioxidant properties. The theme of oxidative stress, and pH returns.
+
+Apart from these, the study also reported on the only significant trans-eQTL independent of PTSD status, related to rs397435, which affects the expression of RPS2P5 and is involved in ribosome biogenesis and mitochondrial function—areas relevant to psychiatric disorders including PTSD.
+
+(a)	SNP rs11085906 (C > T) and its association with the gene ZNF333.
+
+ZNF333 is involved in DNA-binding transcription factor activity. The significance of this association lies in the potential involvement of zinc finger proteins, like ZNF333, in diseases affecting brain structure and functions. Zinc finger proteins can bind to astrocytes and microglia, which may influence levels of neurotoxins and oxidative stress in the brain
+
+(b)	SNP rs3774402 (A > G) and its relationship with the gene ZTBTB47. 
+
+This gene is involved in the regulation of transcription by RNA polymerase II. The study indicates that individuals carrying the T and G alleles of SNPs rs11085906 and rs3774402, respectively, might be more susceptible to the effects of oxidative stress on the brain compared to individuals with the C and A alleles.
+
+Concluding remarks 
+This report underscores the discovery of significant eQTLs, yet their explicit role in PTSD remains elusive, highlighting the need for more detailed investigation. The study illuminates the complexity of genetic factors in PTSD, suggesting that the influence on gene expression may stem from a network of multiple SNPs and genes, rather than isolated SNP-gene pairs. Moreover, the observed absence of notable trans-eQTLs signals a potential limit of current analysis methods, despite the differentiation in gene expression between PTSD sufferers and trauma-exposed controls.
+
+The study recognised and articulated the fact our current heavy reliance on databases with a pronounced Eurocentric bias underscores the necessity for broader analytical perspectives. Considering the cursory treatment of chromatin structure up until recently in the literature and its potential implications, this area presents a promising avenue for future research. In particular, chromatin conformation capture technologies, such as 3C and its advanced derivatives (4C, 5C, Hi-C), are proposed as next steps due to their ability to:
+
+Identify physical interactions between SNPs and gene promoters, offering insights into the functional impact of SNPs on gene regulation.
+
+Investigate chromatin's higher-order organization to understand its role in facilitating interactions between PTSD-related SNPs and genes.
+
+Analyse temporal dynamics by observing changes in chromatin architecture and SNP-gene interactions over time in PTSD progression.
+
+Dissect cell-type specificity, given that gene expression and eQTL effects can differ among cell types, to elucidate cell-specific chromatin interactions.
+
+Refine the understanding of genetic regulation in PTSD by pinpointing precise genomic regions that govern gene expression.
+
+
+
+Collectively, these methods could significantly advance our comprehension of the genetic underpinnings of PTSD, illuminating a path toward more effective interventions. 
+
