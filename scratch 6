@@ -1,0 +1,38 @@
+Genotype Data
+
+Genome-wide genotyping data were available for 35 individuals with PTSD and 32 control participants. DNA was extracted from blood samples using a commercial kit and genotyped with a global array at a renowned institute. Quality control of the genotyping was carried out with established software, excluding variants with a minor allele frequency of less than 10%. Only SNPs with rsID numbers were kept, and those in linkage disequilibrium were removed. Due to the complex genetic background of the study population and the high burden of multiple test correction, the data were not imputed, resulting in 108,937 SNPs being used in the subsequent eQTL analysis. To account for genetic variation due to population structure, a principal component analysis was performed. The analysis revealed an even distribution of control participants and PTSD cases across the first three principal components.
+
+The study also examined variants associated with PTSD polygenic risk, as previously outlined, focusing on SNPs with a significance level below a specified threshold. This approach resulted in 5,638 SNPs for further analysis. Principal components were again computed to refine this focused dataset.
+
+RNA-seq Data
+
+For the RNA-seq data, RNA was extracted from blood samples and assessed for quality before sequencing at a genomic centre in Australia. The library preparation and sequencing were carried out with specified protocols, and a quality check was done on the raw reads. Following quality control and trimming processes, gene-wise read counts were generated. The dataset was prepared for eQTL analysis by removing low-count reads, normalizing the data, and performing variance stabilization.
+
+Gene annotations were updated according to a standard human reference genome, and principal component analysis confirmed no outliers in the sample. However, to control for variability in gene expression due to different blood cell types, cell type composition analysis was conducted. This included incorporating the variability of specific monocytes and neutrophils as covariates in the eQTL analysis.
+
+
+eQTL Analysis
+
+Pre-processed, quality-controlled genotype data including 108,937 SNPs with a minor allele frequency (MAF) greater than 10%, and gene expression data for 11,312 genes from 35 PTSD cases and 32 controls, were analyzed to identify expression quantitative trait loci (eQTLs) using the Matrix eQTL package in R. Initially, global SNPs, which are variants that influence gene expression regardless of PTSD case or control status, were pinpointed. This involved the use of an additive linear regression model that considered both local (within 0.5 Mb of the gene) and distal (beyond 0.5 Mb) SNPs. Covariates such as age, sex, metabolic syndrome (MetS) status, RNA integrity number (RIN), smoking status, composition of CD16+ monocytes, neutrophil composition, the first five genotype principal components, and case/control status were incorporated into the analysis.
+
+The Bonferroni correction method was applied to account for multiple testing, setting the significance thresholds for SNP-gene pairs at 1.16 × 10^−7 for local pairs and 4.06 × 10^−11 for distal pairs. SNP-gene pairs that met these thresholds and had a false discovery rate (FDR) below 0.05 were deemed significant eQTLs. This procedure was also applied to a subset of 5,638 SNPs identified as being associated with PTSD polygenic risk, resulting in similar significance thresholds based on the number of SNP-gene pairs tested.
+
+Furthermore, the analysis was extended to identify interacting SNPs, which are variants whose effect on gene expression is modified by PTSD case or control status. This utilized the same regression model with an additional interaction term between SNP and case/control status. The significance thresholds for the interaction analysis were maintained at the same level as in the initial analysis. To further probe the relationships between gene expression and the predictor variables included in the models, individual SNP-gene pairs identified in the Matrix eQTL output were tested separately using the linear model function in R.
+
+QTL Annotation/Characterization
+
+For the purpose of pathway enrichment analysis, protein-protein interaction datasets were analyzed using the R package KeyPathwayMiner along with an in-app BioGRID biological network. Genomic data for candidate SNPs from the base genotyping dataset were converted into an indicator matrix, showing the presence or absence of each SNP in binary form. SNPs were then labeled with identifiers related to the gene they potentially affect. Any candidate genes without identifiers or not found in preliminary BioGRID database searches were not included in the network analyses.
+
+KeyPathwayMiner was used to identify aberrantly expressed pathways by adjusting three user-defined parameters: the search strategy, K (the number of inactive nodes included in the network), and L (the allowed number of case exceptions per node). Potential subnetworks were examined using a stepwise progression through possible K and L values, with ranges determined by applying a 10% threshold to the number of eQTLs tested and the total number of study participants.
+
+This study's small sample size (67 individuals) necessitated additional verification of SNP-gene pair associations. This verification was performed by consulting the Genotype-Tissue Expression (GTEx) Consortium database, which provides a wealth of genotype and gene expression data from numerous human donors across various tissue types. This database helped confirm whether the SNP effects on gene expression observed in blood samples were also present in brain tissue, linking the findings to neurological mechanisms associated with PTSD.
+
+To understand the function of genes from our eQTL analysis, we consulted the Universal Protein Resource Knowledgebase for information on the molecular functions and biological processes associated with each gene. A literature search was conducted to explore potential functional consequences of plausible eQTLs in PTSD. The Open Target Genetics platform was also utilized to investigate related phenotypes.
+
+In our findings, we identified several eQTLs, both cis and trans, and verified the molecular functions and biological processes of the genes involved. Not all SNP-gene pairs showed significant differences in expression when comparing cases to controls. The top SNP-gene pairs with the smallest p-values were listed, some of which were previously known eQTLs, according to GTEx. However, no significant interactions were found when considering case/control status.
+
+For the eQTLs related to the PTSD polygenic risk score, we found two significant cis-eQTLs. These findings were corroborated by known eQTL relationships in brain and whole blood tissue from the GTEx database.
+
+Phenotypes linked to the identified eQTLs were investigated, with only one eQTL previously associated with a neuroticism item from a personality questionnaire. Protein-protein interaction subnetworks were also assessed using the identified eQTLs, though one SNP-gene pair was omitted from the analysis due to the absence of a corresponding entry in the BioGRID network.
+
+Sample characteristics were presented, and exploratory models were tested for each combination of K and L values. No notable interaction effects were observed between the model nodes, and identified biological pathways were mostly self-contained with limited inter-node connectivity.
